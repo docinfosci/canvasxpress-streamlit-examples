@@ -1,5 +1,5 @@
 {
-      "version": 70.8,
+      "version": 71.3,
       "renderTo": "sunburst4",
       "data": {
             "x": {
@@ -152,15 +152,15 @@
                   ],
                   {},
                   false,
-                  1790897332149
+                  1791832221075
             ]
       ],
       "noValidate": true,
       "factory": {
-            "version": 70.8,
+            "version": 71.3,
             "specSchemaVersion": "1.0",
-            "buildDate": "10-01-2026",
-            "client": "MDo6MTo6NzAuODo6Y2FudmFzeHByZXNzLm9yZzo6",
+            "buildDate": "10-11-2026",
+            "client": "MDo6MTo6NzEuMzo6Y2FudmFzeHByZXNzLm9yZzo6",
             "siteSrc": false,
             "href": "https://canvasxpress.org/examples/sunburst-4.html",
             "services": "https://www.canvasxpress.org/cgi-bin/services.py"

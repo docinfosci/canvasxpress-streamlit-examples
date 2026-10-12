@@ -1,5 +1,5 @@
 {
-      "version": 70.8,
+      "version": 71.3,
       "renderTo": "swimmer1",
       "data": {
             "x": {
@@ -230,15 +230,15 @@
                   ],
                   {},
                   false,
-                  1790897346325
+                  1791832230588
             ]
       ],
       "noValidate": true,
       "factory": {
-            "version": 70.8,
+            "version": 71.3,
             "specSchemaVersion": "1.0",
-            "buildDate": "10-01-2026",
-            "client": "MDo6MTo6NzAuODo6Y2FudmFzeHByZXNzLm9yZzo6",
+            "buildDate": "10-11-2026",
+            "client": "MDo6MTo6NzEuMzo6Y2FudmFzeHByZXNzLm9yZzo6",
             "siteSrc": false,
             "href": "https://canvasxpress.org/examples/swimmer-1.html",
             "services": "https://www.canvasxpress.org/cgi-bin/services.py"
