@@ -1,5 +1,5 @@
 {
-      "version": 70.8,
+      "version": 71.3,
       "renderTo": "violin19",
       "data": {
             "x": {
@@ -372,15 +372,15 @@
                   ],
                   {},
                   false,
-                  1790897825876
+                  1791832744178
             ]
       ],
       "noValidate": true,
       "factory": {
-            "version": 70.8,
+            "version": 71.3,
             "specSchemaVersion": "1.0",
-            "buildDate": "10-01-2026",
-            "client": "MDo6MTo6NzAuODo6Y2FudmFzeHByZXNzLm9yZzo6",
+            "buildDate": "10-11-2026",
+            "client": "MDo6MTo6NzEuMzo6Y2FudmFzeHByZXNzLm9yZzo6",
             "siteSrc": false,
             "href": "https://canvasxpress.org/examples/violin-19.html",
             "services": "https://www.canvasxpress.org/cgi-bin/services.py"

@@ -1,0 +1,116 @@
+{
+      "version": 71.3,
+      "renderTo": "waterfall7",
+      "data": {
+            "y": {
+                  "vars": [
+                        "Million cells"
+                  ],
+                  "smps": [
+                        "Seeded",
+                        "Division",
+                        "Growth after feed",
+                        "Second feed",
+                        "Attachment",
+                        "Apoptosis",
+                        "Contamination",
+                        "Passage loss",
+                        "Clumping",
+                        "Harvest"
+                  ],
+                  "data": [
+                        [
+                              120,
+                              85,
+                              40,
+                              30,
+                              15,
+                              -45,
+                              -10,
+                              -30,
+                              -12,
+                              0
+                        ]
+                  ]
+            }
+      },
+      "config": {
+            "graphType": "Waterfall",
+            "theme": "stata",
+            "xAxisGridMajorShow": true,
+            "xAxisGridMajorColor": "rgb(200,212,214)",
+            "waterfallNetColor": "#777777",
+            "waterfallIncreaseColor": "#0072B2",
+            "waterfallDecreaseColor": "#E69F00",
+            "graphOrientation": "vertical",
+            "xAxis": [
+                  "Million cells"
+            ],
+            "xAxisTitle": "Million cells",
+            "setMinX": 0,
+            "setMaxX": 320,
+            "showLegend": false,
+            "smpTextRotate": 0,
+            "title": "A cell culture gains far more than it loses",
+            "subtitle": "Cells at each step of one passage, in millions (synthetic)",
+            "showDataValues": true,
+            "dataValuesPosition": "outside"
+      },
+      "events": {},
+      "info": false,
+      "afterRender": [
+            [
+                  "setDimensions",
+                  [
+                        636,
+                        451,
+                        true
+                  ]
+            ],
+            [
+                  "setDimensions",
+                  [
+                        800,
+                        800
+                  ],
+                  {},
+                  false,
+                  1791832908169
+            ]
+      ],
+      "noValidate": true,
+      "factory": {
+            "version": 71.3,
+            "specSchemaVersion": "1.0",
+            "buildDate": "10-11-2026",
+            "client": "MDo6MTo6NzEuMzo6Y2FudmFzeHByZXNzLm9yZzo6",
+            "siteSrc": false,
+            "href": "https://canvasxpress.org/examples/waterfall-7.html",
+            "services": "https://www.canvasxpress.org/cgi-bin/services.py"
+      },
+      "system": {
+            "browser": "Chrome",
+            "browserVersion": "153",
+            "os": "Mac OS",
+            "alt": "&#8997;",
+            "command": "&#8984;",
+            "control": "&#8963;",
+            "shift": "&#8679;",
+            "isNode": false,
+            "isReact": false,
+            "isjQuery": true,
+            "isReveal": false,
+            "isZoom": false,
+            "isIE": false,
+            "isInIframe": false,
+            "isR": false,
+            "isHTMLWidgets": false,
+            "isShiny": false,
+            "isRViewer": false,
+            "isRConsole": false,
+            "isCxplot": false,
+            "isGGMatrix": false,
+            "isJupyter": false,
+            "isVSCode": false
+      }
+}
