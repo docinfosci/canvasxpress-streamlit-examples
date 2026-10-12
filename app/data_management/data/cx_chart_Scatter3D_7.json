@@ -1,5 +1,5 @@
 {
-      "version": 70.8,
+      "version": 71.3,
       "renderTo": "scatter3d7",
       "data": {
             "fx": "sin(2y) * cos(3x) / sec(xy)"
@@ -7,7 +7,8 @@
       "config": {
             "colorBy": "Y",
             "graphType": "Scatter3D",
-            "outline3DColor": "rgba(0,0,0,0.1)"
+            "outline3DColor": "rgba(0,0,0,0.1)",
+            "smoothSurface": false
       },
       "events": {},
       "info": false,
@@ -28,15 +29,15 @@
                   ],
                   {},
                   false,
-                  1790897044335
+                  1791831890514
             ]
       ],
       "noValidate": true,
       "factory": {
-            "version": 70.8,
+            "version": 71.3,
             "specSchemaVersion": "1.0",
-            "buildDate": "10-01-2026",
-            "client": "MDo6MTo6NzAuODo6Y2FudmFzeHByZXNzLm9yZzo6",
+            "buildDate": "10-11-2026",
+            "client": "MDo6MTo6NzEuMzo6Y2FudmFzeHByZXNzLm9yZzo6",
             "siteSrc": false,
             "href": "https://canvasxpress.org/examples/scatter3d-7.html",
             "services": "https://www.canvasxpress.org/cgi-bin/services.py"

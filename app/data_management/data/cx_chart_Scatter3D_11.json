@@ -1,0 +1,82 @@
+{
+      "version": 71.3,
+      "renderTo": "scatter3d11",
+      "data": {
+            "fx": "sin(2 * x) * cos(2 * y)"
+      },
+      "config": {
+            "graphType": "Scatter3D",
+            "fxSamples": 80,
+            "aspect3D": "data",
+            "colorBy": "Y",
+            "colorSpectrum": [
+                  "#2c7bb6",
+                  "#abd9e9",
+                  "#ffffbf",
+                  "#fdae61",
+                  "#d7191c"
+            ],
+            "xRotate": 45,
+            "yRotate": 35,
+            "outline3DColor": "rgba(0,0,0,0)",
+            "smoothSurface": true,
+            "title": "High-resolution 3D Function Surface"
+      },
+      "events": {},
+      "info": false,
+      "afterRender": [
+            [
+                  "setDimensions",
+                  [
+                        596,
+                        596,
+                        true
+                  ]
+            ],
+            [
+                  "setDimensions",
+                  [
+                        800,
+                        800
+                  ],
+                  {},
+                  false,
+                  1791831937038
+            ]
+      ],
+      "noValidate": true,
+      "factory": {
+            "version": 71.3,
+            "specSchemaVersion": "1.0",
+            "buildDate": "10-11-2026",
+            "client": "MDo6MTo6NzEuMzo6Y2FudmFzeHByZXNzLm9yZzo6",
+            "siteSrc": false,
+            "href": "https://canvasxpress.org/examples/scatter3d-11.html",
+            "services": "https://www.canvasxpress.org/cgi-bin/services.py"
+      },
+      "system": {
+            "browser": "Chrome",
+            "browserVersion": "153",
+            "os": "Mac OS",
+            "alt": "&#8997;",
+            "command": "&#8984;",
+            "control": "&#8963;",
+            "shift": "&#8679;",
+            "isNode": false,
+            "isReact": false,
+            "isjQuery": true,
+            "isReveal": false,
+            "isZoom": false,
+            "isIE": false,
+            "isInIframe": false,
+            "isR": false,
+            "isHTMLWidgets": false,
+            "isShiny": false,
+            "isRViewer": false,
+            "isRConsole": false,
+            "isCxplot": false,
+            "isGGMatrix": false,
+            "isJupyter": false,
+            "isVSCode": false
+      }
+}
