@@ -1,0 +1,208 @@
+{
+      "version": 71.3,
+      "renderTo": "nonlinearfit2",
+      "data": {
+            "y": {
+                  "data": [
+                        [
+                              0,
+                              2
+                        ],
+                        [
+                              1,
+                              4
+                        ],
+                        [
+                              2,
+                              7
+                        ],
+                        [
+                              3,
+                              7
+                        ],
+                        [
+                              4,
+                              19
+                        ],
+                        [
+                              5,
+                              20
+                        ],
+                        [
+                              6,
+                              43
+                        ],
+                        [
+                              7,
+                              51
+                        ],
+                        [
+                              8,
+                              74
+                        ],
+                        [
+                              9,
+                              81
+                        ],
+                        [
+                              10,
+                              75
+                        ],
+                        [
+                              11,
+                              117
+                        ],
+                        [
+                              12,
+                              100
+                        ],
+                        [
+                              13,
+                              84
+                        ],
+                        [
+                              14,
+                              90
+                        ],
+                        [
+                              15,
+                              54
+                        ],
+                        [
+                              16,
+                              43
+                        ],
+                        [
+                              17,
+                              47
+                        ],
+                        [
+                              18,
+                              34
+                        ],
+                        [
+                              19,
+                              24
+                        ],
+                        [
+                              20,
+                              11
+                        ],
+                        [
+                              21,
+                              7
+                        ],
+                        [
+                              22,
+                              4
+                        ],
+                        [
+                              23,
+                              2
+                        ]
+                  ],
+                  "smps": [
+                        "X",
+                        "Y"
+                  ],
+                  "vars": [
+                        "S1",
+                        "S2",
+                        "S3",
+                        "S4",
+                        "S5",
+                        "S6",
+                        "S7",
+                        "S8",
+                        "S9",
+                        "S10",
+                        "S11",
+                        "S12",
+                        "S13",
+                        "S14",
+                        "S15",
+                        "S16",
+                        "S17",
+                        "S18",
+                        "S19",
+                        "S20",
+                        "S21",
+                        "S22",
+                        "S23",
+                        "S24"
+                  ]
+            }
+      },
+      "config": {
+            "graphType": "Scatter2D",
+            "showDecorations": true,
+            "showLegend": false,
+            "xAxis": [
+                  "X"
+            ],
+            "yAxis": [
+                  "Y"
+            ]
+      },
+      "events": {},
+      "info": false,
+      "afterRender": [
+            [
+                  "setDimensions",
+                  [
+                        596,
+                        596,
+                        true
+                  ]
+            ],
+            [
+                  "addNormalDistributionLine",
+                  []
+            ],
+            [
+                  "setDimensions",
+                  [
+                        800,
+                        800
+                  ],
+                  {},
+                  false,
+                  1791830968242
+            ]
+      ],
+      "noValidate": true,
+      "factory": {
+            "version": 71.3,
+            "specSchemaVersion": "1.0",
+            "buildDate": "10-11-2026",
+            "client": "MDo6MTo6NzEuMzo6Y2FudmFzeHByZXNzLm9yZzo6",
+            "siteSrc": false,
+            "href": "https://canvasxpress.org/examples/nonlinear-fit-2.html",
+            "services": "https://www.canvasxpress.org/cgi-bin/services.py"
+      },
+      "system": {
+            "browser": "Chrome",
+            "browserVersion": "153",
+            "os": "Mac OS",
+            "alt": "&#8997;",
+            "command": "&#8984;",
+            "control": "&#8963;",
+            "shift": "&#8679;",
+            "isNode": false,
+            "isReact": false,
+            "isjQuery": true,
+            "isReveal": false,
+            "isZoom": false,
+            "isIE": false,
+            "isInIframe": false,
+            "isR": false,
+            "isHTMLWidgets": false,
+            "isShiny": false,
+            "isRViewer": false,
+            "isRConsole": false,
+            "isCxplot": false,
+            "isGGMatrix": false,
+            "isJupyter": false,
+            "isVSCode": false
+      }
+}

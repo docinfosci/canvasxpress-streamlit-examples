@@ -1,0 +1,233 @@
+{
+      "version": 71.3,
+      "renderTo": "dumbbell15",
+      "data": {
+            "y": {
+                  "vars": [
+                        "2000s",
+                        "2020s"
+                  ],
+                  "smps": [
+                        "Kelp",
+                        "Eelgrass",
+                        "Mangrove",
+                        "Saltmarsh",
+                        "Seagrass",
+                        "Tundra",
+                        "Taiga",
+                        "Grassland",
+                        "Savanna",
+                        "Steppe",
+                        "Desert",
+                        "Chaparral",
+                        "Alpine",
+                        "Arctic",
+                        "Wetland"
+                  ],
+                  "data": [
+                        [
+                              560,
+                              610,
+                              590,
+                              575,
+                              630,
+                              548,
+                              512,
+                              538,
+                              525,
+                              500,
+                              470,
+                              420,
+                              430,
+                              405,
+                              415
+                        ],
+                        [
+                              545,
+                              640,
+                              568,
+                              598,
+                              605,
+                              536,
+                              532,
+                              510,
+                              505,
+                              508,
+                              414,
+                              390,
+                              452,
+                              385,
+                              438
+                        ]
+                  ]
+            },
+            "x": {
+                  "Group": [
+                        "1. High productivity",
+                        "1. High productivity",
+                        "1. High productivity",
+                        "1. High productivity",
+                        "1. High productivity",
+                        "2. Moderate productivity",
+                        "2. Moderate productivity",
+                        "2. Moderate productivity",
+                        "2. Moderate productivity",
+                        "2. Moderate productivity",
+                        "3. Low productivity",
+                        "3. Low productivity",
+                        "3. Low productivity",
+                        "3. Low productivity",
+                        "3. Low productivity"
+                  ]
+            }
+      },
+      "config": {
+            "graphType": "Dumbbell",
+            "dumbbellType": "arrow",
+            "dumbbellArrowDirection": "order",
+            "theme": "bw",
+            "colorScheme": "User",
+            "colors": [
+                  "#0072B2",
+                  "#0072B2"
+            ],
+            "title": "Carbon-uptake index by ecosystem class",
+            "subtitle": "Index of net carbon uptake per ecosystem, 2000s to 2020s; shaded: the typical band of each class",
+            "xAxis": [
+                  "2000s",
+                  "2020s"
+            ],
+            "xAxisTitle": "Uptake index",
+            "connectByColor": "#0072B2",
+            "connectByWidth": 3,
+            "dataPointSizeScaleFactor": 0.8,
+            "setMinX": 380,
+            "setMaxX": 660,
+            "smpLabelInterval": 1,
+            "showLegend": false,
+            "segregateSamplesBy": [
+                  "Group"
+            ],
+            "stripBackgroundColor": "rgba(255,255,255,0)",
+            "stripTextAlign": "left",
+            "stripBackgroundBorderColor": "rgba(255,255,255,0)",
+            "layoutTopology": "3X1",
+            "decorations": {
+                  "range": [
+                        {
+                              "value": 540,
+                              "value2": 640,
+                              "color": "rgba(0,158,115,0.14)",
+                              "scope": "1. High productivity",
+                              "tooltip": "Typical high-productivity band",
+                              "id": "dumbbell15-decoration-range-0"
+                        },
+                        {
+                              "value": 500,
+                              "value2": 550,
+                              "color": "rgba(230,159,0,0.16)",
+                              "scope": "2. Moderate productivity",
+                              "tooltip": "Typical moderate-productivity band",
+                              "id": "dumbbell15-decoration-range-1"
+                        },
+                        {
+                              "value": 390,
+                              "value2": 470,
+                              "color": "rgba(213,94,0,0.14)",
+                              "scope": "3. Low productivity",
+                              "tooltip": "Typical low-productivity band",
+                              "id": "dumbbell15-decoration-range-2"
+                        }
+                  ],
+                  "text": [
+                        {
+                              "value": 510,
+                              "smpId": 0,
+                              "panel": 1,
+                              "label": "Typical range \u25b6",
+                              "color": "#009E73",
+                              "labelScaleFontFactor": 0.9,
+                              "id": "dumbbell15-decoration-text-0"
+                        },
+                        {
+                              "value": 582,
+                              "smpId": 0,
+                              "panel": 2,
+                              "label": "\u25c0 Typical range",
+                              "color": "#B07C00",
+                              "labelScaleFontFactor": 0.9,
+                              "id": "dumbbell15-decoration-text-1"
+                        },
+                        {
+                              "value": 502,
+                              "smpId": 0,
+                              "panel": 3,
+                              "label": "\u25c0 Typical range",
+                              "color": "#D55E00",
+                              "labelScaleFontFactor": 0.9,
+                              "id": "dumbbell15-decoration-text-2"
+                        }
+                  ]
+            },
+            "citation": "Source: synthetic data for illustration",
+            "graphOrientation": "horizontal",
+            "dotplotType": "normal"
+      },
+      "events": {},
+      "info": false,
+      "afterRender": [
+            [
+                  "setDimensions",
+                  [
+                        636,
+                        603,
+                        true
+                  ]
+            ],
+            [
+                  "setDimensions",
+                  [
+                        800,
+                        800
+                  ],
+                  {},
+                  false,
+                  1791828917268
+            ]
+      ],
+      "noValidate": true,
+      "factory": {
+            "version": 71.3,
+            "specSchemaVersion": "1.0",
+            "buildDate": "10-11-2026",
+            "client": "MDo6MTo6NzEuMzo6Y2FudmFzeHByZXNzLm9yZzo6",
+            "siteSrc": false,
+            "href": "https://canvasxpress.org/examples/dumbbell-15.html",
+            "services": "https://www.canvasxpress.org/cgi-bin/services.py"
+      },
+      "system": {
+            "browser": "Chrome",
+            "browserVersion": "153",
+            "os": "Mac OS",
+            "alt": "&#8997;",
+            "command": "&#8984;",
+            "control": "&#8963;",
+            "shift": "&#8679;",
+            "isNode": false,
+            "isReact": false,
+            "isjQuery": true,
+            "isReveal": false,
+            "isZoom": false,
+            "isIE": false,
+            "isInIframe": false,
+            "isR": false,
+            "isHTMLWidgets": false,
+            "isShiny": false,
+            "isRViewer": false,
+            "isRConsole": false,
+            "isCxplot": false,
+            "isGGMatrix": false,
+            "isJupyter": false,
+            "isVSCode": false
+      }
+}

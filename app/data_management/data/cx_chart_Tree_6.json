@@ -1,0 +1,200 @@
+{
+      "version": 70.8,
+      "renderTo": "tree6",
+      "data": {
+            "x": {
+                  "Final": [
+                        "I",
+                        "I",
+                        "I",
+                        "I",
+                        "I",
+                        "I",
+                        "I",
+                        "I",
+                        "I",
+                        "I",
+                        "I",
+                        "I",
+                        "I",
+                        "I",
+                        "I",
+                        "I"
+                  ],
+                  "Semifinal": [
+                        "A",
+                        "A",
+                        "A",
+                        "A",
+                        "A",
+                        "A",
+                        "A",
+                        "A",
+                        "I",
+                        "I",
+                        "I",
+                        "I",
+                        "I",
+                        "I",
+                        "I",
+                        "I"
+                  ],
+                  "4th": [
+                        "A",
+                        "A",
+                        "A",
+                        "A",
+                        "G",
+                        "G",
+                        "G",
+                        "G",
+                        "I",
+                        "I",
+                        "I",
+                        "I",
+                        "N",
+                        "N",
+                        "N",
+                        "N"
+                  ],
+                  "8th": [
+                        "A",
+                        "A",
+                        "C",
+                        "C",
+                        "E",
+                        "E",
+                        "G",
+                        "G",
+                        "I",
+                        "I",
+                        "K",
+                        "K",
+                        "N",
+                        "N",
+                        "O",
+                        "O"
+                  ]
+            },
+            "y": {
+                  "data": [
+                        [
+                              37,
+                              12,
+                              23,
+                              14,
+                              25,
+                              16,
+                              27,
+                              18,
+                              39,
+                              20,
+                              31,
+                              22,
+                              31,
+                              34,
+                              25,
+                              26
+                        ]
+                  ],
+                  "smps": [
+                        "A",
+                        "B",
+                        "C",
+                        "D",
+                        "E",
+                        "F",
+                        "G",
+                        "H",
+                        "I",
+                        "J",
+                        "K",
+                        "L",
+                        "M",
+                        "N",
+                        "O",
+                        "P"
+                  ],
+                  "vars": [
+                        "Goals"
+                  ]
+            }
+      },
+      "config": {
+            "graphType": "Tree",
+            "hierarchy": [
+                  "Final",
+                  "Semifinal",
+                  "4th",
+                  "8th"
+            ],
+            "treeType": "bracket",
+            "treeInverted": true,
+            "showTransition": false,
+            "treeNodeSizeScaleFactor": 4,
+            "treeClickDisable": true,
+            "treeBracketLabelAlign": "left",
+            "title": "Bracket",
+            "xAxis": [
+                  "Goals"
+            ],
+            "graphOrientation": "horizontal"
+      },
+      "events": {},
+      "info": false,
+      "afterRender": [
+            [
+                  "setDimensions",
+                  [
+                        596,
+                        596,
+                        true
+                  ]
+            ],
+            [
+                  "setDimensions",
+                  [
+                        800,
+                        800
+                  ],
+                  {},
+                  false,
+                  1790897542658
+            ]
+      ],
+      "noValidate": true,
+      "factory": {
+            "version": 70.8,
+            "specSchemaVersion": "1.0",
+            "buildDate": "10-01-2026",
+            "client": "MDo6MTo6NzAuODo6Y2FudmFzeHByZXNzLm9yZzo6",
+            "siteSrc": false,
+            "href": "https://canvasxpress.org/examples/tree-6.html",
+            "services": "https://www.canvasxpress.org/cgi-bin/services.py"
+      },
+      "system": {
+            "browser": "Chrome",
+            "browserVersion": "153",
+            "os": "Mac OS",
+            "alt": "&#8997;",
+            "command": "&#8984;",
+            "control": "&#8963;",
+            "shift": "&#8679;",
+            "isNode": false,
+            "isReact": false,
+            "isjQuery": true,
+            "isReveal": false,
+            "isZoom": false,
+            "isIE": false,
+            "isInIframe": false,
+            "isR": false,
+            "isHTMLWidgets": false,
+            "isShiny": false,
+            "isRViewer": false,
+            "isRConsole": false,
+            "isCxplot": false,
+            "isGGMatrix": false,
+            "isJupyter": false,
+            "isVSCode": false
+      }
+}

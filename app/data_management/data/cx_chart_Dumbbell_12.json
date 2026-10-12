@@ -1,0 +1,126 @@
+{
+      "version": 71.3,
+      "renderTo": "dumbbell12",
+      "data": {
+            "y": {
+                  "vars": [
+                        "Lowest audible (kHz)",
+                        "Highest audible (kHz)"
+                  ],
+                  "smps": [
+                        "Human",
+                        "Dog",
+                        "Elephant",
+                        "Bat",
+                        "Dolphin",
+                        "Moth",
+                        "Mouse",
+                        "Cat"
+                  ],
+                  "data": [
+                        [
+                              0.024,
+                              0.018,
+                              0.006,
+                              1,
+                              0.18,
+                              8,
+                              2.3,
+                              0.048
+                        ],
+                        [
+                              19,
+                              44,
+                              11,
+                              110,
+                              140,
+                              240,
+                              92,
+                              85
+                        ]
+                  ]
+            }
+      },
+      "config": {
+            "graphType": "Dumbbell",
+            "dumbbellType": "connected",
+            "theme": "stata",
+            "colorScheme": "User",
+            "colors": [
+                  "#0072B2",
+                  "#0072B2"
+            ],
+            "title": "Hearing range of eight species",
+            "subtitle": "Lowest and highest frequency each animal can hear, in kHz",
+            "xAxis": [
+                  "Lowest audible (kHz)",
+                  "Highest audible (kHz)"
+            ],
+            "xAxisTitle": "Frequency (kHz)",
+            "setMinX": 0,
+            "setMaxX": 260,
+            "sortDir": "ascending",
+            "showLegend": false,
+            "dataPointSizeScaleFactor": 2.2,
+            "citation": "Source: synthetic data for illustration",
+            "graphOrientation": "horizontal",
+            "dotplotType": "normal"
+      },
+      "events": {},
+      "info": false,
+      "afterRender": [
+            [
+                  "setDimensions",
+                  [
+                        636,
+                        384,
+                        true
+                  ]
+            ],
+            [
+                  "setDimensions",
+                  [
+                        800,
+                        800
+                  ],
+                  {},
+                  false,
+                  1791828879756
+            ]
+      ],
+      "noValidate": true,
+      "factory": {
+            "version": 71.3,
+            "specSchemaVersion": "1.0",
+            "buildDate": "10-11-2026",
+            "client": "MDo6MTo6NzEuMzo6Y2FudmFzeHByZXNzLm9yZzo6",
+            "siteSrc": false,
+            "href": "https://canvasxpress.org/examples/dumbbell-12.html",
+            "services": "https://www.canvasxpress.org/cgi-bin/services.py"
+      },
+      "system": {
+            "browser": "Chrome",
+            "browserVersion": "153",
+            "os": "Mac OS",
+            "alt": "&#8997;",
+            "command": "&#8984;",
+            "control": "&#8963;",
+            "shift": "&#8679;",
+            "isNode": false,
+            "isReact": false,
+            "isjQuery": true,
+            "isReveal": false,
+            "isZoom": false,
+            "isIE": false,
+            "isInIframe": false,
+            "isR": false,
+            "isHTMLWidgets": false,
+            "isShiny": false,
+            "isRViewer": false,
+            "isRConsole": false,
+            "isCxplot": false,
+            "isGGMatrix": false,
+            "isJupyter": false,
+            "isVSCode": false
+      }
+}

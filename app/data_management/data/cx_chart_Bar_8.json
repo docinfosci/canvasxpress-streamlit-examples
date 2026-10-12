@@ -1,0 +1,138 @@
+{
+      "version": 71.3,
+      "renderTo": "bar8",
+      "data": {
+            "x": {
+                  "Drug Sensitivity": [
+                        "Sensitive",
+                        "Sensitive",
+                        "Sensitive",
+                        "Sensitive",
+                        "Sensitive",
+                        "Resistant",
+                        "Resistant",
+                        "Resistant"
+                  ],
+                  "IC50": [
+                        0.08,
+                        0.07,
+                        0.06,
+                        0.05,
+                        0.04,
+                        0.03,
+                        0.02,
+                        0.01
+                  ]
+            },
+            "y": {
+                  "data": [
+                        [
+                              10,
+                              15,
+                              20,
+                              30,
+                              40,
+                              70,
+                              80,
+                              90
+                        ]
+                  ],
+                  "smps": [
+                        "S1",
+                        "S2",
+                        "S3",
+                        "S4",
+                        "S5",
+                        "S6",
+                        "S7",
+                        "S8"
+                  ],
+                  "vars": [
+                        "V1"
+                  ]
+            }
+      },
+      "config": {
+            "colorBy": "IC50",
+            "decorations": {
+                  "line": [
+                        {
+                              "align": "left",
+                              "color": "rgb(255,0,0)",
+                              "label": "Cutoff",
+                              "value": 50,
+                              "width": 2,
+                              "id": "bar8-decoration-line-0"
+                        }
+                  ]
+            },
+            "graphOrientation": "vertical",
+            "graphType": "Bar",
+            "smpOverlays": [
+                  "Drug Sensitivity"
+            ],
+            "smpTextRotate": 90,
+            "smpTitle": "Cell Lines",
+            "title": "Sensitivity of cell lines to different drugs",
+            "xAxis": [
+                  "V1"
+            ]
+      },
+      "events": {},
+      "info": false,
+      "afterRender": [
+            [
+                  "setDimensions",
+                  [
+                        596,
+                        596,
+                        true
+                  ]
+            ],
+            [
+                  "setDimensions",
+                  [
+                        800,
+                        800
+                  ],
+                  {},
+                  false,
+                  1791827507369
+            ]
+      ],
+      "noValidate": true,
+      "factory": {
+            "version": 71.3,
+            "specSchemaVersion": "1.0",
+            "buildDate": "10-11-2026",
+            "client": "MDo6MTo6NzEuMzo6Y2FudmFzeHByZXNzLm9yZzo6",
+            "siteSrc": false,
+            "href": "https://canvasxpress.org/examples/bar-8.html",
+            "services": "https://www.canvasxpress.org/cgi-bin/services.py"
+      },
+      "system": {
+            "browser": "Chrome",
+            "browserVersion": "153",
+            "os": "Mac OS",
+            "alt": "&#8997;",
+            "command": "&#8984;",
+            "control": "&#8963;",
+            "shift": "&#8679;",
+            "isNode": false,
+            "isReact": false,
+            "isjQuery": true,
+            "isReveal": false,
+            "isZoom": false,
+            "isIE": false,
+            "isInIframe": false,
+            "isR": false,
+            "isHTMLWidgets": false,
+            "isShiny": false,
+            "isRViewer": false,
+            "isRConsole": false,
+            "isCxplot": false,
+            "isGGMatrix": false,
+            "isJupyter": false,
+            "isVSCode": false
+      }
+}

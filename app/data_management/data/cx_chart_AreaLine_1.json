@@ -1,0 +1,144 @@
+{
+      "version": 71.3,
+      "renderTo": "arealine1",
+      "data": {
+            "y": {
+                  "data": [
+                        [
+                              10,
+                              11,
+                              13,
+                              4,
+                              18,
+                              21
+                        ],
+                        [
+                              5,
+                              8,
+                              10,
+                              12,
+                              15,
+                              10
+                        ],
+                        [
+                              2,
+                              3,
+                              6,
+                              4,
+                              8,
+                              6
+                        ],
+                        [
+                              18,
+                              27,
+                              29,
+                              21,
+                              42,
+                              37
+                        ],
+                        [
+                              6,
+                              9,
+                              9,
+                              6,
+                              14,
+                              12
+                        ]
+                  ],
+                  "smps": [
+                        "Jan",
+                        "Feb",
+                        "Mar",
+                        "Apr",
+                        "May",
+                        "Jun"
+                  ],
+                  "vars": [
+                        "Series A",
+                        "Series B",
+                        "Series C",
+                        "Series D",
+                        "Series E"
+                  ]
+            }
+      },
+      "config": {
+            "graphOrientation": "vertical",
+            "graphType": "AreaLine",
+            "lineThickness": 3,
+            "lineType": "spline",
+            "objectColorTransparency": 0.5,
+            "setMaxX": 50,
+            "setMaxX2": 50,
+            "smpTextRotate": 90,
+            "smpTitle": "Month",
+            "xAxis": [
+                  "Series A",
+                  "Series B",
+                  "Series C"
+            ],
+            "xAxis2": [
+                  "Series D",
+                  "Series E"
+            ],
+            "xAxisShow": true,
+            "xAxis2Show": true
+      },
+      "events": {},
+      "info": false,
+      "afterRender": [
+            [
+                  "setDimensions",
+                  [
+                        596,
+                        596,
+                        true
+                  ]
+            ],
+            [
+                  "setDimensions",
+                  [
+                        800,
+                        800
+                  ],
+                  {},
+                  false,
+                  1791827404809
+            ]
+      ],
+      "noValidate": true,
+      "factory": {
+            "version": 71.3,
+            "specSchemaVersion": "1.0",
+            "buildDate": "10-11-2026",
+            "client": "MDo6MTo6NzEuMzo6Y2FudmFzeHByZXNzLm9yZzo6",
+            "siteSrc": false,
+            "href": "https://canvasxpress.org/examples/arealine-1.html",
+            "services": "https://www.canvasxpress.org/cgi-bin/services.py"
+      },
+      "system": {
+            "browser": "Chrome",
+            "browserVersion": "153",
+            "os": "Mac OS",
+            "alt": "&#8997;",
+            "command": "&#8984;",
+            "control": "&#8963;",
+            "shift": "&#8679;",
+            "isNode": false,
+            "isReact": false,
+            "isjQuery": true,
+            "isReveal": false,
+            "isZoom": false,
+            "isIE": false,
+            "isInIframe": false,
+            "isR": false,
+            "isHTMLWidgets": false,
+            "isShiny": false,
+            "isRViewer": false,
+            "isRConsole": false,
+            "isCxplot": false,
+            "isGGMatrix": false,
+            "isJupyter": false,
+            "isVSCode": false
+      }
+}

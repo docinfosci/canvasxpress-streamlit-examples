@@ -1,0 +1,284 @@
+{
+      "version": 71.3,
+      "renderTo": "map25",
+      "data": {
+            "y": {
+                  "vars": [
+                        "Vasternorrlands_lan",
+                        "Vasterbottens_lan",
+                        "Jamtlands_lan",
+                        "Gavleborgs_lan",
+                        "Dalarnas_lan",
+                        "Uppsala_lan",
+                        "Vastmanlands_lan",
+                        "Orebro_lan",
+                        "Varmlands_lan",
+                        "Vastra_Gotalands_lan",
+                        "Hallands_lan",
+                        "Skane_lan",
+                        "Kronobergs_lan",
+                        "Blekinge_lan",
+                        "Kalmar_lan",
+                        "Jonkopings_lan",
+                        "Stockholms_lan",
+                        "Ostergotlands_lan",
+                        "Sodermanlands_lan",
+                        "Norrbottens_lan",
+                        "Gotlands_lan"
+                  ],
+                  "smps": [
+                        "Spring month"
+                  ],
+                  "data": [
+                        [
+                              4
+                        ],
+                        [
+                              4
+                        ],
+                        [
+                              4
+                        ],
+                        [
+                              4
+                        ],
+                        [
+                              4
+                        ],
+                        [
+                              3
+                        ],
+                        [
+                              3
+                        ],
+                        [
+                              3
+                        ],
+                        [
+                              3
+                        ],
+                        [
+                              3
+                        ],
+                        [
+                              2
+                        ],
+                        [
+                              2
+                        ],
+                        [
+                              3
+                        ],
+                        [
+                              2
+                        ],
+                        [
+                              3
+                        ],
+                        [
+                              3
+                        ],
+                        [
+                              3
+                        ],
+                        [
+                              3
+                        ],
+                        [
+                              3
+                        ],
+                        [
+                              5
+                        ],
+                        [
+                              3
+                        ]
+                  ]
+            }
+      },
+      "config": {
+            "graphType": "Map",
+            "topoJSON": "https://www.canvasxpress.org/data/maps/SWE.json",
+            "mapId": "sweden",
+            "theme": "ggplot",
+            "colorBy": "Spring month",
+            "colorSpectrum": [
+                  "#00441b",
+                  "#41ae76",
+                  "#b2e2a8",
+                  "#e5f5e0"
+            ],
+            "colorSpectrumBreaksMethod": "equalWidth",
+            "colorLegendSteps": "equal",
+            "showLegendTitle": true,
+            "legendPosition": "topLeft",
+            "legendInside": true,
+            "title": "When does spring arrive?",
+            "subtitle": "Month the 7-day mean passes 0 \u00b0C (synthetic)",
+            "decorations": {
+                  "marker": [
+                        {
+                              "coords": [
+                                    68.4,
+                                    22.6
+                              ],
+                              "textCoords": [
+                                    68.4,
+                                    25.5
+                              ],
+                              "shape": "none",
+                              "type": "line",
+                              "fontSize": 12,
+                              "text": "May 1",
+                              "align": "left",
+                              "lineColor": "#999999",
+                              "id": "map25-marker-0"
+                        },
+                        {
+                              "coords": [
+                                    65.7,
+                                    22.4
+                              ],
+                              "textCoords": [
+                                    65.7,
+                                    25.5
+                              ],
+                              "shape": "none",
+                              "type": "line",
+                              "fontSize": 12,
+                              "text": "April 15",
+                              "align": "left",
+                              "lineColor": "#999999",
+                              "id": "map25-marker-1"
+                        },
+                        {
+                              "coords": [
+                                    62.4,
+                                    17.6
+                              ],
+                              "textCoords": [
+                                    62.4,
+                                    25.5
+                              ],
+                              "shape": "none",
+                              "type": "line",
+                              "fontSize": 12,
+                              "text": "April 1",
+                              "align": "left",
+                              "lineColor": "#999999",
+                              "id": "map25-marker-2"
+                        },
+                        {
+                              "coords": [
+                                    58.7,
+                                    17.2
+                              ],
+                              "textCoords": [
+                                    58.7,
+                                    25.5
+                              ],
+                              "shape": "none",
+                              "type": "line",
+                              "fontSize": 12,
+                              "text": "March 15",
+                              "align": "left",
+                              "lineColor": "#999999",
+                              "id": "map25-marker-3"
+                        },
+                        {
+                              "coords": [
+                                    56.1,
+                                    14.6
+                              ],
+                              "textCoords": [
+                                    56.1,
+                                    25.5
+                              ],
+                              "shape": "none",
+                              "type": "line",
+                              "fontSize": 12,
+                              "text": "March 1",
+                              "align": "left",
+                              "lineColor": "#999999",
+                              "id": "map25-marker-4"
+                        },
+                        {
+                              "coords": [
+                                    55.45,
+                                    13.1
+                              ],
+                              "textCoords": [
+                                    55.45,
+                                    25.5
+                              ],
+                              "shape": "none",
+                              "type": "line",
+                              "fontSize": 12,
+                              "text": "February 15",
+                              "align": "left",
+                              "lineColor": "#999999",
+                              "id": "map25-marker-5"
+                        }
+                  ]
+            },
+            "source": "Synthetic data for illustration",
+            "graphOrientation": "horizontal"
+      },
+      "events": {},
+      "info": false,
+      "afterRender": [
+            [
+                  "setDimensions",
+                  [
+                        516,
+                        696,
+                        true
+                  ]
+            ],
+            [
+                  "setDimensions",
+                  [
+                        800,
+                        800
+                  ],
+                  {},
+                  false,
+                  1791830197846
+            ]
+      ],
+      "noValidate": true,
+      "factory": {
+            "version": 71.3,
+            "specSchemaVersion": "1.0",
+            "buildDate": "10-11-2026",
+            "client": "MDo6MTo6NzEuMzo6Y2FudmFzeHByZXNzLm9yZzo6",
+            "siteSrc": false,
+            "href": "https://canvasxpress.org/examples/map-25.html",
+            "services": "https://www.canvasxpress.org/cgi-bin/services.py"
+      },
+      "system": {
+            "browser": "Chrome",
+            "browserVersion": "153",
+            "os": "Mac OS",
+            "alt": "&#8997;",
+            "command": "&#8984;",
+            "control": "&#8963;",
+            "shift": "&#8679;",
+            "isNode": false,
+            "isReact": false,
+            "isjQuery": true,
+            "isReveal": false,
+            "isZoom": false,
+            "isIE": false,
+            "isInIframe": false,
+            "isR": false,
+            "isHTMLWidgets": false,
+            "isShiny": false,
+            "isRViewer": false,
+            "isRConsole": false,
+            "isCxplot": false,
+            "isGGMatrix": false,
+            "isJupyter": false,
+            "isVSCode": false
+      }
+}

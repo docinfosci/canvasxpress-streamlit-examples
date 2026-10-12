@@ -1,0 +1,280 @@
+{
+      "version": 71.3,
+      "renderTo": "map9",
+      "data": {
+            "y": {
+                  "data": [
+                        [
+                              2,
+                              56
+                        ],
+                        [
+                              3,
+                              124
+                        ],
+                        [
+                              5,
+                              35
+                        ],
+                        [
+                              3,
+                              46
+                        ],
+                        [
+                              35,
+                              234
+                        ],
+                        [
+                              37,
+                              76
+                        ],
+                        [
+                              2,
+                              23
+                        ],
+                        [
+                              50,
+                              45
+                        ],
+                        [
+                              42,
+                              78
+                        ],
+                        [
+                              3,
+                              90
+                        ],
+                        [
+                              78,
+                              43
+                        ],
+                        [
+                              6,
+                              57
+                        ],
+                        [
+                              7,
+                              123
+                        ],
+                        [
+                              13,
+                              23
+                        ],
+                        [
+                              24,
+                              59
+                        ],
+                        [
+                              38,
+                              87
+                        ],
+                        [
+                              65,
+                              25
+                        ],
+                        [
+                              87,
+                              95
+                        ],
+                        [
+                              34,
+                              73
+                        ],
+                        [
+                              1,
+                              23
+                        ],
+                        [
+                              23,
+                              56
+                        ],
+                        [
+                              67,
+                              56
+                        ],
+                        [
+                              46,
+                              29
+                        ],
+                        [
+                              25,
+                              50
+                        ],
+                        [
+                              98,
+                              53
+                        ],
+                        [
+                              24,
+                              28
+                        ],
+                        [
+                              33,
+                              16
+                        ],
+                        [
+                              55,
+                              23
+                        ],
+                        [
+                              65,
+                              4
+                        ],
+                        [
+                              12,
+                              28
+                        ],
+                        [
+                              73,
+                              65
+                        ],
+                        [
+                              24,
+                              19
+                        ]
+                  ],
+                  "smps": [
+                        "Property1",
+                        "Property2"
+                  ],
+                  "vars": [
+                        "Caldas",
+                        "Amazonas",
+                        "Meta",
+                        "Cundinamarca",
+                        "Tolima",
+                        "Antioquia",
+                        "Atl\u00e1ntico",
+                        "Bol\u00edvar",
+                        "Cesar",
+                        "Magdalena",
+                        "Sucre",
+                        "C\u00f3rdoba",
+                        "La Guajira",
+                        "Choc\u00f3",
+                        "Valle del Cauca",
+                        "Norte de Santander",
+                        "Quind\u00edo",
+                        "Vichada",
+                        "Vaup\u00e9s",
+                        "Santander",
+                        "Risaralda",
+                        "Putumayo",
+                        "Nari\u00f1o",
+                        "Guaviare",
+                        "Guain\u00eda",
+                        "Bogota Capital District",
+                        "Arauca",
+                        "Boyac\u00e1",
+                        "Casanare",
+                        "Cauca",
+                        "Caquet\u00e1",
+                        "Huila",
+                        "Archipi\u00e9lago de San Andr\u00e9s, Providencia y Santa Catalina"
+                  ]
+            }
+      },
+      "config": {
+            "colorBy": "Property1",
+            "colorSpectrum": [
+                  "rgb(247,252,253)",
+                  "rgb(229,245,249)",
+                  "rgb(204,236,230)",
+                  "rgb(153,216,201)",
+                  "rgb(102,194,164)",
+                  "rgb(65,174,118)",
+                  "rgb(35,139,69)",
+                  "rgb(0,109,44)",
+                  "rgb(0,68,27)"
+            ],
+            "decorations": {
+                  "marker": [
+                        {
+                              "color": "red",
+                              "coords": [
+                                    10.3932,
+                                    -75.4832
+                              ],
+                              "label": "Cartagena",
+                              "shape": "teardrop",
+                              "size": 4,
+                              "id": "map9-marker-0"
+                        },
+                        {
+                              "color": "blue",
+                              "coords": [
+                                    12.5769,
+                                    -81.7051
+                              ],
+                              "label": "San Andres",
+                              "shape": "teardrop",
+                              "size": 6,
+                              "id": "map9-marker-1"
+                        }
+                  ]
+            },
+            "graphType": "Map",
+            "legendInside": true,
+            "legendPosition": "bottomLeft",
+            "mapId": "colombia",
+            "topoJSON": "https://www.canvasxpress.org/data/maps/COL.json",
+            "graphOrientation": "horizontal"
+      },
+      "events": {},
+      "info": false,
+      "afterRender": [
+            [
+                  "setDimensions",
+                  [
+                        596,
+                        596,
+                        true
+                  ]
+            ],
+            [
+                  "setDimensions",
+                  [
+                        800,
+                        800
+                  ],
+                  {},
+                  false,
+                  1791830007089
+            ]
+      ],
+      "noValidate": true,
+      "factory": {
+            "version": 71.3,
+            "specSchemaVersion": "1.0",
+            "buildDate": "10-11-2026",
+            "client": "MDo6MTo6NzEuMzo6Y2FudmFzeHByZXNzLm9yZzo6",
+            "siteSrc": false,
+            "href": "https://canvasxpress.org/examples/map-9.html",
+            "services": "https://www.canvasxpress.org/cgi-bin/services.py"
+      },
+      "system": {
+            "browser": "Chrome",
+            "browserVersion": "153",
+            "os": "Mac OS",
+            "alt": "&#8997;",
+            "command": "&#8984;",
+            "control": "&#8963;",
+            "shift": "&#8679;",
+            "isNode": false,
+            "isReact": false,
+            "isjQuery": true,
+            "isReveal": false,
+            "isZoom": false,
+            "isIE": false,
+            "isInIframe": false,
+            "isR": false,
+            "isHTMLWidgets": false,
+            "isShiny": false,
+            "isRViewer": false,
+            "isRConsole": false,
+            "isCxplot": false,
+            "isGGMatrix": false,
+            "isJupyter": false,
+            "isVSCode": false
+      }
+}

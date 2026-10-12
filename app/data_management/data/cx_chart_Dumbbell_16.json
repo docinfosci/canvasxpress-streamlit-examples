@@ -1,0 +1,215 @@
+{
+      "version": 71.3,
+      "renderTo": "dumbbell16",
+      "data": {
+            "y": {
+                  "vars": [
+                        "2014",
+                        "2024"
+                  ],
+                  "smps": [
+                        "Immunology",
+                        "Neuroscience",
+                        "Pharmacology",
+                        "Biochemistry",
+                        "Agronomy",
+                        "Psychology",
+                        "Economics",
+                        "Chemistry",
+                        "Materials",
+                        "Physics",
+                        "Computer science",
+                        "Mathematics",
+                        "Nursing",
+                        "Medicine",
+                        "Dentistry"
+                  ],
+                  "data": [
+                        [
+                              40,
+                              38,
+                              39,
+                              39,
+                              33,
+                              43,
+                              18,
+                              26,
+                              25,
+                              19,
+                              16,
+                              16,
+                              36,
+                              35,
+                              28
+                        ],
+                        [
+                              46.8,
+                              47.8,
+                              47.2,
+                              45.8,
+                              42.6,
+                              57.3,
+                              30,
+                              32.3,
+                              30.6,
+                              23.7,
+                              21,
+                              19.9,
+                              47.5,
+                              45.6,
+                              38.8
+                        ]
+                  ]
+            },
+            "x": {
+                  "Change": [
+                        "5 to 10 points",
+                        "5 to 10 points",
+                        "5 to 10 points",
+                        "5 to 10 points",
+                        "5 to 10 points",
+                        "More than 10 points",
+                        "More than 10 points",
+                        "5 to 10 points",
+                        "5 to 10 points",
+                        "5 points or less",
+                        "5 points or less",
+                        "5 points or less",
+                        "More than 10 points",
+                        "More than 10 points",
+                        "More than 10 points"
+                  ],
+                  "Domain": [
+                        "1. Life sciences",
+                        "1. Life sciences",
+                        "1. Life sciences",
+                        "1. Life sciences",
+                        "1. Life sciences",
+                        "2. Social sciences",
+                        "2. Social sciences",
+                        "3. Physical sciences",
+                        "3. Physical sciences",
+                        "3. Physical sciences",
+                        "3. Physical sciences",
+                        "3. Physical sciences",
+                        "4. Health",
+                        "4. Health",
+                        "4. Health"
+                  ]
+            }
+      },
+      "config": {
+            "graphType": "Dumbbell",
+            "dumbbellType": "arrow",
+            "dumbbellArrowDirection": "order",
+            "theme": "classic",
+            "colorScheme": "User",
+            "colors": [
+                  "#6b6b6b",
+                  "#009E73"
+            ],
+            "title": "Open-access share of papers by field",
+            "subtitle": "Share of papers published open access, grey 2014 to green 2024 (%); shaded: majority open access",
+            "xAxis": [
+                  "2014",
+                  "2024"
+            ],
+            "xAxisTitle": "Share open access (%)",
+            "connectByColor": "#009E73",
+            "connectByWidth": 3,
+            "dataPointSizeScaleFactor": 0.7,
+            "setMinX": 0,
+            "setMaxX": 70,
+            "showLegend": false,
+            "smpLabelInterval": 1,
+            "segregateSamplesBy": [
+                  "Domain"
+            ],
+            "stripBackgroundColor": "rgba(255,255,255,0)",
+            "stripTextAlign": "left",
+            "stripBackgroundBorderColor": "rgba(255,255,255,0)",
+            "layoutTopology": "4X1",
+            "decorations": {
+                  "range": [
+                        {
+                              "value": 50,
+                              "value2": 70,
+                              "color": "rgba(0,158,115,0.10)",
+                              "tooltip": "Majority open access",
+                              "id": "dumbbell16-decoration-range-0"
+                        }
+                  ],
+                  "text": [
+                        {
+                              "value": 38,
+                              "smpId": 4,
+                              "panel": 3,
+                              "label": "Over 50% open access \u25b6",
+                              "color": "#009E73",
+                              "labelScaleFontFactor": 0.8,
+                              "id": "dumbbell16-decoration-text-0"
+                        }
+                  ]
+            },
+            "citation": "Source: synthetic data for illustration",
+            "graphOrientation": "horizontal",
+            "dotplotType": "normal"
+      },
+      "events": {},
+      "info": false,
+      "afterRender": [
+            [
+                  "setDimensions",
+                  [
+                        620,
+                        620,
+                        true
+                  ]
+            ],
+            [
+                  "setDimensions",
+                  [
+                        800,
+                        800
+                  ],
+                  {},
+                  false,
+                  1791828926475
+            ]
+      ],
+      "noValidate": true,
+      "factory": {
+            "version": 71.3,
+            "specSchemaVersion": "1.0",
+            "buildDate": "10-11-2026",
+            "client": "MDo6MTo6NzEuMzo6Y2FudmFzeHByZXNzLm9yZzo6",
+            "siteSrc": false,
+            "href": "https://canvasxpress.org/examples/dumbbell-16.html",
+            "services": "https://www.canvasxpress.org/cgi-bin/services.py"
+      },
+      "system": {
+            "browser": "Chrome",
+            "browserVersion": "153",
+            "os": "Mac OS",
+            "alt": "&#8997;",
+            "command": "&#8984;",
+            "control": "&#8963;",
+            "shift": "&#8679;",
+            "isNode": false,
+            "isReact": false,
+            "isjQuery": true,
+            "isReveal": false,
+            "isZoom": false,
+            "isIE": false,
+            "isInIframe": false,
+            "isR": false,
+            "isHTMLWidgets": false,
+            "isShiny": false,
+            "isRViewer": false,
+            "isRConsole": false,
+            "isCxplot": false,
+            "isGGMatrix": false,
+            "isJupyter": false,
+            "isVSCode": false
+      }
+}

@@ -1,0 +1,125 @@
+{
+      "version": 71.3,
+      "renderTo": "lollipop2",
+      "data": {
+            "x": {
+                  "Color": [
+                        "A",
+                        "B",
+                        "C",
+                        "D",
+                        "E",
+                        "F"
+                  ]
+            },
+            "y": {
+                  "data": [
+                        [
+                              -40,
+                              -85,
+                              -60,
+                              50,
+                              75,
+                              100
+                        ]
+                  ],
+                  "smps": [
+                        "Engineering",
+                        "Biology",
+                        "Computer",
+                        "Psycology",
+                        "Education",
+                        "Health"
+                  ],
+                  "vars": [
+                        "Var1"
+                  ]
+            }
+      },
+      "config": {
+            "barLollipopOpen": true,
+            "barType": "lollipopBullet",
+            "colorBy": "Color",
+            "colorScheme": "GGPlot",
+            "dataPointSizeScaleFactor": 7,
+            "graphType": "Bar",
+            "marginBottom": 50,
+            "marginLeft": 50,
+            "marginRight": 50,
+            "marginTop": 50,
+            "maxTextSize": 80,
+            "rangeColors": [
+                  "rgb(200,200,200)"
+            ],
+            "setMaxX": 150,
+            "setMinX": -150,
+            "showDataValues": true,
+            "showLegend": false,
+            "title": "Occupations",
+            "xAxis2Show": false,
+            "xAxisGridMajorShow": false,
+            "xAxisGridMinorShow": false,
+            "xAxisShow": false,
+            "xAxis": [
+                  "Var1"
+            ],
+            "graphOrientation": "horizontal"
+      },
+      "events": {},
+      "info": false,
+      "afterRender": [
+            [
+                  "setDimensions",
+                  [
+                        596,
+                        596,
+                        true
+                  ]
+            ],
+            [
+                  "setDimensions",
+                  [
+                        800,
+                        800
+                  ],
+                  {},
+                  false,
+                  1791829889118
+            ]
+      ],
+      "noValidate": true,
+      "factory": {
+            "version": 71.3,
+            "specSchemaVersion": "1.0",
+            "buildDate": "10-11-2026",
+            "client": "MDo6MTo6NzEuMzo6Y2FudmFzeHByZXNzLm9yZzo6",
+            "siteSrc": false,
+            "href": "https://canvasxpress.org/examples/lollipop-2.html",
+            "services": "https://www.canvasxpress.org/cgi-bin/services.py"
+      },
+      "system": {
+            "browser": "Chrome",
+            "browserVersion": "153",
+            "os": "Mac OS",
+            "alt": "&#8997;",
+            "command": "&#8984;",
+            "control": "&#8963;",
+            "shift": "&#8679;",
+            "isNode": false,
+            "isReact": false,
+            "isjQuery": true,
+            "isReveal": false,
+            "isZoom": false,
+            "isIE": false,
+            "isInIframe": false,
+            "isR": false,
+            "isHTMLWidgets": false,
+            "isShiny": false,
+            "isRViewer": false,
+            "isRConsole": false,
+            "isCxplot": false,
+            "isGGMatrix": false,
+            "isJupyter": false,
+            "isVSCode": false
+      }
+}

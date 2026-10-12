@@ -1,0 +1,177 @@
+{
+      "version": 71.3,
+      "renderTo": "dumbbell1",
+      "data": {
+            "y": {
+                  "vars": [
+                        "Combined",
+                        "Male",
+                        "Female"
+                  ],
+                  "smps": [
+                        "Monaco",
+                        "Japan",
+                        "Germany",
+                        "Italy",
+                        "Greece",
+                        "Hong Kong",
+                        "Austria",
+                        "Spain",
+                        "Netherlands",
+                        "Finland",
+                        "South Korea",
+                        "France",
+                        "Poland",
+                        "United Kingdom",
+                        "Russia",
+                        "Norway",
+                        "United States",
+                        "New Zealand",
+                        "China"
+                  ],
+                  "data": [
+                        [
+                              53.1,
+                              47.3,
+                              47.1,
+                              45.5,
+                              44.5,
+                              44.4,
+                              44,
+                              42.7,
+                              42.6,
+                              42.5,
+                              41.8,
+                              41.4,
+                              40.7,
+                              40.5,
+                              39.6,
+                              39.2,
+                              38.1,
+                              37.9,
+                              37.4
+                        ],
+                        [
+                              51.7,
+                              46,
+                              46,
+                              44.4,
+                              43.5,
+                              43.5,
+                              42.8,
+                              41.5,
+                              41.5,
+                              40.9,
+                              40.2,
+                              39.6,
+                              39,
+                              39.3,
+                              36.6,
+                              38.4,
+                              36.8,
+                              37.1,
+                              36.5
+                        ],
+                        [
+                              54.5,
+                              48.7,
+                              48.2,
+                              46.5,
+                              45.6,
+                              45,
+                              45.1,
+                              43.9,
+                              43.6,
+                              44.3,
+                              43.4,
+                              43.1,
+                              42.4,
+                              41.7,
+                              42.5,
+                              40,
+                              39.4,
+                              38.8,
+                              38.4
+                        ]
+                  ]
+            }
+      },
+      "config": {
+            "colors": [
+                  "grey",
+                  "blue",
+                  "pink"
+            ],
+            "graphType": "Dumbbell",
+            "legendColumns": 2,
+            "legendPosition": "bottom",
+            "sortDir": "ascending",
+            "title": "Age Range by Gender",
+            "xAxis": [
+                  "Female",
+                  "Male"
+            ],
+            "xAxis2Show": true,
+            "xAxisShow": false,
+            "xAxisTitle2": "Age",
+            "graphOrientation": "horizontal",
+            "dotplotType": "normal"
+      },
+      "events": {},
+      "info": false,
+      "afterRender": [
+            [
+                  "setDimensions",
+                  [
+                        596,
+                        596,
+                        true
+                  ]
+            ],
+            [
+                  "setDimensions",
+                  [
+                        800,
+                        800
+                  ],
+                  {},
+                  false,
+                  1791828755233
+            ]
+      ],
+      "noValidate": true,
+      "factory": {
+            "version": 71.3,
+            "specSchemaVersion": "1.0",
+            "buildDate": "10-11-2026",
+            "client": "MDo6MTo6NzEuMzo6Y2FudmFzeHByZXNzLm9yZzo6",
+            "siteSrc": false,
+            "href": "https://canvasxpress.org/examples/dumbbell-1.html",
+            "services": "https://www.canvasxpress.org/cgi-bin/services.py"
+      },
+      "system": {
+            "browser": "Chrome",
+            "browserVersion": "153",
+            "os": "Mac OS",
+            "alt": "&#8997;",
+            "command": "&#8984;",
+            "control": "&#8963;",
+            "shift": "&#8679;",
+            "isNode": false,
+            "isReact": false,
+            "isjQuery": true,
+            "isReveal": false,
+            "isZoom": false,
+            "isIE": false,
+            "isInIframe": false,
+            "isR": false,
+            "isHTMLWidgets": false,
+            "isShiny": false,
+            "isRViewer": false,
+            "isRConsole": false,
+            "isCxplot": false,
+            "isGGMatrix": false,
+            "isJupyter": false,
+            "isVSCode": false
+      }
+}

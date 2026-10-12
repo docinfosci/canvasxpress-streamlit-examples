@@ -1,0 +1,185 @@
+{
+      "version": 71.3,
+      "renderTo": "map3",
+      "data": false,
+      "config": {
+            "colorBy": "variable",
+            "decorations": {
+                  "connections": [
+                        {
+                              "color": "red",
+                              "source": [
+                                    40.7,
+                                    -74
+                              ],
+                              "target": [
+                                    37.7,
+                                    -122
+                              ],
+                              "type": "spline"
+                        },
+                        {
+                              "color": "red",
+                              "source": [
+                                    40.7,
+                                    -74
+                              ],
+                              "target": [
+                                    25.7,
+                                    -80.1
+                              ],
+                              "type": "spline"
+                        },
+                        {
+                              "color": "red",
+                              "source": [
+                                    37.7,
+                                    -122
+                              ],
+                              "target": [
+                                    25.7,
+                                    -80.1
+                              ],
+                              "type": "splineDashed"
+                        }
+                  ],
+                  "marker": [
+                        {
+                              "color": "blue",
+                              "coords": [
+                                    40.7,
+                                    -74
+                              ],
+                              "label": "New York",
+                              "shape": "teardrop",
+                              "size": 5,
+                              "id": "map3-marker-0"
+                        },
+                        {
+                              "color": "blue",
+                              "coords": [
+                                    37.7,
+                                    -122
+                              ],
+                              "label": "San Francisco",
+                              "shape": "teardrop",
+                              "size": 5,
+                              "id": "map3-marker-1"
+                        },
+                        {
+                              "color": "blue",
+                              "coords": [
+                                    25.7,
+                                    -80.1
+                              ],
+                              "label": "Miami",
+                              "shape": "teardrop",
+                              "size": 5,
+                              "id": "map3-marker-2"
+                        },
+                        {
+                              "color": "green",
+                              "coords": [
+                                    41.8,
+                                    -87.6
+                              ],
+                              "label": "Chicago",
+                              "shape": "circle",
+                              "size": 4,
+                              "id": "map3-marker-3"
+                        },
+                        {
+                              "color": "green",
+                              "coords": [
+                                    36.1,
+                                    -115.1
+                              ],
+                              "label": "Las Vegas",
+                              "shape": "circle",
+                              "size": 3,
+                              "id": "map3-marker-4"
+                        },
+                        {
+                              "color": "black",
+                              "coords": [
+                                    42.3,
+                                    -71
+                              ],
+                              "label": "Boston",
+                              "shape": "star",
+                              "size": 6,
+                              "id": "map3-marker-5"
+                        }
+                  ]
+            },
+            "graphType": "Map",
+            "mapConfig": {
+                  "center": [
+                        34.7,
+                        -96.1
+                  ],
+                  "zoom": 3.2
+            },
+            "mapId": "colorCountries",
+            "showLegend": false,
+            "topoJSON": "https://www.canvasxpress.org/data/maps/WORLD.json",
+            "graphOrientation": "horizontal"
+      },
+      "events": {},
+      "info": false,
+      "afterRender": [
+            [
+                  "setDimensions",
+                  [
+                        596,
+                        596,
+                        true
+                  ]
+            ],
+            [
+                  "setDimensions",
+                  [
+                        800,
+                        800
+                  ],
+                  {},
+                  false,
+                  1791829930544
+            ]
+      ],
+      "noValidate": true,
+      "factory": {
+            "version": 71.3,
+            "specSchemaVersion": "1.0",
+            "buildDate": "10-11-2026",
+            "client": "MDo6MTo6NzEuMzo6Y2FudmFzeHByZXNzLm9yZzo6",
+            "siteSrc": false,
+            "href": "https://canvasxpress.org/examples/map-3.html",
+            "services": "https://www.canvasxpress.org/cgi-bin/services.py"
+      },
+      "system": {
+            "browser": "Chrome",
+            "browserVersion": "153",
+            "os": "Mac OS",
+            "alt": "&#8997;",
+            "command": "&#8984;",
+            "control": "&#8963;",
+            "shift": "&#8679;",
+            "isNode": false,
+            "isReact": false,
+            "isjQuery": true,
+            "isReveal": false,
+            "isZoom": false,
+            "isIE": false,
+            "isInIframe": false,
+            "isR": false,
+            "isHTMLWidgets": false,
+            "isShiny": false,
+            "isRViewer": false,
+            "isRConsole": false,
+            "isCxplot": false,
+            "isGGMatrix": false,
+            "isJupyter": false,
+            "isVSCode": false
+      }
+}

@@ -1,0 +1,245 @@
+{
+      "version": 71.3,
+      "renderTo": "area18",
+      "data": {
+            "y": {
+                  "vars": [
+                        "Actinobacteria",
+                        "Bacteroidetes",
+                        "Firmicutes",
+                        "Proteobacteria",
+                        "Other"
+                  ],
+                  "smps": [
+                        "0",
+                        "2",
+                        "4",
+                        "6",
+                        "8",
+                        "10",
+                        "12",
+                        "14",
+                        "16",
+                        "18",
+                        "20",
+                        "22",
+                        "24",
+                        "26",
+                        "28",
+                        "30",
+                        "32",
+                        "34",
+                        "36"
+                  ],
+                  "data": [
+                        [
+                              55.4,
+                              53.5,
+                              50.5,
+                              46.1,
+                              40.2,
+                              32.8,
+                              24.8,
+                              17,
+                              14.9,
+                              13.5,
+                              12.6,
+                              12.2,
+                              12.1,
+                              12.5,
+                              13.1,
+                              13.9,
+                              14.7,
+                              15.3,
+                              15.6
+                        ],
+                        [
+                              3.6,
+                              5.4,
+                              7.4,
+                              9.6,
+                              12.5,
+                              16.2,
+                              20.6,
+                              25.2,
+                              28,
+                              30.3,
+                              32.2,
+                              33.6,
+                              34.4,
+                              34.6,
+                              34.3,
+                              33.7,
+                              33.2,
+                              33,
+                              33
+                        ],
+                        [
+                              10.8,
+                              13.6,
+                              17,
+                              21.3,
+                              26.5,
+                              32.4,
+                              38.1,
+                              42.9,
+                              44,
+                              44.2,
+                              43.9,
+                              43.4,
+                              42.8,
+                              42.3,
+                              41.9,
+                              41.7,
+                              41.4,
+                              41.1,
+                              40.8
+                        ],
+                        [
+                              27.2,
+                              24.2,
+                              21.4,
+                              18.9,
+                              16.5,
+                              14.2,
+                              12.1,
+                              10.4,
+                              8.8,
+                              7.6,
+                              6.9,
+                              6.4,
+                              6.1,
+                              5.9,
+                              5.7,
+                              5.6,
+                              5.4,
+                              5.3,
+                              5.1
+                        ],
+                        [
+                              3,
+                              3.4,
+                              3.7,
+                              4,
+                              4.3,
+                              4.4,
+                              4.4,
+                              4.5,
+                              4.3,
+                              4.3,
+                              4.3,
+                              4.4,
+                              4.6,
+                              4.8,
+                              5,
+                              5.2,
+                              5.3,
+                              5.5,
+                              5.5
+                        ]
+                  ]
+            }
+      },
+      "config": {
+            "graphType": "Area",
+            "graphOrientation": "vertical",
+            "theme": "ggplot",
+            "areaType": "percent",
+            "lineType": "spline",
+            "xAxis": [
+                  "Actinobacteria",
+                  "Bacteroidetes",
+                  "Firmicutes",
+                  "Proteobacteria",
+                  "Other"
+            ],
+            "colorScheme": "User",
+            "colors": [
+                  "#EE7733",
+                  "#0077BB",
+                  "#009988",
+                  "#CC3311",
+                  "#BBBBBB"
+            ],
+            "objectColorTransparency": 0.8,
+            "title": "Gut microbiome composition in the first three years",
+            "smpTitle": "Age (months)",
+            "smpLabelInterval": 3,
+            "smpTextRotate": 90,
+            "xAxisTitle": "Relative abundance (%)",
+            "showLegend": true,
+            "legendPosition": "top",
+            "legendColumns": 5,
+            "decorations": {
+                  "marker": [
+                        {
+                              "text": "Solid food&nl;introduced",
+                              "variable": "Firmicutes",
+                              "sample": "12",
+                              "type": "arrow",
+                              "x": 0.397,
+                              "y": 0.0538,
+                              "id": "area18-marker-0"
+                        }
+                  ]
+            },
+            "source": "Synthetic data for illustration"
+      },
+      "events": {},
+      "info": false,
+      "afterRender": [
+            [
+                  "setDimensions",
+                  [
+                        636,
+                        468,
+                        true
+                  ]
+            ],
+            [
+                  "setDimensions",
+                  [
+                        800,
+                        800
+                  ],
+                  {},
+                  false,
+                  1791827376365
+            ]
+      ],
+      "noValidate": true,
+      "factory": {
+            "version": 71.3,
+            "specSchemaVersion": "1.0",
+            "buildDate": "10-11-2026",
+            "client": "MDo6MTo6NzEuMzo6Y2FudmFzeHByZXNzLm9yZzo6",
+            "siteSrc": false,
+            "href": "https://canvasxpress.org/examples/area-18.html",
+            "services": "https://www.canvasxpress.org/cgi-bin/services.py"
+      },
+      "system": {
+            "browser": "Chrome",
+            "browserVersion": "153",
+            "os": "Mac OS",
+            "alt": "&#8997;",
+            "command": "&#8984;",
+            "control": "&#8963;",
+            "shift": "&#8679;",
+            "isNode": false,
+            "isReact": false,
+            "isjQuery": true,
+            "isReveal": false,
+            "isZoom": false,
+            "isIE": false,
+            "isInIframe": false,
+            "isR": false,
+            "isHTMLWidgets": false,
+            "isShiny": false,
+            "isRViewer": false,
+            "isRConsole": false,
+            "isCxplot": false,
+            "isGGMatrix": false,
+            "isJupyter": false,
+            "isVSCode": false
+      }
+}

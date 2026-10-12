@@ -1,0 +1,321 @@
+{
+      "version": 71.3,
+      "renderTo": "oncoprint1",
+      "data": {
+            "x": {
+                  "Annt1": [
+                        "Desc : 1",
+                        "Desc : 2",
+                        "Desc : 1"
+                  ],
+                  "Annt2": [
+                        23,
+                        34,
+                        52
+                  ],
+                  "Annt3": [
+                        12,
+                        14,
+                        34
+                  ],
+                  "Annt4": [
+                        8,
+                        14,
+                        14
+                  ],
+                  "Annt5": [
+                        17,
+                        9,
+                        18
+                  ]
+            },
+            "y": {
+                  "data": [
+                        [
+                              3.1,
+                              3.5,
+                              4
+                        ],
+                        [
+                              3,
+                              7.4,
+                              4.1
+                        ],
+                        [
+                              2.8,
+                              3.1,
+                              3.3
+                        ],
+                        [
+                              2.3,
+                              2.4,
+                              2.1
+                        ],
+                        [
+                              4.9,
+                              6.1,
+                              6.1
+                        ],
+                        [
+                              1.9,
+                              2.1,
+                              0.1
+                        ],
+                        [
+                              2.2,
+                              1.9,
+                              2.1
+                        ],
+                        [
+                              1.7,
+                              2.1,
+                              0.2
+                        ],
+                        [
+                              0.2,
+                              4.9,
+                              3.9
+                        ]
+                  ],
+                  "data2": [
+                        [
+                              "",
+                              "",
+                              "Amplification"
+                        ],
+                        [
+                              "",
+                              "Amplification",
+                              ""
+                        ],
+                        [
+                              "",
+                              "",
+                              ""
+                        ],
+                        [
+                              "",
+                              "",
+                              ""
+                        ],
+                        [
+                              "",
+                              "Amplification",
+                              "Amplification"
+                        ],
+                        [
+                              "",
+                              "",
+                              ""
+                        ],
+                        [
+                              "",
+                              "",
+                              ""
+                        ],
+                        [
+                              "",
+                              "",
+                              "Deletion"
+                        ],
+                        [
+                              "Deletion",
+                              "Amplification",
+                              ""
+                        ]
+                  ],
+                  "data3": [
+                        [
+                              "",
+                              "",
+                              "Missence"
+                        ],
+                        [
+                              "",
+                              "",
+                              "Truncating"
+                        ],
+                        [
+                              "Nonsense",
+                              "",
+                              ""
+                        ],
+                        [
+                              "",
+                              "Missence",
+                              ""
+                        ],
+                        [
+                              "",
+                              "Truncating",
+                              ""
+                        ],
+                        [
+                              "",
+                              "Nonsense",
+                              ""
+                        ],
+                        [
+                              "",
+                              "",
+                              ""
+                        ],
+                        [
+                              "Missence",
+                              "",
+                              ""
+                        ],
+                        [
+                              "",
+                              "",
+                              ""
+                        ]
+                  ],
+                  "data4": [
+                        [
+                              "",
+                              "A",
+                              ""
+                        ],
+                        [
+                              "",
+                              "A",
+                              ""
+                        ],
+                        [
+                              "",
+                              "A",
+                              ""
+                        ],
+                        [
+                              "",
+                              "A",
+                              ""
+                        ],
+                        [
+                              "",
+                              "B",
+                              ""
+                        ],
+                        [
+                              "",
+                              "B",
+                              ""
+                        ],
+                        [
+                              "",
+                              "",
+                              "B"
+                        ],
+                        [
+                              "",
+                              "",
+                              "B"
+                        ],
+                        [
+                              "B",
+                              "",
+                              ""
+                        ]
+                  ],
+                  "smps": [
+                        "V1",
+                        "V2",
+                        "V3"
+                  ],
+                  "vars": [
+                        "S1",
+                        "S2",
+                        "S3",
+                        "S4",
+                        "S5",
+                        "S6",
+                        "S7",
+                        "S8",
+                        "S9"
+                  ]
+            },
+            "z": {
+                  "Factor": [
+                        "Lev : 1",
+                        "Lev : 2",
+                        "Lev : 1",
+                        "Lev : 2",
+                        "Lev : 1",
+                        "Lev : 2",
+                        "Lev : 1",
+                        "Lev : 2",
+                        "Lev : 1"
+                  ]
+            }
+      },
+      "config": {
+            "graphType": "Heatmap",
+            "oncoprintCNA": "data2",
+            "oncoprintMUT": "data3",
+            "overlaysThickness": 100,
+            "xAxis": [
+                  "V1",
+                  "V2",
+                  "V3"
+            ],
+            "graphOrientation": "horizontal"
+      },
+      "events": {},
+      "info": false,
+      "afterRender": [
+            [
+                  "setDimensions",
+                  [
+                        596,
+                        596,
+                        true
+                  ]
+            ],
+            [
+                  "setDimensions",
+                  [
+                        800,
+                        800
+                  ],
+                  {},
+                  false,
+                  1791831061495
+            ]
+      ],
+      "noValidate": true,
+      "factory": {
+            "version": 71.3,
+            "specSchemaVersion": "1.0",
+            "buildDate": "10-11-2026",
+            "client": "MDo6MTo6NzEuMzo6Y2FudmFzeHByZXNzLm9yZzo6",
+            "siteSrc": false,
+            "href": "https://canvasxpress.org/examples/oncoprint-1.html",
+            "services": "https://www.canvasxpress.org/cgi-bin/services.py"
+      },
+      "system": {
+            "browser": "Chrome",
+            "browserVersion": "153",
+            "os": "Mac OS",
+            "alt": "&#8997;",
+            "command": "&#8984;",
+            "control": "&#8963;",
+            "shift": "&#8679;",
+            "isNode": false,
+            "isReact": false,
+            "isjQuery": true,
+            "isReveal": false,
+            "isZoom": false,
+            "isIE": false,
+            "isInIframe": false,
+            "isR": false,
+            "isHTMLWidgets": false,
+            "isShiny": false,
+            "isRViewer": false,
+            "isRConsole": false,
+            "isCxplot": false,
+            "isGGMatrix": false,
+            "isJupyter": false,
+            "isVSCode": false
+      }
+}

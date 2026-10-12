@@ -1,0 +1,165 @@
+{
+      "version": 71.3,
+      "renderTo": "genome1",
+      "data": {
+            "tracks": [
+                  {
+                        "data": [
+                              {
+                                    "dir": "right",
+                                    "fill": "rgb(51,255,255)",
+                                    "id": "Reference Sequence",
+                                    "offset": 1,
+                                    "outline": "rgb(0,0,0)",
+                                    "sequence": "TACGTACGTACGTACGTACGTACGTACGT"
+                              },
+                              {
+                                    "dir": "right",
+                                    "fill": "rgb(255,255,51)",
+                                    "gaps": [
+                                          [
+                                                4,
+                                                2
+                                          ],
+                                          [
+                                                8,
+                                                1
+                                          ]
+                                    ],
+                                    "id": "R1-0000-1234",
+                                    "offset": 1,
+                                    "outline": "rgb(0,0,0)",
+                                    "sequence": "TACGCGTAGTACGT"
+                              },
+                              {
+                                    "dir": "right",
+                                    "fill": "rgb(255,255,102)",
+                                    "gaps": [
+                                          [
+                                                3,
+                                                1
+                                          ],
+                                          [
+                                                10,
+                                                1
+                                          ]
+                                    ],
+                                    "id": "R1-0000-2345",
+                                    "offset": 6,
+                                    "outline": "rgb(0,0,0)",
+                                    "sequence": "ACGACGTACGACG"
+                              },
+                              {
+                                    "dir": "left",
+                                    "fill": "rgb(255,51,255)",
+                                    "gaps": [
+                                          [
+                                                7,
+                                                2
+                                          ]
+                                    ],
+                                    "id": "R1-0000-3456",
+                                    "offset": 12,
+                                    "offsetLeft": "23",
+                                    "outline": "rgb(0,0,0)",
+                                    "sequence": "GTACGTATAC"
+                              },
+                              {
+                                    "dir": "right",
+                                    "fill": "rgb(255,102,255)",
+                                    "gaps": [
+                                          [
+                                                5,
+                                                1
+                                          ]
+                                    ],
+                                    "id": "R1-0000-4567",
+                                    "offset": 15,
+                                    "outline": "rgb(0,0,0)",
+                                    "sequence": "CGTACTACGTA"
+                              },
+                              {
+                                    "dir": "right",
+                                    "fill": "rgb(51,255,255)",
+                                    "gaps": [
+                                          [
+                                                7,
+                                                1
+                                          ]
+                                    ],
+                                    "id": "R1-0000-5678",
+                                    "offset": 18,
+                                    "outline": "rgb(0,0,0)",
+                                    "sequence": "ACGTACGACGT"
+                              }
+                        ],
+                        "subtype": "DNA",
+                        "type": "sequence"
+                  }
+            ]
+      },
+      "config": {
+            "background": "rgb(245,245,245)",
+            "graphType": "Genome",
+            "setMax": 30,
+            "setMin": 0,
+            "graphOrientation": "horizontal"
+      },
+      "events": {},
+      "info": false,
+      "afterRender": [
+            [
+                  "setDimensions",
+                  [
+                        596,
+                        198,
+                        true
+                  ]
+            ],
+            [
+                  "setDimensions",
+                  [
+                        800,
+                        800
+                  ],
+                  {},
+                  false,
+                  1791829180660
+            ]
+      ],
+      "noValidate": true,
+      "factory": {
+            "version": 71.3,
+            "specSchemaVersion": "1.0",
+            "buildDate": "10-11-2026",
+            "client": "MDo6MTo6NzEuMzo6Y2FudmFzeHByZXNzLm9yZzo6",
+            "siteSrc": false,
+            "href": "https://canvasxpress.org/examples/genome-1.html",
+            "services": "https://www.canvasxpress.org/cgi-bin/services.py"
+      },
+      "system": {
+            "browser": "Chrome",
+            "browserVersion": "153",
+            "os": "Mac OS",
+            "alt": "&#8997;",
+            "command": "&#8984;",
+            "control": "&#8963;",
+            "shift": "&#8679;",
+            "isNode": false,
+            "isReact": false,
+            "isjQuery": true,
+            "isReveal": false,
+            "isZoom": false,
+            "isIE": false,
+            "isInIframe": false,
+            "isR": false,
+            "isHTMLWidgets": false,
+            "isShiny": false,
+            "isRViewer": false,
+            "isRConsole": false,
+            "isCxplot": false,
+            "isGGMatrix": false,
+            "isJupyter": false,
+            "isVSCode": false
+      }
+}

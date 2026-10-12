@@ -1,0 +1,151 @@
+{
+      "version": 71.3,
+      "renderTo": "bullet4",
+      "data": {
+            "y": {
+                  "data": [
+                        [
+                              230,
+                              180,
+                              185,
+                              225,
+                              80,
+                              190
+                        ],
+                        [
+                              100,
+                              15,
+                              35,
+                              115,
+                              95,
+                              30
+                        ],
+                        [
+                              150,
+                              50,
+                              70,
+                              170,
+                              135,
+                              50
+                        ],
+                        [
+                              250,
+                              250,
+                              250,
+                              250,
+                              250,
+                              250
+                        ],
+                        [
+                              234,
+                              120,
+                              150,
+                              230,
+                              175,
+                              55
+                        ]
+                  ],
+                  "smps": [
+                        "USA",
+                        "Chile",
+                        "Brazil",
+                        "Canada",
+                        "Mexico",
+                        "Argentina"
+                  ],
+                  "vars": [
+                        "Value",
+                        "Low",
+                        "Average",
+                        "High",
+                        "Target"
+                  ]
+            }
+      },
+      "config": {
+            "colors": [
+                  "#305DCB",
+                  "#E4EFFD",
+                  "#ADCFFA",
+                  "#73AFF8"
+            ],
+            "dataValuesPosition": "inside",
+            "dataTextColor": "#FFFFFF",
+            "graphOrientation": "horizontal",
+            "graphType": "Bullet",
+            "showDataValues": true,
+            "xAxis": [
+                  "Value"
+            ],
+            "rangeStack": [
+                  "Low",
+                  "Average",
+                  "High"
+            ],
+            "rangeColors": [
+                  "#73AFF8",
+                  "#ADCFFA",
+                  "#E4EFFD"
+            ],
+            "bulletTargetVarName": "Target",
+            "barType": "normal",
+            "meterType": "gauge"
+      },
+      "events": {},
+      "info": false,
+      "afterRender": [
+            [
+                  "setDimensions",
+                  [
+                        596,
+                        596,
+                        true
+                  ]
+            ],
+            [
+                  "setDimensions",
+                  [
+                        800,
+                        800
+                  ],
+                  {},
+                  false,
+                  1791827983457
+            ]
+      ],
+      "noValidate": true,
+      "factory": {
+            "version": 71.3,
+            "specSchemaVersion": "1.0",
+            "buildDate": "10-11-2026",
+            "client": "MDo6MTo6NzEuMzo6Y2FudmFzeHByZXNzLm9yZzo6",
+            "siteSrc": false,
+            "href": "https://canvasxpress.org/examples/bullet-4.html",
+            "services": "https://www.canvasxpress.org/cgi-bin/services.py"
+      },
+      "system": {
+            "browser": "Chrome",
+            "browserVersion": "153",
+            "os": "Mac OS",
+            "alt": "&#8997;",
+            "command": "&#8984;",
+            "control": "&#8963;",
+            "shift": "&#8679;",
+            "isNode": false,
+            "isReact": false,
+            "isjQuery": true,
+            "isReveal": false,
+            "isZoom": false,
+            "isIE": false,
+            "isInIframe": false,
+            "isR": false,
+            "isHTMLWidgets": false,
+            "isShiny": false,
+            "isRViewer": false,
+            "isRConsole": false,
+            "isCxplot": false,
+            "isGGMatrix": false,
+            "isJupyter": false,
+            "isVSCode": false
+      }
+}

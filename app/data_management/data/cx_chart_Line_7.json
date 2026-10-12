@@ -1,0 +1,135 @@
+{
+      "version": 71.3,
+      "renderTo": "line7",
+      "data": {
+            "y": {
+                  "vars": [
+                        "Germany",
+                        "France",
+                        "Italy",
+                        "Spain"
+                  ],
+                  "smps": [
+                        "Y2016",
+                        "Y2017",
+                        "Y2018",
+                        "Y2019",
+                        "Y2020",
+                        "Y2021"
+                  ],
+                  "data": [
+                        [
+                              41.2,
+                              42,
+                              42.9,
+                              38.9,
+                              40.5,
+                              42.2
+                        ],
+                        [
+                              36.5,
+                              37.1,
+                              37.8,
+                              34.2,
+                              35.9,
+                              37.5
+                        ],
+                        [
+                              28.9,
+                              29.4,
+                              30.1,
+                              26.8,
+                              28.1,
+                              29.5
+                        ],
+                        [
+                              24.1,
+                              24.8,
+                              25.5,
+                              22,
+                              23.6,
+                              25.1
+                        ]
+                  ]
+            }
+      },
+      "config": {
+            "graphType": "Line",
+            "graphOrientation": "vertical",
+            "title": "GDP per capita (thousand USD)",
+            "a11yDescription": "GDP per capita fell in all four countries in 2019 and had recovered by 2021. Germany stays highest (42.2 thousand USD in 2021) and Spain lowest (25.1).",
+            "showLineEndLabels": true,
+            "decorations": {
+                  "marker": [
+                        {
+                              "text": "COVID-19 drop",
+                              "variable": "Germany",
+                              "sample": "Y2019",
+                              "type": "curved",
+                              "x": 0.42,
+                              "y": 0.12,
+                              "id": "line7-marker-0"
+                        }
+                  ]
+            },
+            "source": "Eurostat",
+            "byline": "Chart: CanvasXpress"
+      },
+      "events": {},
+      "info": false,
+      "afterRender": [
+            [
+                  "setDimensions",
+                  [
+                        596,
+                        596,
+                        true
+                  ]
+            ],
+            [
+                  "setDimensions",
+                  [
+                        800,
+                        800
+                  ],
+                  {},
+                  false,
+                  1791829869700
+            ]
+      ],
+      "noValidate": true,
+      "factory": {
+            "version": 71.3,
+            "specSchemaVersion": "1.0",
+            "buildDate": "10-11-2026",
+            "client": "MDo6MTo6NzEuMzo6Y2FudmFzeHByZXNzLm9yZzo6",
+            "siteSrc": false,
+            "href": "https://canvasxpress.org/examples/line-7.html",
+            "services": "https://www.canvasxpress.org/cgi-bin/services.py"
+      },
+      "system": {
+            "browser": "Chrome",
+            "browserVersion": "153",
+            "os": "Mac OS",
+            "alt": "&#8997;",
+            "command": "&#8984;",
+            "control": "&#8963;",
+            "shift": "&#8679;",
+            "isNode": false,
+            "isReact": false,
+            "isjQuery": true,
+            "isReveal": false,
+            "isZoom": false,
+            "isIE": false,
+            "isInIframe": false,
+            "isR": false,
+            "isHTMLWidgets": false,
+            "isShiny": false,
+            "isRViewer": false,
+            "isRConsole": false,
+            "isCxplot": false,
+            "isGGMatrix": false,
+            "isJupyter": false,
+            "isVSCode": false
+      }
+}

@@ -1,0 +1,182 @@
+{
+      "version": 71.3,
+      "renderTo": "contour5",
+      "data": {
+            "y": {
+                  "data": [
+                        [
+                              16,
+                              17,
+                              18,
+                              19,
+                              19,
+                              21,
+                              22
+                        ],
+                        [
+                              15,
+                              16,
+                              17,
+                              18,
+                              20,
+                              21,
+                              23
+                        ],
+                        [
+                              14,
+                              13,
+                              14,
+                              15,
+                              18,
+                              21,
+                              24
+                        ],
+                        [
+                              13,
+                              12,
+                              11,
+                              13,
+                              16,
+                              23,
+                              25
+                        ],
+                        [
+                              12,
+                              11,
+                              7,
+                              8,
+                              9,
+                              27,
+                              26
+                        ],
+                        [
+                              7,
+                              6,
+                              7,
+                              8,
+                              10,
+                              5,
+                              17
+                        ],
+                        [
+                              4,
+                              1,
+                              2,
+                              3,
+                              4,
+                              10,
+                              14
+                        ],
+                        [
+                              2,
+                              3,
+                              4,
+                              5,
+                              7,
+                              9,
+                              11
+                        ]
+                  ],
+                  "smps": [
+                        "s1",
+                        "s2",
+                        "s3",
+                        "s4",
+                        "s5",
+                        "s6",
+                        "s7"
+                  ],
+                  "vars": [
+                        "v1",
+                        "v2",
+                        "v3",
+                        "v4",
+                        "v5",
+                        "v6",
+                        "v7",
+                        "v8"
+                  ]
+            }
+      },
+      "config": {
+            "contourType": "normal",
+            "graphType": "Heatmap",
+            "heatmapCellBox": false,
+            "lineType": "spline",
+            "showContourLevel": false,
+            "showSampleNames": false,
+            "showVariableNames": false,
+            "xAxis": [
+                  "v1",
+                  "v2",
+                  "v3",
+                  "v4",
+                  "v5",
+                  "v6",
+                  "v7",
+                  "v8"
+            ],
+            "graphOrientation": "horizontal"
+      },
+      "events": {},
+      "info": false,
+      "afterRender": [
+            [
+                  "setDimensions",
+                  [
+                        596,
+                        596,
+                        true
+                  ]
+            ],
+            [
+                  "createContour",
+                  []
+            ],
+            [
+                  "setDimensions",
+                  [
+                        800,
+                        800
+                  ],
+                  {},
+                  false,
+                  1791828237134
+            ]
+      ],
+      "noValidate": true,
+      "factory": {
+            "version": 71.3,
+            "specSchemaVersion": "1.0",
+            "buildDate": "10-11-2026",
+            "client": "MDo6MTo6NzEuMzo6Y2FudmFzeHByZXNzLm9yZzo6",
+            "siteSrc": false,
+            "href": "https://canvasxpress.org/examples/contour-5.html",
+            "services": "https://www.canvasxpress.org/cgi-bin/services.py"
+      },
+      "system": {
+            "browser": "Chrome",
+            "browserVersion": "153",
+            "os": "Mac OS",
+            "alt": "&#8997;",
+            "command": "&#8984;",
+            "control": "&#8963;",
+            "shift": "&#8679;",
+            "isNode": false,
+            "isReact": false,
+            "isjQuery": true,
+            "isReveal": false,
+            "isZoom": false,
+            "isIE": false,
+            "isInIframe": false,
+            "isR": false,
+            "isHTMLWidgets": false,
+            "isShiny": false,
+            "isRViewer": false,
+            "isRConsole": false,
+            "isCxplot": false,
+            "isGGMatrix": false,
+            "isJupyter": false,
+            "isVSCode": false
+      }
+}

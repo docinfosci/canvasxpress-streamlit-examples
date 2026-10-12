@@ -1,0 +1,107 @@
+{
+      "version": 70.8,
+      "renderTo": "stacked6",
+      "data": {
+            "y": {
+                  "vars": [
+                        "Renewables",
+                        "Nuclear",
+                        "Fossil"
+                  ],
+                  "smps": [
+                        "2000",
+                        "2010",
+                        "2020",
+                        "2024"
+                  ],
+                  "data": [
+                        [
+                              7,
+                              11,
+                              20,
+                              30
+                        ],
+                        [
+                              17,
+                              14,
+                              10,
+                              9
+                        ],
+                        [
+                              76,
+                              75,
+                              70,
+                              61
+                        ]
+                  ]
+            }
+      },
+      "config": {
+            "graphType": "Stacked",
+            "graphOrientation": "vertical",
+            "title": "Electricity mix (%)",
+            "notes": "Shares of gross generation. 2024 values preliminary.",
+            "source": "IEA",
+            "sourceUrl": "https://www.iea.org",
+            "byline": "Chart: CanvasXpress",
+            "showDataDownload": true,
+            "legendPosition": "bottom"
+      },
+      "events": {},
+      "info": false,
+      "afterRender": [
+            [
+                  "setDimensions",
+                  [
+                        596,
+                        596,
+                        true
+                  ]
+            ],
+            [
+                  "setDimensions",
+                  [
+                        800,
+                        800
+                  ],
+                  {},
+                  false,
+                  1790897104016
+            ]
+      ],
+      "noValidate": true,
+      "factory": {
+            "version": 70.8,
+            "specSchemaVersion": "1.0",
+            "buildDate": "10-01-2026",
+            "client": "MDo6MTo6NzAuODo6Y2FudmFzeHByZXNzLm9yZzo6",
+            "siteSrc": false,
+            "href": "https://canvasxpress.org/examples/stacked-6.html",
+            "services": "https://www.canvasxpress.org/cgi-bin/services.py"
+      },
+      "system": {
+            "browser": "Chrome",
+            "browserVersion": "153",
+            "os": "Mac OS",
+            "alt": "&#8997;",
+            "command": "&#8984;",
+            "control": "&#8963;",
+            "shift": "&#8679;",
+            "isNode": false,
+            "isReact": false,
+            "isjQuery": true,
+            "isReveal": false,
+            "isZoom": false,
+            "isIE": false,
+            "isInIframe": false,
+            "isR": false,
+            "isHTMLWidgets": false,
+            "isShiny": false,
+            "isRViewer": false,
+            "isRConsole": false,
+            "isCxplot": false,
+            "isGGMatrix": false,
+            "isJupyter": false,
+            "isVSCode": false
+      }
+}

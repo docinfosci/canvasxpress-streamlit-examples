@@ -1,0 +1,271 @@
+{
+      "version": 70.8,
+      "renderTo": "swimmer1",
+      "data": {
+            "x": {
+                  "Durable": [
+                        false,
+                        false,
+                        false,
+                        true,
+                        false,
+                        false,
+                        false,
+                        false,
+                        true,
+                        false,
+                        true,
+                        true,
+                        false,
+                        true,
+                        true
+                  ],
+                  "High Cap": [
+                        "Arrow",
+                        "Arrow",
+                        "Arrow",
+                        "Arrow",
+                        "Arrow",
+                        "Arrow",
+                        "Arrow",
+                        "Arrow",
+                        "Arrow",
+                        "Arrow",
+                        null,
+                        null,
+                        "Arrow",
+                        null,
+                        "Arrow"
+                  ],
+                  "Response": [
+                        20,
+                        10,
+                        10,
+                        -15,
+                        -15,
+                        -15,
+                        -20,
+                        -20,
+                        -22,
+                        -22,
+                        -25,
+                        -30,
+                        -42,
+                        -45,
+                        -50
+                  ],
+                  "Stage": [
+                        "Stage4",
+                        "Stage2",
+                        "Stage2",
+                        "Stage1",
+                        "Stage1",
+                        "Stage1",
+                        "Stage4",
+                        "Stage4",
+                        "Stage3",
+                        "Stage3",
+                        "Stage1",
+                        "Stage3",
+                        "Stage2",
+                        "Stage2",
+                        "Stage1"
+                  ],
+                  "Status": [
+                        "Partial Response",
+                        "Partial Response",
+                        "Partial Response",
+                        "Complete Response",
+                        "Complete Response",
+                        "Partial Response",
+                        "Partial Response",
+                        "Partial Response",
+                        "Partial Response",
+                        "Partial Response",
+                        "Complete Response",
+                        "Complete Response",
+                        "Complete Response",
+                        "Complete Response",
+                        "Complete Response"
+                  ],
+                  "Subject": [
+                        "S1",
+                        "S2",
+                        "S2",
+                        "S3",
+                        "S3",
+                        "S3",
+                        "S4",
+                        "S4",
+                        "S5",
+                        "S5",
+                        "S6",
+                        "S7",
+                        "S8",
+                        "S9",
+                        "S10"
+                  ]
+            },
+            "y": {
+                  "data": [
+                        [
+                              8.3,
+                              12.6,
+                              12.6,
+                              12.5,
+                              12.5,
+                              12.5,
+                              13.5,
+                              13.5,
+                              14,
+                              14,
+                              9.5,
+                              11.5,
+                              7.2,
+                              17,
+                              18.5
+                        ],
+                        [
+                              6,
+                              2.5,
+                              9.5,
+                              3.5,
+                              6.5,
+                              10.5,
+                              7,
+                              11.5,
+                              2.5,
+                              6,
+                              1,
+                              4.5,
+                              1.2,
+                              10.5,
+                              6.5
+                        ],
+                        [
+                              null,
+                              7,
+                              null,
+                              4.5,
+                              8.5,
+                              null,
+                              10,
+                              null,
+                              3.5,
+                              null,
+                              9.5,
+                              11.5,
+                              null,
+                              17,
+                              13.5
+                        ]
+                  ],
+                  "smps": [
+                        "S1",
+                        "S2",
+                        "S3",
+                        "S4",
+                        "S5",
+                        "S6",
+                        "S7",
+                        "S8",
+                        "S9",
+                        "S10",
+                        "S11",
+                        "S12",
+                        "S13",
+                        "S14",
+                        "S15"
+                  ],
+                  "vars": [
+                        "high",
+                        "start",
+                        "end"
+                  ]
+            }
+      },
+      "config": {
+            "barType": "swimmer",
+            "colorBy": "Stage",
+            "colorScheme": "CanvasXpress",
+            "graphOrientation": "horizontal",
+            "graphType": "Bar",
+            "groupingFactors": [
+                  "Subject"
+            ],
+            "objectColorTransparency": 0.5,
+            "smpOverlays": [
+                  "Durable"
+            ],
+            "swimDurable": "Durable",
+            "swimEnd": "end",
+            "swimHigh": "high",
+            "swimHighCap": "High Cap",
+            "swimStart": "start",
+            "swimStatus": "Status",
+            "title": "Tumor Response with Duration by Stage and Month",
+            "xAxisTitle": "Duration of Treatment in Months",
+            "xAxis": [
+                  "high",
+                  "start",
+                  "end"
+            ]
+      },
+      "events": {},
+      "info": false,
+      "afterRender": [
+            [
+                  "setDimensions",
+                  [
+                        596,
+                        596,
+                        true
+                  ]
+            ],
+            [
+                  "setDimensions",
+                  [
+                        800,
+                        800
+                  ],
+                  {},
+                  false,
+                  1790897346325
+            ]
+      ],
+      "noValidate": true,
+      "factory": {
+            "version": 70.8,
+            "specSchemaVersion": "1.0",
+            "buildDate": "10-01-2026",
+            "client": "MDo6MTo6NzAuODo6Y2FudmFzeHByZXNzLm9yZzo6",
+            "siteSrc": false,
+            "href": "https://canvasxpress.org/examples/swimmer-1.html",
+            "services": "https://www.canvasxpress.org/cgi-bin/services.py"
+      },
+      "system": {
+            "browser": "Chrome",
+            "browserVersion": "153",
+            "os": "Mac OS",
+            "alt": "&#8997;",
+            "command": "&#8984;",
+            "control": "&#8963;",
+            "shift": "&#8679;",
+            "isNode": false,
+            "isReact": false,
+            "isjQuery": true,
+            "isReveal": false,
+            "isZoom": false,
+            "isIE": false,
+            "isInIframe": false,
+            "isR": false,
+            "isHTMLWidgets": false,
+            "isShiny": false,
+            "isRViewer": false,
+            "isRConsole": false,
+            "isCxplot": false,
+            "isGGMatrix": false,
+            "isJupyter": false,
+            "isVSCode": false
+      }
+}

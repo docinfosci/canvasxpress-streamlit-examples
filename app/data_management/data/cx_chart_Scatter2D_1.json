@@ -1,0 +1,155 @@
+{
+      "version": 70.8,
+      "renderTo": "scatter2d1",
+      "data": {
+            "y": {
+                  "data": [
+                        [
+                              6.47,
+                              4.03
+                        ],
+                        [
+                              6.13,
+                              3.76
+                        ],
+                        [
+                              6.19,
+                              3.77
+                        ],
+                        [
+                              4.89,
+                              3.34
+                        ],
+                        [
+                              5.63,
+                              3.47
+                        ],
+                        [
+                              4.52,
+                              2.92
+                        ],
+                        [
+                              5.89,
+                              3.2
+                        ],
+                        [
+                              4.79,
+                              2.71
+                        ],
+                        [
+                              3.53,
+                              3.53
+                        ],
+                        [
+                              6.08,
+                              4.51
+                        ],
+                        [
+                              4.02,
+                              4.56
+                        ]
+                  ],
+                  "smps": [
+                        "Alcohol",
+                        "Tobacco"
+                  ],
+                  "vars": [
+                        "North",
+                        "Yorkshire",
+                        "Northeast",
+                        "East Midlands",
+                        "West Midlands",
+                        "East Anglia",
+                        "Southeast",
+                        "Southwest",
+                        "Wales",
+                        "Scotland",
+                        "Northern Ireland"
+                  ]
+            }
+      },
+      "config": {
+            "citation": "Moore, David S., and George P. McCabe (1989). Introduction to the Practice of Statistics, p. 179.",
+            "decorations": {
+                  "marker": [
+                        {
+                              "sample": [
+                                    "Alcohol",
+                                    "Tobacco"
+                              ],
+                              "text": "Maybe an Outlier?",
+                              "variable": "Northern Ireland",
+                              "x": 0.45,
+                              "y": 0.18,
+                              "id": "scatter2d1-marker-0"
+                        }
+                  ]
+            },
+            "graphType": "Scatter2D",
+            "showTransition": false,
+            "title": "Average weekly household spending, in British pounds, on tobacco products&nl;and alcoholic beverages for each of the 11 regions of Great Britain.",
+            "xAxis": [
+                  "Alcohol"
+            ],
+            "yAxis": [
+                  "Tobacco"
+            ]
+      },
+      "events": {},
+      "info": false,
+      "afterRender": [
+            [
+                  "setDimensions",
+                  [
+                        596,
+                        596,
+                        true
+                  ]
+            ],
+            [
+                  "setDimensions",
+                  [
+                        800,
+                        800
+                  ],
+                  {},
+                  false,
+                  1790896688101
+            ]
+      ],
+      "noValidate": true,
+      "factory": {
+            "version": 70.8,
+            "specSchemaVersion": "1.0",
+            "buildDate": "10-01-2026",
+            "client": "MDo6MTo6NzAuODo6Y2FudmFzeHByZXNzLm9yZzo6",
+            "siteSrc": false,
+            "href": "https://canvasxpress.org/examples/scatter2d-1.html",
+            "services": "https://www.canvasxpress.org/cgi-bin/services.py"
+      },
+      "system": {
+            "browser": "Chrome",
+            "browserVersion": "153",
+            "os": "Mac OS",
+            "alt": "&#8997;",
+            "command": "&#8984;",
+            "control": "&#8963;",
+            "shift": "&#8679;",
+            "isNode": false,
+            "isReact": false,
+            "isjQuery": true,
+            "isReveal": false,
+            "isZoom": false,
+            "isIE": false,
+            "isInIframe": false,
+            "isR": false,
+            "isHTMLWidgets": false,
+            "isShiny": false,
+            "isRViewer": false,
+            "isRConsole": false,
+            "isCxplot": false,
+            "isGGMatrix": false,
+            "isJupyter": false,
+            "isVSCode": false
+      }
+}

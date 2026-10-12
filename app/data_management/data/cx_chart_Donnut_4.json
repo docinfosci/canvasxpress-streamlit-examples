@@ -1,0 +1,131 @@
+{
+      "version": 71.3,
+      "renderTo": "donnut4",
+      "data": {
+            "y": {
+                  "vars": [
+                        "Oxygen",
+                        "Silicon",
+                        "Hydrogen",
+                        "Helium",
+                        "Iron",
+                        "Other"
+                  ],
+                  "smps": [
+                        "Earth crust",
+                        "Sun"
+                  ],
+                  "data": [
+                        [
+                              47,
+                              1
+                        ],
+                        [
+                              28,
+                              1
+                        ],
+                        [
+                              1,
+                              73
+                        ],
+                        [
+                              0.2,
+                              25
+                        ],
+                        [
+                              5,
+                              1
+                        ],
+                        [
+                              19,
+                              0.2
+                        ]
+                  ]
+            }
+      },
+      "config": {
+            "graphType": "Pie",
+            "theme": "paulTol",
+            "pieInnerRadius": 0.5,
+            "pieSegmentLabels": "inside",
+            "pieSegmentPrecision": 0,
+            "pieSegmentSeparation": 0,
+            "showPieGrid": false,
+            "showPieSampleLabel": true,
+            "colorScheme": "User",
+            "colors": [
+                  "#4477AA",
+                  "#66CCEE",
+                  "#228833",
+                  "#CCBB44",
+                  "#EE6677",
+                  "#BBBBBB"
+            ],
+            "xAxis": [
+                  "Earth crust",
+                  "Sun"
+            ],
+            "title": "The Sun is hydrogen; the crust is oxygen and silicon",
+            "subtitle": "Share of mass by element, %, synthetic round numbers",
+            "legendPosition": "left",
+            "showTransition": false,
+            "graphOrientation": "horizontal"
+      },
+      "events": {},
+      "info": false,
+      "afterRender": [
+            [
+                  "setDimensions",
+                  [
+                        636,
+                        435,
+                        true
+                  ]
+            ],
+            [
+                  "setDimensions",
+                  [
+                        800,
+                        800
+                  ],
+                  {},
+                  false,
+                  1791828555975
+            ]
+      ],
+      "noValidate": true,
+      "factory": {
+            "version": 71.3,
+            "specSchemaVersion": "1.0",
+            "buildDate": "10-11-2026",
+            "client": "MDo6MTo6NzEuMzo6Y2FudmFzeHByZXNzLm9yZzo6",
+            "siteSrc": false,
+            "href": "https://canvasxpress.org/examples/donnut-4.html",
+            "services": "https://www.canvasxpress.org/cgi-bin/services.py"
+      },
+      "system": {
+            "browser": "Chrome",
+            "browserVersion": "153",
+            "os": "Mac OS",
+            "alt": "&#8997;",
+            "command": "&#8984;",
+            "control": "&#8963;",
+            "shift": "&#8679;",
+            "isNode": false,
+            "isReact": false,
+            "isjQuery": true,
+            "isReveal": false,
+            "isZoom": false,
+            "isIE": false,
+            "isInIframe": false,
+            "isR": false,
+            "isHTMLWidgets": false,
+            "isShiny": false,
+            "isRViewer": false,
+            "isRConsole": false,
+            "isCxplot": false,
+            "isGGMatrix": false,
+            "isJupyter": false,
+            "isVSCode": false
+      }
+}

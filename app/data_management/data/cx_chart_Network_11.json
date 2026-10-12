@@ -1,0 +1,231 @@
+{
+      "version": 71.3,
+      "renderTo": "network11",
+      "data": {
+            "edges": [
+                  {
+                        "id1": "Id1",
+                        "id2": "Id2",
+                        "thickness": 3,
+                        "id": "Id1 -> Id2"
+                  },
+                  {
+                        "id1": "Id2",
+                        "id2": "Id3",
+                        "thickness": 3,
+                        "id": "Id2 -> Id3"
+                  },
+                  {
+                        "id1": "Id3",
+                        "id2": "Id4",
+                        "thickness": 3,
+                        "id": "Id3 -> Id4"
+                  },
+                  {
+                        "id1": "Id0",
+                        "id2": "Id1",
+                        "thickness": 3,
+                        "id": "Id0 -> Id1"
+                  },
+                  {
+                        "id1": "Id2",
+                        "id2": "Id0",
+                        "thickness": 3,
+                        "id": "Id2 -> Id0"
+                  },
+                  {
+                        "id1": "Id3",
+                        "id2": "Id5",
+                        "thickness": 3,
+                        "id": "Id3 -> Id5"
+                  },
+                  {
+                        "id1": "Id0",
+                        "id2": "Id5",
+                        "thickness": 3,
+                        "id": "Id0 -> Id5"
+                  }
+            ],
+            "groups": [
+                  {
+                        "color": "rgb(94, 159, 202)",
+                        "groupIds": [
+                              "G1"
+                        ],
+                        "id": "G0",
+                        "nodes": [
+                              "Id0"
+                        ],
+                        "padding": 0.01
+                  },
+                  {
+                        "color": "rgba(245, 245, 245, 0.5)",
+                        "id": "G1",
+                        "nodes": [
+                              "Id1",
+                              "Id2"
+                        ],
+                        "padding": 0.01
+                  },
+                  {
+                        "color": "rgb(255, 187, 120)",
+                        "id": "G2",
+                        "nodes": [
+                              "Id3",
+                              "Id4"
+                        ],
+                        "padding": 0.01
+                  }
+            ],
+            "nodes": [
+                  {
+                        "color": "rgb(255, 187, 120)",
+                        "height": 20,
+                        "id": "Id0",
+                        "name": "a",
+                        "shape": "roundrect",
+                        "width": 30,
+                        "x": 299.89620643509926,
+                        "y": 210.00996154531757,
+                        "index": 0
+                  },
+                  {
+                        "color": "rgb(255, 187, 120)",
+                        "height": 20,
+                        "id": "Id1",
+                        "name": "b",
+                        "shape": "roundrect",
+                        "width": 30,
+                        "x": 240.0480385891838,
+                        "y": 180.25285332943312,
+                        "index": 1
+                  },
+                  {
+                        "color": "rgb(255, 187, 120)",
+                        "height": 20,
+                        "id": "Id2",
+                        "name": "c",
+                        "shape": "roundrect",
+                        "width": 30,
+                        "x": 240.0480385891838,
+                        "y": 269.7596116742451,
+                        "index": 2
+                  },
+                  {
+                        "color": "rgb(255, 187, 120)",
+                        "height": 20,
+                        "id": "Id3",
+                        "name": "d",
+                        "shape": "roundrect",
+                        "width": 30,
+                        "x": 269.99725578513534,
+                        "y": 330.13152542653296,
+                        "index": 3
+                  },
+                  {
+                        "color": "rgb(255, 187, 120)",
+                        "height": 20,
+                        "id": "Id4",
+                        "name": "e",
+                        "shape": "roundrect",
+                        "width": 30,
+                        "x": 269.99725578513534,
+                        "y": 419.88431983193385,
+                        "index": 4
+                  },
+                  {
+                        "color": "rgb(255, 187, 120)",
+                        "height": 20,
+                        "id": "Id5",
+                        "name": "f",
+                        "shape": "roundrect",
+                        "width": 30,
+                        "x": 359.9966794848942,
+                        "y": 300.0099615453176,
+                        "index": 5
+                  },
+                  {
+                        "color": "rgb(255, 187, 120)",
+                        "height": 20,
+                        "id": "Id6",
+                        "name": "g",
+                        "shape": "roundrect",
+                        "width": 30,
+                        "x": 209.98835722937577,
+                        "y": 419.99766303302425,
+                        "index": 6
+                  }
+            ]
+      },
+      "config": {
+            "edgeColor": "rgb(122,78,79)",
+            "edgeThickness": 3,
+            "graphType": "Network",
+            "networkColaAllConstraintsIterations": 50,
+            "networkColaAvoidOverlaps": true,
+            "networkColaGridSnapIterations": 50,
+            "networkColaLinkDistance": 80,
+            "networkColaStartUnconstrainedIterations": 100,
+            "networkColaUserConstraintIterations": 0,
+            "networkLayoutType": "cola",
+            "graphOrientation": "horizontal",
+            "calculateLayout": false
+      },
+      "events": {},
+      "info": false,
+      "afterRender": [
+            [
+                  "setDimensions",
+                  [
+                        596,
+                        596,
+                        true
+                  ]
+            ],
+            [
+                  "setDimensions",
+                  [
+                        800,
+                        800
+                  ],
+                  {},
+                  false,
+                  1791830687628
+            ]
+      ],
+      "noValidate": true,
+      "factory": {
+            "version": 71.3,
+            "specSchemaVersion": "1.0",
+            "buildDate": "10-11-2026",
+            "client": "MDo6MTo6NzEuMzo6Y2FudmFzeHByZXNzLm9yZzo6",
+            "siteSrc": false,
+            "href": "https://canvasxpress.org/examples/network-11.html",
+            "services": "https://www.canvasxpress.org/cgi-bin/services.py"
+      },
+      "system": {
+            "browser": "Chrome",
+            "browserVersion": "153",
+            "os": "Mac OS",
+            "alt": "&#8997;",
+            "command": "&#8984;",
+            "control": "&#8963;",
+            "shift": "&#8679;",
+            "isNode": false,
+            "isReact": false,
+            "isjQuery": true,
+            "isReveal": false,
+            "isZoom": false,
+            "isIE": false,
+            "isInIframe": false,
+            "isR": false,
+            "isHTMLWidgets": false,
+            "isShiny": false,
+            "isRViewer": false,
+            "isRConsole": false,
+            "isCxplot": false,
+            "isGGMatrix": false,
+            "isJupyter": false,
+            "isVSCode": false
+      }
+}

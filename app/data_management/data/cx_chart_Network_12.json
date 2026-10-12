@@ -1,0 +1,193 @@
+{
+      "version": 71.3,
+      "renderTo": "network12",
+      "data": {
+            "constraints": [
+                  {
+                        "axis": "x",
+                        "offsets": [
+                              {
+                                    "nodeId": "Id1",
+                                    "offset": "0"
+                              },
+                              {
+                                    "nodeId": "Id2",
+                                    "offset": "0"
+                              },
+                              {
+                                    "nodeId": "Id3",
+                                    "offset": "0"
+                              }
+                        ],
+                        "type": "alignment"
+                  },
+                  {
+                        "axis": "y",
+                        "offsets": [
+                              {
+                                    "nodeId": "Id0",
+                                    "offset": "0"
+                              },
+                              {
+                                    "nodeId": "Id1",
+                                    "offset": "0"
+                              },
+                              {
+                                    "nodeId": "Id4",
+                                    "offset": "0"
+                              }
+                        ],
+                        "type": "alignment"
+                  }
+            ],
+            "edges": [
+                  {
+                        "id1": "Id1",
+                        "id2": "Id2",
+                        "thickness": 3,
+                        "id": "Id1 -> Id2"
+                  },
+                  {
+                        "id1": "Id2",
+                        "id2": "Id0",
+                        "thickness": 3,
+                        "id": "Id2 -> Id0"
+                  },
+                  {
+                        "id1": "Id2",
+                        "id2": "Id3",
+                        "thickness": 3,
+                        "id": "Id2 -> Id3"
+                  },
+                  {
+                        "id1": "Id2",
+                        "id2": "Id4",
+                        "thickness": 3,
+                        "id": "Id2 -> Id4"
+                  }
+            ],
+            "nodes": [
+                  {
+                        "height": 20,
+                        "id": "Id0",
+                        "name": "a",
+                        "shape": "roundrect",
+                        "width": 30,
+                        "x": 313.61318617984665,
+                        "y": 311.31322407683894,
+                        "index": 0
+                  },
+                  {
+                        "height": 20,
+                        "id": "Id1",
+                        "name": "b",
+                        "shape": "roundrect",
+                        "width": 30,
+                        "x": 247.91393410492034,
+                        "y": 311.31322407683894,
+                        "index": 1
+                  },
+                  {
+                        "height": 20,
+                        "id": "Id2",
+                        "name": "c",
+                        "shape": "roundrect",
+                        "width": 30,
+                        "x": 247.91393410492034,
+                        "y": 235.01461410146112,
+                        "index": 2
+                  },
+                  {
+                        "height": 20,
+                        "id": "Id3",
+                        "name": "d",
+                        "shape": "roundrect",
+                        "width": 30,
+                        "x": 247.91393410492034,
+                        "y": 271.0457136680221,
+                        "index": 3
+                  },
+                  {
+                        "height": 20,
+                        "id": "Id4",
+                        "name": "e",
+                        "shape": "roundrect",
+                        "width": 30,
+                        "x": 362.64501150539223,
+                        "y": 311.31322407683894,
+                        "index": 4
+                  }
+            ]
+      },
+      "config": {
+            "edgeColor": "rgb(122,78,79)",
+            "edgeThickness": 3,
+            "graphType": "Network",
+            "networkColaAllConstraintsIterations": 10,
+            "networkColaAvoidOverlaps": true,
+            "networkColaHandleDisconnected": true,
+            "networkColaLinkDistance": 80,
+            "networkColaStartUnconstrainedIterations": 10,
+            "networkColaUserConstraintIterations": 10,
+            "networkLayoutType": "cola",
+            "graphOrientation": "horizontal",
+            "calculateLayout": false
+      },
+      "events": {},
+      "info": false,
+      "afterRender": [
+            [
+                  "setDimensions",
+                  [
+                        596,
+                        596,
+                        true
+                  ]
+            ],
+            [
+                  "setDimensions",
+                  [
+                        800,
+                        800
+                  ],
+                  {},
+                  false,
+                  1791830699499
+            ]
+      ],
+      "noValidate": true,
+      "factory": {
+            "version": 71.3,
+            "specSchemaVersion": "1.0",
+            "buildDate": "10-11-2026",
+            "client": "MDo6MTo6NzEuMzo6Y2FudmFzeHByZXNzLm9yZzo6",
+            "siteSrc": false,
+            "href": "https://canvasxpress.org/examples/network-12.html",
+            "services": "https://www.canvasxpress.org/cgi-bin/services.py"
+      },
+      "system": {
+            "browser": "Chrome",
+            "browserVersion": "153",
+            "os": "Mac OS",
+            "alt": "&#8997;",
+            "command": "&#8984;",
+            "control": "&#8963;",
+            "shift": "&#8679;",
+            "isNode": false,
+            "isReact": false,
+            "isjQuery": true,
+            "isReveal": false,
+            "isZoom": false,
+            "isIE": false,
+            "isInIframe": false,
+            "isR": false,
+            "isHTMLWidgets": false,
+            "isShiny": false,
+            "isRViewer": false,
+            "isRConsole": false,
+            "isCxplot": false,
+            "isGGMatrix": false,
+            "isJupyter": false,
+            "isVSCode": false
+      }
+}

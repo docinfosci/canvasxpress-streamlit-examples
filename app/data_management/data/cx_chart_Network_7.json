@@ -1,0 +1,1256 @@
+{
+      "version": 71.3,
+      "renderTo": "network7",
+      "data": {
+            "constraints": [
+                  {
+                        "axis": "y",
+                        "offsets": [
+                              {
+                                    "nodeId": "Id1",
+                                    "offset": 0
+                              },
+                              {
+                                    "nodeId": "Id2",
+                                    "offset": 0
+                              },
+                              {
+                                    "nodeId": "Id14",
+                                    "offset": 0
+                              }
+                        ],
+                        "type": "alignment"
+                  },
+                  {
+                        "axis": "x",
+                        "offsets": [
+                              {
+                                    "nodeId": "Id1",
+                                    "offset": 0
+                              },
+                              {
+                                    "nodeId": "Id3",
+                                    "offset": 0
+                              },
+                              {
+                                    "nodeId": "Id4",
+                                    "offset": 0
+                              },
+                              {
+                                    "nodeId": "Id5",
+                                    "offset": 0
+                              },
+                              {
+                                    "nodeId": "Id6",
+                                    "offset": 0
+                              },
+                              {
+                                    "nodeId": "Id7",
+                                    "offset": 0
+                              }
+                        ],
+                        "type": "alignment"
+                  },
+                  {
+                        "axis": "y",
+                        "offsets": [
+                              {
+                                    "nodeId": "Id7",
+                                    "offset": 0
+                              },
+                              {
+                                    "nodeId": "Id8",
+                                    "offset": 0
+                              },
+                              {
+                                    "nodeId": "Id9",
+                                    "offset": 0
+                              }
+                        ],
+                        "type": "alignment"
+                  },
+                  {
+                        "axis": "x",
+                        "offsets": [
+                              {
+                                    "nodeId": "Id9",
+                                    "offset": 0
+                              },
+                              {
+                                    "nodeId": "Id13",
+                                    "offset": 0
+                              },
+                              {
+                                    "nodeId": "Id14",
+                                    "offset": 0
+                              },
+                              {
+                                    "nodeId": "Id23",
+                                    "offset": 0
+                              },
+                              {
+                                    "nodeId": "Id24",
+                                    "offset": 0
+                              },
+                              {
+                                    "nodeId": "Id25",
+                                    "offset": 0
+                              }
+                        ],
+                        "type": "alignment"
+                  },
+                  {
+                        "axis": "x",
+                        "offsets": [
+                              {
+                                    "nodeId": "Id21",
+                                    "offset": 0
+                              },
+                              {
+                                    "nodeId": "Id22",
+                                    "offset": 0
+                              }
+                        ],
+                        "type": "alignment"
+                  },
+                  {
+                        "axis": "x",
+                        "offsets": [
+                              {
+                                    "nodeId": "Id35",
+                                    "offset": 0
+                              },
+                              {
+                                    "nodeId": "Id36",
+                                    "offset": 0
+                              },
+                              {
+                                    "nodeId": "Id43",
+                                    "offset": 0
+                              },
+                              {
+                                    "nodeId": "Id44",
+                                    "offset": 0
+                              }
+                        ],
+                        "type": "alignment"
+                  }
+            ],
+            "edges": [
+                  {
+                        "endArrow": "arrow",
+                        "id1": "Id1",
+                        "id2": "Id0",
+                        "id": "Id1 -> Id0"
+                  },
+                  {
+                        "endArrow": "arrow",
+                        "id1": "Id2",
+                        "id2": "Id1",
+                        "id": "Id2 -> Id1"
+                  },
+                  {
+                        "endArrow": "arrow",
+                        "id1": "Id1",
+                        "id2": "Id3",
+                        "id": "Id1 -> Id3"
+                  },
+                  {
+                        "endArrow": "arrow",
+                        "id1": "Id3",
+                        "id2": "Id4",
+                        "id": "Id3 -> Id4"
+                  },
+                  {
+                        "endArrow": "arrow",
+                        "id1": "Id4",
+                        "id2": "Id5",
+                        "id": "Id4 -> Id5"
+                  },
+                  {
+                        "endArrow": "arrow",
+                        "id1": "Id6",
+                        "id2": "Id7",
+                        "id": "Id6 -> Id7"
+                  },
+                  {
+                        "endArrow": "arrow",
+                        "id1": "Id7",
+                        "id2": "Id8",
+                        "id": "Id7 -> Id8"
+                  },
+                  {
+                        "endArrow": "arrow",
+                        "id1": "Id8",
+                        "id2": "Id9",
+                        "id": "Id8 -> Id9"
+                  },
+                  {
+                        "endArrow": "arrow",
+                        "id1": "Id4",
+                        "id2": "Id10",
+                        "id": "Id4 -> Id10"
+                  },
+                  {
+                        "endArrow": "arrow",
+                        "id1": "Id10",
+                        "id2": "Id11",
+                        "id": "Id10 -> Id11"
+                  },
+                  {
+                        "endArrow": "arrow",
+                        "id1": "Id11",
+                        "id2": "Id9",
+                        "id": "Id11 -> Id9"
+                  },
+                  {
+                        "endArrow": "arrow",
+                        "id1": "Id3",
+                        "id2": "Id12",
+                        "id": "Id3 -> Id12"
+                  },
+                  {
+                        "endArrow": "arrow",
+                        "id1": "Id12",
+                        "id2": "Id5",
+                        "id": "Id12 -> Id5"
+                  },
+                  {
+                        "endArrow": "arrow",
+                        "id1": "Id12",
+                        "id2": "Id13",
+                        "id": "Id12 -> Id13"
+                  },
+                  {
+                        "endArrow": "arrow",
+                        "id1": "Id13",
+                        "id2": "Id14",
+                        "id": "Id13 -> Id14"
+                  },
+                  {
+                        "endArrow": "arrow",
+                        "id1": "Id14",
+                        "id2": "Id2",
+                        "id": "Id14 -> Id2"
+                  },
+                  {
+                        "endArrow": "arrow",
+                        "id1": "Id14",
+                        "id2": "Id15",
+                        "id": "Id14 -> Id15"
+                  },
+                  {
+                        "endArrow": "arrow",
+                        "id1": "Id15",
+                        "id2": "Id12",
+                        "id": "Id15 -> Id12"
+                  },
+                  {
+                        "endArrow": "arrow",
+                        "id1": "Id16",
+                        "id2": "Id14",
+                        "id": "Id16 -> Id14"
+                  },
+                  {
+                        "endArrow": "arrow",
+                        "id1": "Id19",
+                        "id2": "Id6",
+                        "id": "Id19 -> Id6"
+                  },
+                  {
+                        "endArrow": "arrow",
+                        "id1": "Id6",
+                        "id2": "Id20",
+                        "id": "Id6 -> Id20"
+                  },
+                  {
+                        "endArrow": "arrow",
+                        "id1": "Id17",
+                        "id2": "Id11",
+                        "id": "Id17 -> Id11"
+                  },
+                  {
+                        "endArrow": "arrow",
+                        "id1": "Id11",
+                        "id2": "Id18",
+                        "id": "Id11 -> Id18"
+                  },
+                  {
+                        "endArrow": "arrow",
+                        "id1": "Id22",
+                        "id2": "Id23",
+                        "id": "Id22 -> Id23"
+                  },
+                  {
+                        "endArrow": "arrow",
+                        "id1": "Id23",
+                        "id2": "Id21",
+                        "id": "Id23 -> Id21"
+                  },
+                  {
+                        "endArrow": "arrow",
+                        "id1": "Id23",
+                        "id2": "Id13",
+                        "id": "Id23 -> Id13"
+                  },
+                  {
+                        "endArrow": "arrow",
+                        "id1": "Id24",
+                        "id2": "Id23",
+                        "id": "Id24 -> Id23"
+                  },
+                  {
+                        "endArrow": "arrow",
+                        "id1": "Id9",
+                        "id2": "Id25",
+                        "id": "Id9 -> Id25"
+                  },
+                  {
+                        "endArrow": "arrow",
+                        "id1": "Id25",
+                        "id2": "Id24",
+                        "id": "Id25 -> Id24"
+                  },
+                  {
+                        "endArrow": "arrow",
+                        "id1": "Id28",
+                        "id2": "Id26",
+                        "id": "Id28 -> Id26"
+                  },
+                  {
+                        "endArrow": "arrow",
+                        "id1": "Id26",
+                        "id2": "Id27",
+                        "id": "Id26 -> Id27"
+                  },
+                  {
+                        "endArrow": "arrow",
+                        "id1": "Id29",
+                        "id2": "Id31",
+                        "id": "Id29 -> Id31"
+                  },
+                  {
+                        "endArrow": "arrow",
+                        "id1": "Id24",
+                        "id2": "Id26",
+                        "id": "Id24 -> Id26"
+                  },
+                  {
+                        "endArrow": "arrow",
+                        "id1": "Id31",
+                        "id2": "Id32",
+                        "id": "Id31 -> Id32"
+                  },
+                  {
+                        "endArrow": "arrow",
+                        "id1": "Id33",
+                        "id2": "Id32",
+                        "id": "Id33 -> Id32"
+                  },
+                  {
+                        "endArrow": "arrow",
+                        "id1": "Id34",
+                        "id2": "Id26",
+                        "id": "Id34 -> Id26"
+                  },
+                  {
+                        "endArrow": "arrow",
+                        "id1": "Id34",
+                        "id2": "Id33",
+                        "id": "Id34 -> Id33"
+                  },
+                  {
+                        "endArrow": "arrow",
+                        "id1": "Id34",
+                        "id2": "Id35",
+                        "id": "Id34 -> Id35"
+                  },
+                  {
+                        "endArrow": "arrow",
+                        "id1": "Id35",
+                        "id2": "Id36",
+                        "id": "Id35 -> Id36"
+                  },
+                  {
+                        "endArrow": "arrow",
+                        "id1": "Id38",
+                        "id2": "Id35",
+                        "id": "Id38 -> Id35"
+                  },
+                  {
+                        "endArrow": "arrow",
+                        "id1": "Id35",
+                        "id2": "Id37",
+                        "id": "Id35 -> Id37"
+                  },
+                  {
+                        "endArrow": "arrow",
+                        "id1": "Id37",
+                        "id2": "Id39",
+                        "id": "Id37 -> Id39"
+                  },
+                  {
+                        "endArrow": "arrow",
+                        "id1": "Id39",
+                        "id2": "Id40",
+                        "id": "Id39 -> Id40"
+                  },
+                  {
+                        "endArrow": "arrow",
+                        "id1": "Id40",
+                        "id2": "Id41",
+                        "id": "Id40 -> Id41"
+                  },
+                  {
+                        "endArrow": "arrow",
+                        "id1": "Id41",
+                        "id2": "Id42",
+                        "id": "Id41 -> Id42"
+                  },
+                  {
+                        "endArrow": "arrow",
+                        "id1": "Id36",
+                        "id2": "Id43",
+                        "id": "Id36 -> Id43"
+                  },
+                  {
+                        "endArrow": "arrow",
+                        "id1": "Id43",
+                        "id2": "Id44",
+                        "id": "Id43 -> Id44"
+                  },
+                  {
+                        "endArrow": "arrow",
+                        "id1": "Id46",
+                        "id2": "Id47",
+                        "id": "Id46 -> Id47"
+                  },
+                  {
+                        "endArrow": "arrow",
+                        "id1": "Id48",
+                        "id2": "Id46",
+                        "id": "Id48 -> Id46"
+                  },
+                  {
+                        "endArrow": "arrow",
+                        "id1": "Id46",
+                        "id2": "Id49",
+                        "id": "Id46 -> Id49"
+                  },
+                  {
+                        "endArrow": "arrow",
+                        "id1": "Id38",
+                        "id2": "Id46",
+                        "id": "Id38 -> Id46"
+                  },
+                  {
+                        "endArrow": "arrow",
+                        "id1": "Id31",
+                        "id2": "Id30",
+                        "id": "Id31 -> Id30"
+                  },
+                  {
+                        "endArrow": "arrow",
+                        "id1": "Id5",
+                        "id2": "Id6",
+                        "id": "Id5 -> Id6"
+                  },
+                  {
+                        "endArrow": "arrow",
+                        "id1": "Id43",
+                        "id2": "Id45",
+                        "id": "Id43 -> Id45"
+                  },
+                  {
+                        "endArrow": "arrow",
+                        "id1": "Id9",
+                        "id2": "Id31",
+                        "id": "Id9 -> Id31"
+                  }
+            ],
+            "groups": [
+                  {
+                        "color": "rgb(254,243,187)",
+                        "id": "G0",
+                        "nodes": [
+                              "Id29",
+                              "Id25",
+                              "Id24",
+                              "Id23",
+                              "Id22",
+                              "Id21",
+                              "Id20",
+                              "Id19",
+                              "Id18",
+                              "Id17",
+                              "Id16",
+                              "Id15",
+                              "Id14",
+                              "Id13",
+                              "Id12",
+                              "Id11",
+                              "Id10",
+                              "Id9",
+                              "Id8",
+                              "Id7",
+                              "Id6",
+                              "Id5",
+                              "Id4",
+                              "Id3",
+                              "Id2",
+                              "Id1",
+                              "Id0",
+                              "Id27"
+                        ],
+                        "padding": 8
+                  },
+                  {
+                        "color": "rgb(199,233,217)",
+                        "id": "G1",
+                        "nodes": [
+                              "Id28",
+                              "Id30",
+                              "Id45",
+                              "Id44",
+                              "Id43",
+                              "Id38",
+                              "Id37",
+                              "Id36",
+                              "Id35",
+                              "Id34",
+                              "Id33",
+                              "Id32",
+                              "Id47",
+                              "Id39",
+                              "Id40"
+                        ],
+                        "padding": 8
+                  },
+                  {
+                        "color": "rgb(254,243,187)",
+                        "id": "G2",
+                        "nodes": [
+                              "Id48",
+                              "Id49",
+                              "Id42"
+                        ],
+                        "padding": 8
+                  }
+            ],
+            "nodes": [
+                  {
+                        "color": "rgb(245,245,221)",
+                        "height": 6,
+                        "id": "Id0",
+                        "name": "P",
+                        "rx": 9,
+                        "ry": 9,
+                        "shape": "roundrect",
+                        "width": 10,
+                        "x": 157.09625027008516,
+                        "y": 156.2515105274633,
+                        "index": 0
+                  },
+                  {
+                        "color": "rgb(245,245,221)",
+                        "height": 6,
+                        "id": "Id1",
+                        "name": "sucrose phosphate phosphatase",
+                        "rx": 5,
+                        "ry": 5,
+                        "shape": "roundrect",
+                        "width": 10,
+                        "x": 173.78994036283146,
+                        "y": 170.27017840148372,
+                        "index": 1
+                  },
+                  {
+                        "color": "rgb(245,245,221)",
+                        "height": 6,
+                        "id": "Id2",
+                        "name": "sucrose 6-phosphate",
+                        "rx": 17,
+                        "ry": 17,
+                        "shape": "roundrect",
+                        "width": 10,
+                        "x": 203.5569845029663,
+                        "y": 170.27017840148372,
+                        "index": 2
+                  },
+                  {
+                        "color": "rgb(245,245,221)",
+                        "height": 6,
+                        "id": "Id3",
+                        "name": "sucrose",
+                        "rx": 9,
+                        "ry": 9,
+                        "shape": "roundrect",
+                        "width": 10,
+                        "x": 173.78994036283146,
+                        "y": 198.14620339238652,
+                        "index": 3
+                  },
+                  {
+                        "color": "rgb(245,245,221)",
+                        "height": 6,
+                        "id": "Id4",
+                        "name": "invertase",
+                        "rx": 5,
+                        "ry": 5,
+                        "shape": "roundrect",
+                        "width": 10,
+                        "x": 173.78994036283146,
+                        "y": 224.7893631612648,
+                        "index": 4
+                  },
+                  {
+                        "color": "rgb(245,245,221)",
+                        "height": 6,
+                        "id": "Id5",
+                        "name": "fructose",
+                        "rx": 9,
+                        "ry": 9,
+                        "shape": "roundrect",
+                        "width": 10,
+                        "x": 173.78994036283146,
+                        "y": 237.0984534337865,
+                        "index": 5
+                  },
+                  {
+                        "color": "rgb(245,245,221)",
+                        "height": 6,
+                        "id": "Id6",
+                        "name": "fructokinase",
+                        "rx": 5,
+                        "ry": 5,
+                        "shape": "roundrect",
+                        "width": 10,
+                        "x": 173.78994036283146,
+                        "y": 267.7410164392674,
+                        "index": 6
+                  },
+                  {
+                        "color": "rgb(245,245,221)",
+                        "height": 6,
+                        "id": "Id7",
+                        "name": "fructose 6-phosphate",
+                        "rx": 17,
+                        "ry": 17,
+                        "shape": "roundrect",
+                        "width": 10,
+                        "x": 173.78994036283146,
+                        "y": 298.59429949415784,
+                        "index": 7
+                  },
+                  {
+                        "color": "rgb(245,245,221)",
+                        "height": 6,
+                        "id": "Id8",
+                        "name": "phosphoglucose isomerase",
+                        "rx": 5,
+                        "ry": 5,
+                        "shape": "roundrect",
+                        "width": 10,
+                        "x": 201.3457973011457,
+                        "y": 298.59429949415784,
+                        "index": 8
+                  },
+                  {
+                        "color": "rgb(245,245,221)",
+                        "height": 6,
+                        "id": "Id9",
+                        "name": "glucose 6-phosphate",
+                        "rx": 17,
+                        "ry": 17,
+                        "shape": "roundrect",
+                        "width": 10,
+                        "x": 238.12413992482735,
+                        "y": 298.59429949415784,
+                        "index": 9
+                  },
+                  {
+                        "color": "rgb(245,245,221)",
+                        "height": 6,
+                        "id": "Id10",
+                        "name": "glucose",
+                        "rx": 9,
+                        "ry": 9,
+                        "shape": "roundrect",
+                        "width": 10,
+                        "x": 194.5278904364004,
+                        "y": 256.5958687650536,
+                        "index": 10
+                  },
+                  {
+                        "color": "rgb(245,245,221)",
+                        "height": 6,
+                        "id": "Id11",
+                        "name": "hexokinase",
+                        "rx": 5,
+                        "ry": 5,
+                        "shape": "roundrect",
+                        "width": 10,
+                        "x": 214.18494004678644,
+                        "y": 289.12712196787976,
+                        "index": 11
+                  },
+                  {
+                        "color": "rgb(245,245,221)",
+                        "height": 6,
+                        "id": "Id12",
+                        "name": "sucrose synthase",
+                        "rx": 5,
+                        "ry": 5,
+                        "shape": "roundrect",
+                        "width": 10,
+                        "x": 200.69009456857825,
+                        "y": 206.76707430725583,
+                        "index": 12
+                  },
+                  {
+                        "color": "rgb(245,245,221)",
+                        "height": 6,
+                        "id": "Id13",
+                        "name": "UDP - glucose",
+                        "rx": 17,
+                        "ry": 17,
+                        "shape": "roundrect",
+                        "width": 10,
+                        "x": 238.12413992482735,
+                        "y": 195.65832678914887,
+                        "index": 13
+                  },
+                  {
+                        "color": "rgb(245,245,221)",
+                        "height": 6,
+                        "id": "Id14",
+                        "name": "sucrose phosphate synthase",
+                        "rx": 5,
+                        "ry": 5,
+                        "shape": "roundrect",
+                        "width": 10,
+                        "x": 238.12413992482735,
+                        "y": 170.27017840148372,
+                        "index": 14
+                  },
+                  {
+                        "color": "rgb(245,245,221)",
+                        "height": 6,
+                        "id": "Id15",
+                        "name": "UDP",
+                        "rx": 9,
+                        "ry": 9,
+                        "shape": "roundrect",
+                        "width": 10,
+                        "x": 215.16082815450093,
+                        "y": 183.70164052025837,
+                        "index": 15
+                  },
+                  {
+                        "color": "rgb(245,245,221)",
+                        "height": 6,
+                        "id": "Id16",
+                        "name": "fructose 6-phosphate",
+                        "rx": 17,
+                        "ry": 17,
+                        "shape": "roundrect",
+                        "width": 10,
+                        "x": 235.55425358920726,
+                        "y": 148.39183105916584,
+                        "index": 16
+                  },
+                  {
+                        "color": "rgb(245,245,221)",
+                        "height": 6,
+                        "id": "Id17",
+                        "name": "ATP",
+                        "rx": 9,
+                        "ry": 9,
+                        "shape": "roundrect",
+                        "width": 10,
+                        "x": 202.96414240444219,
+                        "y": 313.27683963962494,
+                        "index": 17
+                  },
+                  {
+                        "color": "rgb(245,245,221)",
+                        "height": 6,
+                        "id": "Id18",
+                        "name": "ATP",
+                        "rx": 9,
+                        "ry": 9,
+                        "shape": "roundrect",
+                        "width": 10,
+                        "x": 222.85913753235172,
+                        "y": 313.27683963962494,
+                        "index": 18
+                  },
+                  {
+                        "color": "rgb(245,245,221)",
+                        "height": 6,
+                        "id": "Id19",
+                        "name": "ATP",
+                        "rx": 9,
+                        "ry": 9,
+                        "shape": "roundrect",
+                        "width": 10,
+                        "x": 145.6231530717516,
+                        "y": 259.3192494696552,
+                        "index": 19
+                  },
+                  {
+                        "color": "rgb(245,245,221)",
+                        "height": 6,
+                        "id": "Id20",
+                        "name": "ADP",
+                        "rx": 9,
+                        "ry": 9,
+                        "shape": "roundrect",
+                        "width": 10,
+                        "x": 147.21899195389105,
+                        "y": 279.20709177612025,
+                        "index": 20
+                  },
+                  {
+                        "color": "rgb(245,245,221)",
+                        "height": 6,
+                        "id": "Id21",
+                        "name": "PP",
+                        "rx": 9,
+                        "ry": 9,
+                        "shape": "roundrect",
+                        "width": 10,
+                        "x": 257.54455660629725,
+                        "y": 203.87643935777348,
+                        "index": 21
+                  },
+                  {
+                        "color": "rgb(245,245,221)",
+                        "height": 6,
+                        "id": "Id22",
+                        "name": "UTP",
+                        "rx": 9,
+                        "ry": 9,
+                        "shape": "roundrect",
+                        "width": 10,
+                        "x": 257.54455660629725,
+                        "y": 220.25789076307356,
+                        "index": 22
+                  },
+                  {
+                        "color": "rgb(245,245,221)",
+                        "height": 6,
+                        "id": "Id23",
+                        "name": "UDP glucose pyrophosphorylase",
+                        "rx": 5,
+                        "ry": 5,
+                        "shape": "roundrect",
+                        "width": 10,
+                        "x": 238.12413992482735,
+                        "y": 218.86463345922763,
+                        "index": 23
+                  },
+                  {
+                        "color": "rgb(245,245,221)",
+                        "height": 6,
+                        "id": "Id24",
+                        "name": "glucose 1-phosphate",
+                        "rx": 17,
+                        "ry": 17,
+                        "shape": "roundrect",
+                        "width": 10,
+                        "x": 238.12413992482735,
+                        "y": 246.58650720825992,
+                        "index": 24
+                  },
+                  {
+                        "color": "rgb(245,245,221)",
+                        "height": 6,
+                        "id": "Id25",
+                        "name": "phospho- glucomutase (cPGM)",
+                        "rx": 5,
+                        "ry": 5,
+                        "shape": "roundrect",
+                        "width": 10,
+                        "x": 238.12413992482735,
+                        "y": 272.26314138425647,
+                        "index": 25
+                  },
+                  {
+                        "color": "rgb(245,245,221)",
+                        "height": 18,
+                        "id": "Id26",
+                        "name": "G1P transporter",
+                        "rx": 5,
+                        "ry": 5,
+                        "shape": "roundrect",
+                        "width": 30,
+                        "x": 285.54455860629724,
+                        "y": 255.05059170563098,
+                        "index": 26
+                  },
+                  {
+                        "color": "rgb(245,245,221)",
+                        "height": 6,
+                        "id": "Id27",
+                        "name": "P",
+                        "rx": 9,
+                        "ry": 9,
+                        "shape": "roundrect",
+                        "width": 10,
+                        "x": 257.54455660629725,
+                        "y": 258.1449944995042,
+                        "index": 27
+                  },
+                  {
+                        "color": "rgb(245,245,221)",
+                        "height": 6,
+                        "id": "Id28",
+                        "name": "P",
+                        "rx": 9,
+                        "ry": 9,
+                        "shape": "roundrect",
+                        "width": 10,
+                        "x": 313.54456060629724,
+                        "y": 243.28494053775157,
+                        "index": 28
+                  },
+                  {
+                        "color": "rgb(245,245,221)",
+                        "height": 6,
+                        "id": "Id29",
+                        "name": "P",
+                        "rx": 9,
+                        "ry": 9,
+                        "shape": "roundrect",
+                        "width": 10,
+                        "x": 257.54455660629725,
+                        "y": 313.27683963962494,
+                        "index": 29
+                  },
+                  {
+                        "color": "rgb(245,245,221)",
+                        "height": 6,
+                        "id": "Id30",
+                        "name": "P",
+                        "rx": 9,
+                        "ry": 9,
+                        "shape": "roundrect",
+                        "width": 10,
+                        "x": 313.54456060629724,
+                        "y": 346.06203034898516,
+                        "index": 30
+                  },
+                  {
+                        "color": "rgb(245,245,221)",
+                        "height": 18,
+                        "id": "Id31",
+                        "name": "G6P transporter",
+                        "rx": 5,
+                        "ry": 5,
+                        "shape": "roundrect",
+                        "width": 30,
+                        "x": 278.30758280279616,
+                        "y": 333.27684163962493,
+                        "index": 31
+                  },
+                  {
+                        "color": "rgb(245,245,221)",
+                        "height": 6,
+                        "id": "Id32",
+                        "name": "glucose 6-phosphate",
+                        "rx": 17,
+                        "ry": 17,
+                        "shape": "roundrect",
+                        "width": 10,
+                        "x": 313.54456060629724,
+                        "y": 316.7675727697992,
+                        "index": 32
+                  },
+                  {
+                        "color": "rgb(245,245,221)",
+                        "height": 6,
+                        "id": "Id33",
+                        "name": "phospho- glucomutase (cPGM)",
+                        "rx": 5,
+                        "ry": 5,
+                        "shape": "roundrect",
+                        "width": 10,
+                        "x": 317.4433562338176,
+                        "y": 292.87877412148106,
+                        "index": 33
+                  },
+                  {
+                        "color": "rgb(245,245,221)",
+                        "height": 6,
+                        "id": "Id34",
+                        "name": "glucose 1-phosphate",
+                        "rx": 17,
+                        "ry": 17,
+                        "shape": "roundrect",
+                        "width": 10,
+                        "x": 326.78582369379154,
+                        "y": 270.6985616255554,
+                        "index": 34
+                  },
+                  {
+                        "color": "rgb(245,245,221)",
+                        "height": 6,
+                        "id": "Id35",
+                        "name": "ADPglucose pyrophosphorylase (pAGPase)",
+                        "rx": 5,
+                        "ry": 5,
+                        "shape": "roundrect",
+                        "width": 10,
+                        "x": 369.46556101026687,
+                        "y": 276.2357855011853,
+                        "index": 35
+                  },
+                  {
+                        "color": "rgb(245,245,221)",
+                        "height": 6,
+                        "id": "Id36",
+                        "name": "ADP - glucose",
+                        "rx": 17,
+                        "ry": 17,
+                        "shape": "roundrect",
+                        "width": 10,
+                        "x": 369.46556101026687,
+                        "y": 308.7206743242864,
+                        "index": 36
+                  },
+                  {
+                        "color": "rgb(245,245,221)",
+                        "height": 6,
+                        "id": "Id37",
+                        "name": "PP",
+                        "rx": 9,
+                        "ry": 9,
+                        "shape": "roundrect",
+                        "width": 10,
+                        "x": 393.0627451631217,
+                        "y": 286.9816917955879,
+                        "index": 37
+                  },
+                  {
+                        "color": "rgb(245,245,221)",
+                        "height": 6,
+                        "id": "Id38",
+                        "name": "ATP",
+                        "rx": 9,
+                        "ry": 9,
+                        "shape": "roundrect",
+                        "width": 10,
+                        "x": 405.45529657627884,
+                        "y": 254.15945338917084,
+                        "index": 38
+                  },
+                  {
+                        "color": "rgb(245,245,221)",
+                        "height": 6,
+                        "id": "Id39",
+                        "name": "inorganic diphosphatase",
+                        "rx": 5,
+                        "ry": 5,
+                        "shape": "roundrect",
+                        "width": 10,
+                        "x": 413.3852734559825,
+                        "y": 301.45903243612184,
+                        "index": 39
+                  },
+                  {
+                        "color": "rgb(245,245,221)",
+                        "height": 6,
+                        "id": "Id40",
+                        "name": "P",
+                        "rx": 9,
+                        "ry": 9,
+                        "shape": "roundrect",
+                        "width": 10,
+                        "x": 414.90037509098767,
+                        "y": 324.53032453791525,
+                        "index": 40
+                  },
+                  {
+                        "color": "rgb(245,245,221)",
+                        "height": 18,
+                        "id": "Id41",
+                        "name": "phosphate transporter",
+                        "rx": 5,
+                        "ry": 5,
+                        "shape": "roundrect",
+                        "width": 30,
+                        "x": 442.9003770909878,
+                        "y": 336.6067131474771,
+                        "index": 41
+                  },
+                  {
+                        "color": "rgb(245,245,221)",
+                        "height": 6,
+                        "id": "Id42",
+                        "name": "P",
+                        "rx": 9,
+                        "ry": 9,
+                        "shape": "roundrect",
+                        "width": 10,
+                        "x": 470.90037909098766,
+                        "y": 344.28683715019287,
+                        "index": 42
+                  },
+                  {
+                        "color": "rgb(245,245,221)",
+                        "height": 6,
+                        "id": "Id43",
+                        "name": "starch synthase (simpl.)",
+                        "rx": 5,
+                        "ry": 5,
+                        "shape": "roundrect",
+                        "width": 10,
+                        "x": 369.46556101026687,
+                        "y": 341.6537081251002,
+                        "index": 43
+                  },
+                  {
+                        "color": "rgb(245,245,221)",
+                        "height": 6,
+                        "id": "Id44",
+                        "name": "ADP",
+                        "rx": 9,
+                        "ry": 9,
+                        "shape": "roundrect",
+                        "width": 10,
+                        "x": 369.46556101026687,
+                        "y": 369.0155498427036,
+                        "index": 44
+                  },
+                  {
+                        "color": "rgb(245,245,221)",
+                        "height": 6,
+                        "id": "Id45",
+                        "name": "starch",
+                        "rx": 9,
+                        "ry": 9,
+                        "shape": "roundrect",
+                        "width": 10,
+                        "x": 387.0772345068428,
+                        "y": 358.13632060744436,
+                        "index": 45
+                  },
+                  {
+                        "color": "rgb(245,245,221)",
+                        "height": 18,
+                        "id": "Id46",
+                        "name": "ATP/ADP transporter",
+                        "rx": 5,
+                        "ry": 5,
+                        "shape": "roundrect",
+                        "width": 30,
+                        "x": 442.9003770909878,
+                        "y": 235.46103724215854,
+                        "index": 46
+                  },
+                  {
+                        "color": "rgb(245,245,221)",
+                        "height": 6,
+                        "id": "Id47",
+                        "name": "ADP",
+                        "rx": 9,
+                        "ry": 9,
+                        "shape": "roundrect",
+                        "width": 10,
+                        "x": 414.90037509098767,
+                        "y": 222.58871915979284,
+                        "index": 47
+                  },
+                  {
+                        "color": "rgb(245,245,221)",
+                        "height": 6,
+                        "id": "Id48",
+                        "name": "ADP",
+                        "rx": 9,
+                        "ry": 9,
+                        "shape": "roundrect",
+                        "width": 10,
+                        "x": 470.90037909098766,
+                        "y": 220.49615022974584,
+                        "index": 48
+                  },
+                  {
+                        "color": "rgb(245,245,221)",
+                        "height": 6,
+                        "id": "Id49",
+                        "name": "ATP",
+                        "rx": 9,
+                        "ry": 9,
+                        "shape": "roundrect",
+                        "width": 10,
+                        "x": 470.90037909098766,
+                        "y": 242.03806263295462,
+                        "index": 49
+                  }
+            ]
+      },
+      "config": {
+            "graphType": "Network",
+            "networkLayoutType": "cola",
+            "graphOrientation": "horizontal",
+            "calculateLayout": false
+      },
+      "events": {},
+      "info": false,
+      "afterRender": [
+            [
+                  "setDimensions",
+                  [
+                        596,
+                        546,
+                        true
+                  ]
+            ],
+            [
+                  "setDimensions",
+                  [
+                        800,
+                        800
+                  ],
+                  {},
+                  false,
+                  1791830605968
+            ]
+      ],
+      "noValidate": true,
+      "factory": {
+            "version": 71.3,
+            "specSchemaVersion": "1.0",
+            "buildDate": "10-11-2026",
+            "client": "MDo6MTo6NzEuMzo6Y2FudmFzeHByZXNzLm9yZzo6",
+            "siteSrc": false,
+            "href": "https://canvasxpress.org/examples/network-7.html",
+            "services": "https://www.canvasxpress.org/cgi-bin/services.py"
+      },
+      "system": {
+            "browser": "Chrome",
+            "browserVersion": "153",
+            "os": "Mac OS",
+            "alt": "&#8997;",
+            "command": "&#8984;",
+            "control": "&#8963;",
+            "shift": "&#8679;",
+            "isNode": false,
+            "isReact": false,
+            "isjQuery": true,
+            "isReveal": false,
+            "isZoom": false,
+            "isIE": false,
+            "isInIframe": false,
+            "isR": false,
+            "isHTMLWidgets": false,
+            "isShiny": false,
+            "isRViewer": false,
+            "isRConsole": false,
+            "isCxplot": false,
+            "isGGMatrix": false,
+            "isJupyter": false,
+            "isVSCode": false
+      }
+}

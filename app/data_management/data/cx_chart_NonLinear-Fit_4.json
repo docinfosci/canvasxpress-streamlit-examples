@@ -1,0 +1,161 @@
+{
+      "version": 71.3,
+      "renderTo": "nonlinearfit4",
+      "data": {
+            "y": {
+                  "data": [
+                        [
+                              0,
+                              179.5
+                        ],
+                        [
+                              5,
+                              168.7
+                        ],
+                        [
+                              8,
+                              158.1
+                        ],
+                        [
+                              11,
+                              149.2
+                        ],
+                        [
+                              15,
+                              141.7
+                        ],
+                        [
+                              18,
+                              134.6
+                        ],
+                        [
+                              22,
+                              125.4
+                        ],
+                        [
+                              25,
+                              123.5
+                        ],
+                        [
+                              30,
+                              116.3
+                        ],
+                        [
+                              34,
+                              113.2
+                        ],
+                        [
+                              38,
+                              109.1
+                        ],
+                        [
+                              42,
+                              105.7
+                        ],
+                        [
+                              45,
+                              102.2
+                        ],
+                        [
+                              50,
+                              100.5
+                        ]
+                  ],
+                  "smps": [
+                        "Time",
+                        "Temp"
+                  ],
+                  "vars": [
+                        "S1",
+                        "S2",
+                        "S3",
+                        "S4",
+                        "S5",
+                        "S6",
+                        "S7",
+                        "S8",
+                        "S9",
+                        "S10",
+                        "S11",
+                        "S12",
+                        "S13",
+                        "S14"
+                  ]
+            }
+      },
+      "config": {
+            "decorations": {
+                  "exponential": [
+                        {
+                              "color": "red"
+                        }
+                  ]
+            },
+            "graphType": "Scatter2D",
+            "showDecorations": true,
+            "showLegend": false,
+            "xAxis": [
+                  "Time"
+            ],
+            "yAxis": [
+                  "Temp"
+            ]
+      },
+      "events": {},
+      "info": false,
+      "afterRender": [
+            [
+                  "setDimensions",
+                  [
+                        596,
+                        596,
+                        true
+                  ]
+            ],
+            [
+                  "setDimensions",
+                  [
+                        800,
+                        800
+                  ],
+                  {},
+                  false,
+                  1791830985925
+            ]
+      ],
+      "noValidate": true,
+      "factory": {
+            "version": 71.3,
+            "specSchemaVersion": "1.0",
+            "buildDate": "10-11-2026",
+            "client": "MDo6MTo6NzEuMzo6Y2FudmFzeHByZXNzLm9yZzo6",
+            "siteSrc": false,
+            "href": "https://canvasxpress.org/examples/nonlinear-fit-4.html",
+            "services": "https://www.canvasxpress.org/cgi-bin/services.py"
+      },
+      "system": {
+            "browser": "Chrome",
+            "browserVersion": "153",
+            "os": "Mac OS",
+            "alt": "&#8997;",
+            "command": "&#8984;",
+            "control": "&#8963;",
+            "shift": "&#8679;",
+            "isNode": false,
+            "isReact": false,
+            "isjQuery": true,
+            "isReveal": false,
+            "isZoom": false,
+            "isIE": false,
+            "isInIframe": false,
+            "isR": false,
+            "isHTMLWidgets": false,
+            "isShiny": false,
+            "isRViewer": false,
+            "isRConsole": false,
+            "isCxplot": false,
+            "isGGMatrix": false,
+            "isJupyter": false,
+            "isVSCode": false
+      }
+}

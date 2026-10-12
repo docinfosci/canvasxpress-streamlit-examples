@@ -1,0 +1,155 @@
+{
+      "version": 71.3,
+      "renderTo": "bullet2",
+      "data": {
+            "y": {
+                  "data": [
+                        [
+                              19,
+                              25,
+                              52,
+                              57,
+                              31,
+                              42
+                        ],
+                        [
+                              15,
+                              15,
+                              15,
+                              20,
+                              20,
+                              20
+                        ],
+                        [
+                              35,
+                              35,
+                              35,
+                              40,
+                              40,
+                              40
+                        ],
+                        [
+                              70,
+                              70,
+                              70,
+                              70,
+                              70,
+                              70
+                        ],
+                        [
+                              46,
+                              52,
+                              42,
+                              63,
+                              56,
+                              51
+                        ]
+                  ],
+                  "smps": [
+                        "S1",
+                        "S2",
+                        "S3",
+                        "S4",
+                        "S5",
+                        "S6"
+                  ],
+                  "vars": [
+                        "V1",
+                        "V2",
+                        "V3",
+                        "V4",
+                        "V5"
+                  ]
+            }
+      },
+      "config": {
+            "colors": [
+                  "#3F3F3F"
+            ],
+            "graphOrientation": "vertical",
+            "graphType": "Bullet",
+            "showDataValues": true,
+            "smpTextRotate": "90",
+            "xAxis": [
+                  "V1"
+            ],
+            "rangeStack": [
+                  "V2",
+                  "V3",
+                  "V4"
+            ],
+            "rangeColors": [
+                  "#945D55",
+                  "#C4A285",
+                  "#EBE7DE"
+            ],
+            "bulletTargetVarName": "V5",
+            "bulletTargetVarColor": "#3F3F3F",
+            "segregateSamplesBy": [
+                  "sample"
+            ],
+            "layoutTopology": "1X6",
+            "layoutAdjust": true,
+            "stripShow": false,
+            "xAxisTextScaleFontFactor": 0.6,
+            "barType": "normal",
+            "meterType": "gauge"
+      },
+      "events": {},
+      "info": false,
+      "afterRender": [
+            [
+                  "setDimensions",
+                  [
+                        596,
+                        596,
+                        true
+                  ]
+            ],
+            [
+                  "setDimensions",
+                  [
+                        800,
+                        800
+                  ],
+                  {},
+                  false,
+                  1791827963591
+            ]
+      ],
+      "noValidate": true,
+      "factory": {
+            "version": 71.3,
+            "specSchemaVersion": "1.0",
+            "buildDate": "10-11-2026",
+            "client": "MDo6MTo6NzEuMzo6Y2FudmFzeHByZXNzLm9yZzo6",
+            "siteSrc": false,
+            "href": "https://canvasxpress.org/examples/bullet-2.html",
+            "services": "https://www.canvasxpress.org/cgi-bin/services.py"
+      },
+      "system": {
+            "browser": "Chrome",
+            "browserVersion": "153",
+            "os": "Mac OS",
+            "alt": "&#8997;",
+            "command": "&#8984;",
+            "control": "&#8963;",
+            "shift": "&#8679;",
+            "isNode": false,
+            "isReact": false,
+            "isjQuery": true,
+            "isReveal": false,
+            "isZoom": false,
+            "isIE": false,
+            "isInIframe": false,
+            "isR": false,
+            "isHTMLWidgets": false,
+            "isShiny": false,
+            "isRViewer": false,
+            "isRConsole": false,
+            "isCxplot": false,
+            "isGGMatrix": false,
+            "isJupyter": false,
+            "isVSCode": false
+      }
+}

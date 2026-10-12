@@ -1,0 +1,146 @@
+{
+      "version": 71.3,
+      "renderTo": "nonlinearfit3",
+      "data": {
+            "y": {
+                  "data": [
+                        [
+                              1,
+                              6
+                        ],
+                        [
+                              2,
+                              9.5
+                        ],
+                        [
+                              3,
+                              13
+                        ],
+                        [
+                              4,
+                              15
+                        ],
+                        [
+                              5,
+                              16.5
+                        ],
+                        [
+                              6,
+                              17.5
+                        ],
+                        [
+                              7,
+                              18.5
+                        ],
+                        [
+                              8,
+                              19
+                        ],
+                        [
+                              9,
+                              19.5
+                        ],
+                        [
+                              10,
+                              19.7
+                        ],
+                        [
+                              11,
+                              19.8
+                        ]
+                  ],
+                  "smps": [
+                        "Age",
+                        "Height"
+                  ],
+                  "vars": [
+                        "S1",
+                        "S2",
+                        "S3",
+                        "S4",
+                        "S5",
+                        "S6",
+                        "S7",
+                        "S8",
+                        "S9",
+                        "S10",
+                        "S11"
+                  ]
+            }
+      },
+      "config": {
+            "decorations": {
+                  "logarithmic": [
+                        {
+                              "color": "red"
+                        }
+                  ]
+            },
+            "graphType": "Scatter2D",
+            "showDecorations": true,
+            "showLegend": false,
+            "xAxis": [
+                  "Age"
+            ],
+            "yAxis": [
+                  "Height"
+            ]
+      },
+      "events": {},
+      "info": false,
+      "afterRender": [
+            [
+                  "setDimensions",
+                  [
+                        596,
+                        596,
+                        true
+                  ]
+            ],
+            [
+                  "setDimensions",
+                  [
+                        800,
+                        800
+                  ],
+                  {},
+                  false,
+                  1791830977091
+            ]
+      ],
+      "noValidate": true,
+      "factory": {
+            "version": 71.3,
+            "specSchemaVersion": "1.0",
+            "buildDate": "10-11-2026",
+            "client": "MDo6MTo6NzEuMzo6Y2FudmFzeHByZXNzLm9yZzo6",
+            "siteSrc": false,
+            "href": "https://canvasxpress.org/examples/nonlinear-fit-3.html",
+            "services": "https://www.canvasxpress.org/cgi-bin/services.py"
+      },
+      "system": {
+            "browser": "Chrome",
+            "browserVersion": "153",
+            "os": "Mac OS",
+            "alt": "&#8997;",
+            "command": "&#8984;",
+            "control": "&#8963;",
+            "shift": "&#8679;",
+            "isNode": false,
+            "isReact": false,
+            "isjQuery": true,
+            "isReveal": false,
+            "isZoom": false,
+            "isIE": false,
+            "isInIframe": false,
+            "isR": false,
+            "isHTMLWidgets": false,
+            "isShiny": false,
+            "isRViewer": false,
+            "isRConsole": false,
+            "isCxplot": false,
+            "isGGMatrix": false,
+            "isJupyter": false,
+            "isVSCode": false
+      }
+}

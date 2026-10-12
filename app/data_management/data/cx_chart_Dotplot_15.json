@@ -1,0 +1,203 @@
+{
+      "version": 71.3,
+      "renderTo": "dotplot15",
+      "data": {
+            "x": {
+                  "Color": [
+                        "A",
+                        "B",
+                        "B",
+                        "C",
+                        "C",
+                        "C",
+                        "D",
+                        "D",
+                        "E",
+                        "E",
+                        "F",
+                        "F",
+                        "F",
+                        "F",
+                        "G",
+                        "G"
+                  ],
+                  "Size": [
+                        1,
+                        2,
+                        3,
+                        1,
+                        2,
+                        3,
+                        2,
+                        3,
+                        5,
+                        4,
+                        5,
+                        2,
+                        3,
+                        2,
+                        1,
+                        2
+                  ],
+                  "Task": [
+                        "Initial Meeting",
+                        "Needs Assessment",
+                        "Research",
+                        "Site Outline",
+                        "Site Map",
+                        "Wireframes",
+                        "Wireframes Review",
+                        "Content ",
+                        "Landing Page Artwork",
+                        "Inner Pages Artwork",
+                        "Coding",
+                        "Validation",
+                        "Content Population",
+                        "Cross Platform & Browser Testing",
+                        "Refinement",
+                        "Launch & Search Engine Submission"
+                  ]
+            },
+            "y": {
+                  "data": [
+                        [
+                              1,
+                              1,
+                              1,
+                              1,
+                              1,
+                              1,
+                              1,
+                              1,
+                              1,
+                              1,
+                              1,
+                              1,
+                              1,
+                              1,
+                              1,
+                              1
+                        ]
+                  ],
+                  "smps": [
+                        "2021-12-31",
+                        "2021-03-01",
+                        "2021-03-31",
+                        "2021-05-30",
+                        "2021-06-29",
+                        "2021-07-29",
+                        "2021-10-27",
+                        "2021-11-26",
+                        "2021-03-26",
+                        "2021-05-25",
+                        "2021-09-22",
+                        "2021-10-22",
+                        "2021-11-21",
+                        "2021-12-21",
+                        "2021-03-21",
+                        "2021-04-20"
+                  ],
+                  "vars": [
+                        "Unit"
+                  ]
+            }
+      },
+      "config": {
+            "colorBy": "Color",
+            "colorScheme": "LastAirBenderWater",
+            "decorations": {
+                  "line": [
+                        {
+                              "align": "left",
+                              "color": "rgba(0,0,0,0.5)",
+                              "value": 1,
+                              "width": 1,
+                              "id": "dotplot15-decoration-line-0"
+                        }
+                  ]
+            },
+            "graphOrientation": "vertical",
+            "graphType": "Dotplot",
+            "isGraphTime": true,
+            "marginLeft": 70,
+            "marginRight": 70,
+            "objectColorTransparency": 0.6,
+            "showLegend": false,
+            "sizeBy": "Size",
+            "sizes": [
+                  5,
+                  15,
+                  25,
+                  35,
+                  70,
+                  150
+            ],
+            "smpLabelInterval": 4,
+            "smpTextRotate": 90,
+            "timeFormat": "isoDate",
+            "xAxis": [
+                  "Unit"
+            ],
+            "xAxis2Show": false,
+            "xAxisGridMajorShow": false,
+            "xAxisGridMinorShow": false,
+            "xAxisShow": false
+      },
+      "events": {},
+      "info": false,
+      "afterRender": [
+            [
+                  "setDimensions",
+                  [
+                        596,
+                        246,
+                        true
+                  ]
+            ],
+            [
+                  "setDimensions",
+                  [
+                        800,
+                        800
+                  ],
+                  {},
+                  false,
+                  1791828744053
+            ]
+      ],
+      "noValidate": true,
+      "factory": {
+            "version": 71.3,
+            "specSchemaVersion": "1.0",
+            "buildDate": "10-11-2026",
+            "client": "MDo6MTo6NzEuMzo6Y2FudmFzeHByZXNzLm9yZzo6",
+            "siteSrc": false,
+            "href": "https://canvasxpress.org/examples/dotplot-15.html",
+            "services": "https://www.canvasxpress.org/cgi-bin/services.py"
+      },
+      "system": {
+            "browser": "Chrome",
+            "browserVersion": "153",
+            "os": "Mac OS",
+            "alt": "&#8997;",
+            "command": "&#8984;",
+            "control": "&#8963;",
+            "shift": "&#8679;",
+            "isNode": false,
+            "isReact": false,
+            "isjQuery": true,
+            "isReveal": false,
+            "isZoom": false,
+            "isIE": false,
+            "isInIframe": false,
+            "isR": false,
+            "isHTMLWidgets": false,
+            "isShiny": false,
+            "isRViewer": false,
+            "isRConsole": false,
+            "isCxplot": false,
+            "isGGMatrix": false,
+            "isJupyter": false,
+            "isVSCode": false
+      }
+}

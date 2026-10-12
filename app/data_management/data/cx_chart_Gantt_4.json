@@ -1,0 +1,185 @@
+{
+      "version": 71.3,
+      "renderTo": "gantt4",
+      "data": {
+            "x": {
+                  "Clinical Trial": [
+                        "CT001",
+                        "CT002",
+                        "CT003",
+                        "CT004",
+                        "CT005",
+                        "CT006",
+                        "CT001",
+                        "CT002",
+                        "CT003",
+                        "CT004",
+                        "CT005",
+                        "CT006"
+                  ],
+                  "Completion": [
+                        0.2,
+                        0.6,
+                        1,
+                        0.4,
+                        0.3,
+                        0.4,
+                        0.25,
+                        1,
+                        0.8,
+                        0.9,
+                        0.6,
+                        0.3
+                  ],
+                  "Dependencies": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        "S01",
+                        "S02",
+                        "S03",
+                        null,
+                        null,
+                        null
+                  ],
+                  "Indication": [
+                        "Lung",
+                        "Liver",
+                        "Breast",
+                        "Skin",
+                        "Lung",
+                        "Lung",
+                        "Breast",
+                        "Pancreas",
+                        "Stomach",
+                        "Breast",
+                        "Skin",
+                        "Lung"
+                  ]
+            },
+            "y": {
+                  "data": [
+                        [
+                              20140221,
+                              20140521,
+                              20140821,
+                              20141121,
+                              20150221,
+                              20150521,
+                              20140821,
+                              20141121,
+                              20150221,
+                              20150521,
+                              20150821,
+                              20151121
+                        ],
+                        [
+                              20140520,
+                              20140820,
+                              20141120,
+                              20150220,
+                              20150520,
+                              20150820,
+                              20141120,
+                              20150220,
+                              20150520,
+                              20150820,
+                              20151120,
+                              20160220
+                        ]
+                  ],
+                  "smps": [
+                        "S01",
+                        "S02",
+                        "S03",
+                        "S04",
+                        "S05",
+                        "S06",
+                        "S07",
+                        "S08",
+                        "S09",
+                        "S10",
+                        "S11",
+                        "S12"
+                  ],
+                  "vars": [
+                        "Start",
+                        "End"
+                  ]
+            }
+      },
+      "config": {
+            "blockContrast": true,
+            "colorBy": "Indication",
+            "ganttCompletion": "Completion",
+            "ganttDependency": "Dependencies",
+            "ganttEnd": "End",
+            "ganttStart": "Start",
+            "graphType": "Gantt",
+            "xAxis": [
+                  "Start",
+                  "End"
+            ],
+            "graphOrientation": "horizontal"
+      },
+      "events": {},
+      "info": false,
+      "afterRender": [
+            [
+                  "setDimensions",
+                  [
+                        596,
+                        596,
+                        true
+                  ]
+            ],
+            [
+                  "setDimensions",
+                  [
+                        800,
+                        800
+                  ],
+                  {},
+                  false,
+                  1791829150455
+            ]
+      ],
+      "noValidate": true,
+      "factory": {
+            "version": 71.3,
+            "specSchemaVersion": "1.0",
+            "buildDate": "10-11-2026",
+            "client": "MDo6MTo6NzEuMzo6Y2FudmFzeHByZXNzLm9yZzo6",
+            "siteSrc": false,
+            "href": "https://canvasxpress.org/examples/gantt-4.html",
+            "services": "https://www.canvasxpress.org/cgi-bin/services.py"
+      },
+      "system": {
+            "browser": "Chrome",
+            "browserVersion": "153",
+            "os": "Mac OS",
+            "alt": "&#8997;",
+            "command": "&#8984;",
+            "control": "&#8963;",
+            "shift": "&#8679;",
+            "isNode": false,
+            "isReact": false,
+            "isjQuery": true,
+            "isReveal": false,
+            "isZoom": false,
+            "isIE": false,
+            "isInIframe": false,
+            "isR": false,
+            "isHTMLWidgets": false,
+            "isShiny": false,
+            "isRViewer": false,
+            "isRConsole": false,
+            "isCxplot": false,
+            "isGGMatrix": false,
+            "isJupyter": false,
+            "isVSCode": false
+      }
+}

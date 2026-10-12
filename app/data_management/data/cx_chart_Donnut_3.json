@@ -1,0 +1,133 @@
+{
+      "version": 71.3,
+      "renderTo": "donnut3",
+      "data": {
+            "y": {
+                  "vars": [
+                        "Alpha helix",
+                        "Beta sheet",
+                        "Coil"
+                  ],
+                  "smps": [
+                        "E. coli",
+                        "Yeast",
+                        "Fruit fly",
+                        "Mouse",
+                        "Arabidopsis",
+                        "Rice"
+                  ],
+                  "data": [
+                        [
+                              38,
+                              40,
+                              41,
+                              42,
+                              36,
+                              35
+                        ],
+                        [
+                              22,
+                              21,
+                              22,
+                              21,
+                              26,
+                              27
+                        ],
+                        [
+                              40,
+                              39,
+                              37,
+                              37,
+                              38,
+                              38
+                        ]
+                  ]
+            }
+      },
+      "config": {
+            "graphType": "Pie",
+            "theme": "minimal",
+            "pieInnerRadius": 0.5,
+            "pieSegmentLabels": "outside",
+            "pieSegmentPrecision": 0,
+            "pieSegmentSeparation": 0,
+            "showPieGrid": false,
+            "showPieSampleLabel": true,
+            "colorScheme": "User",
+            "colors": [
+                  "#0072B2",
+                  "#E69F00",
+                  "#999999"
+            ],
+            "xAxis": [
+                  "E. coli",
+                  "Yeast",
+                  "Fruit fly",
+                  "Mouse",
+                  "Arabidopsis",
+                  "Rice"
+            ],
+            "title": "Protein secondary structure across six proteomes",
+            "subtitle": "Share of residues by structure class (synthetic)",
+            "legendPosition": "top",
+            "showTransition": false,
+            "graphOrientation": "horizontal"
+      },
+      "events": {},
+      "info": false,
+      "afterRender": [
+            [
+                  "setDimensions",
+                  [
+                        636,
+                        468,
+                        true
+                  ]
+            ],
+            [
+                  "setDimensions",
+                  [
+                        800,
+                        800
+                  ],
+                  {},
+                  false,
+                  1791828546948
+            ]
+      ],
+      "noValidate": true,
+      "factory": {
+            "version": 71.3,
+            "specSchemaVersion": "1.0",
+            "buildDate": "10-11-2026",
+            "client": "MDo6MTo6NzEuMzo6Y2FudmFzeHByZXNzLm9yZzo6",
+            "siteSrc": false,
+            "href": "https://canvasxpress.org/examples/donnut-3.html",
+            "services": "https://www.canvasxpress.org/cgi-bin/services.py"
+      },
+      "system": {
+            "browser": "Chrome",
+            "browserVersion": "153",
+            "os": "Mac OS",
+            "alt": "&#8997;",
+            "command": "&#8984;",
+            "control": "&#8963;",
+            "shift": "&#8679;",
+            "isNode": false,
+            "isReact": false,
+            "isjQuery": true,
+            "isReveal": false,
+            "isZoom": false,
+            "isIE": false,
+            "isInIframe": false,
+            "isR": false,
+            "isHTMLWidgets": false,
+            "isShiny": false,
+            "isRViewer": false,
+            "isRConsole": false,
+            "isCxplot": false,
+            "isGGMatrix": false,
+            "isJupyter": false,
+            "isVSCode": false
+      }
+}

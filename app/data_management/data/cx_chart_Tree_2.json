@@ -1,0 +1,113 @@
+{
+      "version": 70.8,
+      "renderTo": "tree2",
+      "data": {
+            "x": {
+                  "Level1": [
+                        null,
+                        "L1",
+                        "L1",
+                        "L1",
+                        null
+                  ],
+                  "Level2": [
+                        null,
+                        null,
+                        "L2",
+                        "L2",
+                        null
+                  ]
+            },
+            "y": {
+                  "data": [
+                        [
+                              1,
+                              2,
+                              3,
+                              4,
+                              5
+                        ]
+                  ],
+                  "smps": [
+                        "A",
+                        "B",
+                        "C",
+                        "D",
+                        "E"
+                  ],
+                  "vars": [
+                        "Order"
+                  ]
+            }
+      },
+      "config": {
+            "graphType": "Tree",
+            "hierarchy": [
+                  "Level1",
+                  "Level2"
+            ],
+            "showTransition": true,
+            "title": "Collapsible Tree",
+            "xAxis": [
+                  "Order"
+            ],
+            "graphOrientation": "horizontal"
+      },
+      "events": {},
+      "info": false,
+      "afterRender": [
+            [
+                  "setDimensions",
+                  [
+                        596,
+                        596,
+                        true
+                  ]
+            ],
+            [
+                  "setDimensions",
+                  [
+                        800,
+                        800
+                  ],
+                  {},
+                  false,
+                  1790897505710
+            ]
+      ],
+      "noValidate": true,
+      "factory": {
+            "version": 70.8,
+            "specSchemaVersion": "1.0",
+            "buildDate": "10-01-2026",
+            "client": "MDo6MTo6NzAuODo6Y2FudmFzeHByZXNzLm9yZzo6",
+            "siteSrc": false,
+            "href": "https://canvasxpress.org/examples/tree-2.html",
+            "services": "https://www.canvasxpress.org/cgi-bin/services.py"
+      },
+      "system": {
+            "browser": "Chrome",
+            "browserVersion": "153",
+            "os": "Mac OS",
+            "alt": "&#8997;",
+            "command": "&#8984;",
+            "control": "&#8963;",
+            "shift": "&#8679;",
+            "isNode": false,
+            "isReact": false,
+            "isjQuery": true,
+            "isReveal": false,
+            "isZoom": false,
+            "isIE": false,
+            "isInIframe": false,
+            "isR": false,
+            "isHTMLWidgets": false,
+            "isShiny": false,
+            "isRViewer": false,
+            "isRConsole": false,
+            "isCxplot": false,
+            "isGGMatrix": false,
+            "isJupyter": false,
+            "isVSCode": false
+      }
+}
