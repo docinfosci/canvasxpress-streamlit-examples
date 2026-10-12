@@ -1,0 +1,158 @@
+{
+      "version": 71.3,
+      "renderTo": "remotegraphs2",
+      "data": {
+            "y": {
+                  "vars": [
+                        "cov.general",
+                        "cov.picture",
+                        "cov.blocks",
+                        "cov.maze",
+                        "cov.reading",
+                        "cov.vocab",
+                        "center",
+                        "n.obs"
+                  ],
+                  "data": [
+                        [
+                              24.641,
+                              5.991,
+                              33.52,
+                              6.023,
+                              20.755,
+                              29.701
+                        ],
+                        [
+                              5.991,
+                              6.7,
+                              18.137,
+                              1.782,
+                              4.936,
+                              7.204
+                        ],
+                        [
+                              33.52,
+                              18.137,
+                              149.831,
+                              19.424,
+                              31.43,
+                              50.753
+                        ],
+                        [
+                              6.023,
+                              1.782,
+                              19.424,
+                              12.711,
+                              4.757,
+                              9.075
+                        ],
+                        [
+                              20.755,
+                              4.936,
+                              31.43,
+                              4.757,
+                              52.604,
+                              66.762
+                        ],
+                        [
+                              29.701,
+                              7.204,
+                              50.753,
+                              9.075,
+                              66.762,
+                              135.292
+                        ],
+                        [
+                              0,
+                              0,
+                              0,
+                              0,
+                              0,
+                              0
+                        ],
+                        [
+                              112,
+                              112,
+                              112,
+                              112,
+                              112,
+                              112
+                        ]
+                  ],
+                  "smps": [
+                        "general",
+                        "picture",
+                        "blocks",
+                        "maze",
+                        "reading",
+                        "vocab"
+                  ]
+            }
+      },
+      "config": {
+            "subtitle": "datasets - ability.cov",
+            "title": "Ability and Intelligence Tests",
+            "graphType": "Stacked",
+            "smpOverlays": [
+                  null
+            ],
+            "graphOrientation": "horizontal"
+      },
+      "events": {},
+      "info": "<meta name='viewport' content='width=device-width, initial-scale=1.0, user-scalable=yes' />&nl;<script type='text/javascript'>&nl;const macros = { 'R': 'textsf{R}', 'code': 'texttt'};&nl;function processMathHTML() {&nl;    var l = document.getElementsByClassName('reqn');&nl;    for (let e of l) { katex.render(e.textContent, e, { throwOnError: false, macros }); }&nl;    return;&nl;}</script>&nl;<script defer src='https://cdn.jsdelivr.net/npm/katex@0.15.3/dist/katex.min.js'&nl;    onload='processMathHTML();'></script>&nl;<table style='width: 100%;'><tr><td>ability.cov</td><td style='text-align: right;'>R Documentation</td></tr></table>&nl;<h2>Ability and Intelligence Tests</h2>&nl;<h3>Description</h3>&nl;<p>Six tests were given to 112 individuals. The covariance matrix is&nl;given in this object.&nl;</p>&nl;<h3>Usage</h3>&nl;<pre><code class='language-R'>ability.cov</code></pre>&nl;<h3>Details</h3>&nl;<p>The tests are described as&nl;</p>&nl;<dl>&nl;<dt>general:</dt><dd><p>a non-verbal measure of general intelligence using&nl;Cattell's culture-fair test.</p>&nl;</dd>&nl;<dt>picture:</dt><dd><p>a picture-completion test</p>&nl;</dd>&nl;<dt>blocks:</dt><dd><p>block design</p>&nl;</dd>&nl;<dt>maze:</dt><dd><p>mazes</p>&nl;</dd>&nl;<dt>reading:</dt><dd><p>reading comprehension</p>&nl;</dd>&nl;<dt>vocab:</dt><dd><p>vocabulary</p>&nl;</dd>&nl;</dl>&nl;<p>Bartholomew gives both covariance and correlation matrices,&nl;but these are inconsistent.  Neither are in the original paper.&nl;</p>&nl;<h3>Source</h3>&nl;<p>Bartholomew, D. J. (1987).&nl;<em>Latent Variable Analysis and Factor Analysis</em>.&nl;Griffin.&nl;</p>&nl;<p>Bartholomew, D. J. and Knott, M. (1990).&nl;<em>Latent Variable Analysis and Factor Analysis</em>.&nl;Second Edition, Arnold.&nl;</p>&nl;<h3>References</h3>&nl;<p>Smith, G. A. and Stanley G. (1983).&nl;Clocking <code class='reqn'>g</code>: relating intelligence and measures of timed&nl;performance.&nl;<em>Intelligence</em>, <b>7</b>, 353&ndash;368.&nl;<a href='https://doi.org/10.1016/0160-2896%2883%2990010-7'>doi:10.1016/0160-2896(83)90010-7</a>.&nl;</p>&nl;<h3>Examples</h3>&nl;<pre><code class='language-R'>&nl;require(stats)&nl;(ability.FA &lt;- factanal(factors = 1, covmat = ability.cov))&nl;update(ability.FA, factors = 2)&nl;## The signs of factors and hence the signs of correlations are&nl;## arbitrary with promax rotation.&nl;update(ability.FA, factors = 2, rotation = 'promax')&nl;</code></pre>&nl;</main>&nl;</div>&nl;",
+      "afterRender": [
+            [
+                  "setDimensions",
+                  [
+                        596,
+                        596,
+                        true
+                  ]
+            ],
+            [
+                  "setDimensions",
+                  [
+                        800,
+                        800
+                  ],
+                  {},
+                  false,
+                  1791831334733
+            ]
+      ],
+      "noValidate": true,
+      "factory": {
+            "version": 71.3,
+            "specSchemaVersion": "1.0",
+            "buildDate": "10-11-2026",
+            "client": "MDo6MTo6NzEuMzo6Y2FudmFzeHByZXNzLm9yZzo6",
+            "siteSrc": false,
+            "href": "https://canvasxpress.org/examples/remote-graphs-2.html",
+            "services": "https://www.canvasxpress.org/cgi-bin/services.py"
+      },
+      "system": {
+            "browser": "Chrome",
+            "browserVersion": "153",
+            "os": "Mac OS",
+            "alt": "&#8997;",
+            "command": "&#8984;",
+            "control": "&#8963;",
+            "shift": "&#8679;",
+            "isNode": false,
+            "isReact": false,
+            "isjQuery": true,
+            "isReveal": false,
+            "isZoom": false,
+            "isIE": false,
+            "isInIframe": false,
+            "isR": false,
+            "isHTMLWidgets": false,
+            "isShiny": false,
+            "isRViewer": false,
+            "isRConsole": false,
+            "isCxplot": false,
+            "isGGMatrix": false,
+            "isJupyter": false,
+            "isVSCode": false
+      }
+}

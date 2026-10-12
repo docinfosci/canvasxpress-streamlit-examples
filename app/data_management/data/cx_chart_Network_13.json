@@ -1,0 +1,2376 @@
+{
+      "version": 71.3,
+      "renderTo": "network13",
+      "data": {
+            "edges": [
+                  {
+                        "id1": "Id1",
+                        "id2": "Id0",
+                        "value": 1,
+                        "id": "Id1 -> Id0"
+                  },
+                  {
+                        "id1": "Id2",
+                        "id2": "Id0",
+                        "value": 8,
+                        "id": "Id2 -> Id0"
+                  },
+                  {
+                        "id1": "Id3",
+                        "id2": "Id0",
+                        "value": 10,
+                        "id": "Id3 -> Id0"
+                  },
+                  {
+                        "id1": "Id3",
+                        "id2": "Id2",
+                        "value": 6,
+                        "id": "Id3 -> Id2"
+                  },
+                  {
+                        "id1": "Id4",
+                        "id2": "Id0",
+                        "value": 1,
+                        "id": "Id4 -> Id0"
+                  },
+                  {
+                        "id1": "Id5",
+                        "id2": "Id0",
+                        "value": 1,
+                        "id": "Id5 -> Id0"
+                  },
+                  {
+                        "id1": "Id6",
+                        "id2": "Id0",
+                        "value": 1,
+                        "id": "Id6 -> Id0"
+                  },
+                  {
+                        "id1": "Id7",
+                        "id2": "Id0",
+                        "value": 1,
+                        "id": "Id7 -> Id0"
+                  },
+                  {
+                        "id1": "Id8",
+                        "id2": "Id0",
+                        "value": 2,
+                        "id": "Id8 -> Id0"
+                  },
+                  {
+                        "id1": "Id9",
+                        "id2": "Id0",
+                        "value": 1,
+                        "id": "Id9 -> Id0"
+                  },
+                  {
+                        "id1": "Id11",
+                        "id2": "Id10",
+                        "value": 1,
+                        "id": "Id11 -> Id10"
+                  },
+                  {
+                        "id1": "Id11",
+                        "id2": "Id3",
+                        "value": 3,
+                        "id": "Id11 -> Id3"
+                  },
+                  {
+                        "id1": "Id11",
+                        "id2": "Id2",
+                        "value": 3,
+                        "id": "Id11 -> Id2"
+                  },
+                  {
+                        "id1": "Id11",
+                        "id2": "Id0",
+                        "value": 5,
+                        "id": "Id11 -> Id0"
+                  },
+                  {
+                        "id1": "Id12",
+                        "id2": "Id11",
+                        "value": 1,
+                        "id": "Id12 -> Id11"
+                  },
+                  {
+                        "id1": "Id13",
+                        "id2": "Id11",
+                        "value": 1,
+                        "id": "Id13 -> Id11"
+                  },
+                  {
+                        "id1": "Id14",
+                        "id2": "Id11",
+                        "value": 1,
+                        "id": "Id14 -> Id11"
+                  },
+                  {
+                        "id1": "Id15",
+                        "id2": "Id11",
+                        "value": 1,
+                        "id": "Id15 -> Id11"
+                  },
+                  {
+                        "id1": "Id17",
+                        "id2": "Id16",
+                        "value": 4,
+                        "id": "Id17 -> Id16"
+                  },
+                  {
+                        "id1": "Id18",
+                        "id2": "Id16",
+                        "value": 4,
+                        "id": "Id18 -> Id16"
+                  },
+                  {
+                        "id1": "Id18",
+                        "id2": "Id17",
+                        "value": 4,
+                        "id": "Id18 -> Id17"
+                  },
+                  {
+                        "id1": "Id19",
+                        "id2": "Id16",
+                        "value": 4,
+                        "id": "Id19 -> Id16"
+                  },
+                  {
+                        "id1": "Id19",
+                        "id2": "Id17",
+                        "value": 4,
+                        "id": "Id19 -> Id17"
+                  },
+                  {
+                        "id1": "Id19",
+                        "id2": "Id18",
+                        "value": 4,
+                        "id": "Id19 -> Id18"
+                  },
+                  {
+                        "id1": "Id20",
+                        "id2": "Id16",
+                        "value": 3,
+                        "id": "Id20 -> Id16"
+                  },
+                  {
+                        "id1": "Id20",
+                        "id2": "Id17",
+                        "value": 3,
+                        "id": "Id20 -> Id17"
+                  },
+                  {
+                        "id1": "Id20",
+                        "id2": "Id18",
+                        "value": 3,
+                        "id": "Id20 -> Id18"
+                  },
+                  {
+                        "id1": "Id20",
+                        "id2": "Id19",
+                        "value": 4,
+                        "id": "Id20 -> Id19"
+                  },
+                  {
+                        "id1": "Id21",
+                        "id2": "Id16",
+                        "value": 3,
+                        "id": "Id21 -> Id16"
+                  },
+                  {
+                        "id1": "Id21",
+                        "id2": "Id17",
+                        "value": 3,
+                        "id": "Id21 -> Id17"
+                  },
+                  {
+                        "id1": "Id21",
+                        "id2": "Id18",
+                        "value": 3,
+                        "id": "Id21 -> Id18"
+                  },
+                  {
+                        "id1": "Id21",
+                        "id2": "Id19",
+                        "value": 3,
+                        "id": "Id21 -> Id19"
+                  },
+                  {
+                        "id1": "Id21",
+                        "id2": "Id20",
+                        "value": 5,
+                        "id": "Id21 -> Id20"
+                  },
+                  {
+                        "id1": "Id22",
+                        "id2": "Id16",
+                        "value": 3,
+                        "id": "Id22 -> Id16"
+                  },
+                  {
+                        "id1": "Id22",
+                        "id2": "Id17",
+                        "value": 3,
+                        "id": "Id22 -> Id17"
+                  },
+                  {
+                        "id1": "Id22",
+                        "id2": "Id18",
+                        "value": 3,
+                        "id": "Id22 -> Id18"
+                  },
+                  {
+                        "id1": "Id22",
+                        "id2": "Id19",
+                        "value": 3,
+                        "id": "Id22 -> Id19"
+                  },
+                  {
+                        "id1": "Id22",
+                        "id2": "Id20",
+                        "value": 4,
+                        "id": "Id22 -> Id20"
+                  },
+                  {
+                        "id1": "Id22",
+                        "id2": "Id21",
+                        "value": 4,
+                        "id": "Id22 -> Id21"
+                  },
+                  {
+                        "id1": "Id23",
+                        "id2": "Id16",
+                        "value": 3,
+                        "id": "Id23 -> Id16"
+                  },
+                  {
+                        "id1": "Id23",
+                        "id2": "Id17",
+                        "value": 3,
+                        "id": "Id23 -> Id17"
+                  },
+                  {
+                        "id1": "Id23",
+                        "id2": "Id18",
+                        "value": 3,
+                        "id": "Id23 -> Id18"
+                  },
+                  {
+                        "id1": "Id23",
+                        "id2": "Id19",
+                        "value": 3,
+                        "id": "Id23 -> Id19"
+                  },
+                  {
+                        "id1": "Id23",
+                        "id2": "Id20",
+                        "value": 4,
+                        "id": "Id23 -> Id20"
+                  },
+                  {
+                        "id1": "Id23",
+                        "id2": "Id21",
+                        "value": 4,
+                        "id": "Id23 -> Id21"
+                  },
+                  {
+                        "id1": "Id23",
+                        "id2": "Id22",
+                        "value": 4,
+                        "id": "Id23 -> Id22"
+                  },
+                  {
+                        "id1": "Id23",
+                        "id2": "Id12",
+                        "value": 2,
+                        "id": "Id23 -> Id12"
+                  },
+                  {
+                        "id1": "Id23",
+                        "id2": "Id11",
+                        "value": 9,
+                        "id": "Id23 -> Id11"
+                  },
+                  {
+                        "id1": "Id24",
+                        "id2": "Id23",
+                        "value": 2,
+                        "id": "Id24 -> Id23"
+                  },
+                  {
+                        "id1": "Id24",
+                        "id2": "Id11",
+                        "value": 7,
+                        "id": "Id24 -> Id11"
+                  },
+                  {
+                        "id1": "Id25",
+                        "id2": "Id24",
+                        "value": 13,
+                        "id": "Id25 -> Id24"
+                  },
+                  {
+                        "id1": "Id25",
+                        "id2": "Id23",
+                        "value": 1,
+                        "id": "Id25 -> Id23"
+                  },
+                  {
+                        "id1": "Id25",
+                        "id2": "Id11",
+                        "value": 12,
+                        "id": "Id25 -> Id11"
+                  },
+                  {
+                        "id1": "Id26",
+                        "id2": "Id24",
+                        "value": 4,
+                        "id": "Id26 -> Id24"
+                  },
+                  {
+                        "id1": "Id26",
+                        "id2": "Id11",
+                        "value": 31,
+                        "id": "Id26 -> Id11"
+                  },
+                  {
+                        "id1": "Id26",
+                        "id2": "Id16",
+                        "value": 1,
+                        "id": "Id26 -> Id16"
+                  },
+                  {
+                        "id1": "Id26",
+                        "id2": "Id25",
+                        "value": 1,
+                        "id": "Id26 -> Id25"
+                  },
+                  {
+                        "id1": "Id27",
+                        "id2": "Id11",
+                        "value": 17,
+                        "id": "Id27 -> Id11"
+                  },
+                  {
+                        "id1": "Id27",
+                        "id2": "Id23",
+                        "value": 5,
+                        "id": "Id27 -> Id23"
+                  },
+                  {
+                        "id1": "Id27",
+                        "id2": "Id25",
+                        "value": 5,
+                        "id": "Id27 -> Id25"
+                  },
+                  {
+                        "id1": "Id27",
+                        "id2": "Id24",
+                        "value": 1,
+                        "id": "Id27 -> Id24"
+                  },
+                  {
+                        "id1": "Id27",
+                        "id2": "Id26",
+                        "value": 1,
+                        "id": "Id27 -> Id26"
+                  },
+                  {
+                        "id1": "Id28",
+                        "id2": "Id11",
+                        "value": 8,
+                        "id": "Id28 -> Id11"
+                  },
+                  {
+                        "id1": "Id28",
+                        "id2": "Id27",
+                        "value": 1,
+                        "id": "Id28 -> Id27"
+                  },
+                  {
+                        "id1": "Id29",
+                        "id2": "Id23",
+                        "value": 1,
+                        "id": "Id29 -> Id23"
+                  },
+                  {
+                        "id1": "Id29",
+                        "id2": "Id27",
+                        "value": 1,
+                        "id": "Id29 -> Id27"
+                  },
+                  {
+                        "id1": "Id29",
+                        "id2": "Id11",
+                        "value": 2,
+                        "id": "Id29 -> Id11"
+                  },
+                  {
+                        "id1": "Id30",
+                        "id2": "Id23",
+                        "value": 1,
+                        "id": "Id30 -> Id23"
+                  },
+                  {
+                        "id1": "Id31",
+                        "id2": "Id30",
+                        "value": 2,
+                        "id": "Id31 -> Id30"
+                  },
+                  {
+                        "id1": "Id31",
+                        "id2": "Id11",
+                        "value": 3,
+                        "id": "Id31 -> Id11"
+                  },
+                  {
+                        "id1": "Id31",
+                        "id2": "Id23",
+                        "value": 2,
+                        "id": "Id31 -> Id23"
+                  },
+                  {
+                        "id1": "Id31",
+                        "id2": "Id27",
+                        "value": 1,
+                        "id": "Id31 -> Id27"
+                  },
+                  {
+                        "id1": "Id32",
+                        "id2": "Id11",
+                        "value": 1,
+                        "id": "Id32 -> Id11"
+                  },
+                  {
+                        "id1": "Id33",
+                        "id2": "Id11",
+                        "value": 2,
+                        "id": "Id33 -> Id11"
+                  },
+                  {
+                        "id1": "Id33",
+                        "id2": "Id27",
+                        "value": 1,
+                        "id": "Id33 -> Id27"
+                  },
+                  {
+                        "id1": "Id34",
+                        "id2": "Id11",
+                        "value": 3,
+                        "id": "Id34 -> Id11"
+                  },
+                  {
+                        "id1": "Id34",
+                        "id2": "Id29",
+                        "value": 2,
+                        "id": "Id34 -> Id29"
+                  },
+                  {
+                        "id1": "Id35",
+                        "id2": "Id11",
+                        "value": 3,
+                        "id": "Id35 -> Id11"
+                  },
+                  {
+                        "id1": "Id35",
+                        "id2": "Id34",
+                        "value": 3,
+                        "id": "Id35 -> Id34"
+                  },
+                  {
+                        "id1": "Id35",
+                        "id2": "Id29",
+                        "value": 2,
+                        "id": "Id35 -> Id29"
+                  },
+                  {
+                        "id1": "Id36",
+                        "id2": "Id34",
+                        "value": 2,
+                        "id": "Id36 -> Id34"
+                  },
+                  {
+                        "id1": "Id36",
+                        "id2": "Id35",
+                        "value": 2,
+                        "id": "Id36 -> Id35"
+                  },
+                  {
+                        "id1": "Id36",
+                        "id2": "Id11",
+                        "value": 2,
+                        "id": "Id36 -> Id11"
+                  },
+                  {
+                        "id1": "Id36",
+                        "id2": "Id29",
+                        "value": 1,
+                        "id": "Id36 -> Id29"
+                  },
+                  {
+                        "id1": "Id37",
+                        "id2": "Id34",
+                        "value": 2,
+                        "id": "Id37 -> Id34"
+                  },
+                  {
+                        "id1": "Id37",
+                        "id2": "Id35",
+                        "value": 2,
+                        "id": "Id37 -> Id35"
+                  },
+                  {
+                        "id1": "Id37",
+                        "id2": "Id36",
+                        "value": 2,
+                        "id": "Id37 -> Id36"
+                  },
+                  {
+                        "id1": "Id37",
+                        "id2": "Id11",
+                        "value": 2,
+                        "id": "Id37 -> Id11"
+                  },
+                  {
+                        "id1": "Id37",
+                        "id2": "Id29",
+                        "value": 1,
+                        "id": "Id37 -> Id29"
+                  },
+                  {
+                        "id1": "Id38",
+                        "id2": "Id34",
+                        "value": 2,
+                        "id": "Id38 -> Id34"
+                  },
+                  {
+                        "id1": "Id38",
+                        "id2": "Id35",
+                        "value": 2,
+                        "id": "Id38 -> Id35"
+                  },
+                  {
+                        "id1": "Id38",
+                        "id2": "Id36",
+                        "value": 2,
+                        "id": "Id38 -> Id36"
+                  },
+                  {
+                        "id1": "Id38",
+                        "id2": "Id37",
+                        "value": 2,
+                        "id": "Id38 -> Id37"
+                  },
+                  {
+                        "id1": "Id38",
+                        "id2": "Id11",
+                        "value": 2,
+                        "id": "Id38 -> Id11"
+                  },
+                  {
+                        "id1": "Id38",
+                        "id2": "Id29",
+                        "value": 1,
+                        "id": "Id38 -> Id29"
+                  },
+                  {
+                        "id1": "Id39",
+                        "id2": "Id25",
+                        "value": 1,
+                        "id": "Id39 -> Id25"
+                  },
+                  {
+                        "id1": "Id40",
+                        "id2": "Id25",
+                        "value": 1,
+                        "id": "Id40 -> Id25"
+                  },
+                  {
+                        "id1": "Id41",
+                        "id2": "Id24",
+                        "value": 2,
+                        "id": "Id41 -> Id24"
+                  },
+                  {
+                        "id1": "Id41",
+                        "id2": "Id25",
+                        "value": 3,
+                        "id": "Id41 -> Id25"
+                  },
+                  {
+                        "id1": "Id42",
+                        "id2": "Id41",
+                        "value": 2,
+                        "id": "Id42 -> Id41"
+                  },
+                  {
+                        "id1": "Id42",
+                        "id2": "Id25",
+                        "value": 2,
+                        "id": "Id42 -> Id25"
+                  },
+                  {
+                        "id1": "Id42",
+                        "id2": "Id24",
+                        "value": 1,
+                        "id": "Id42 -> Id24"
+                  },
+                  {
+                        "id1": "Id43",
+                        "id2": "Id11",
+                        "value": 3,
+                        "id": "Id43 -> Id11"
+                  },
+                  {
+                        "id1": "Id43",
+                        "id2": "Id26",
+                        "value": 1,
+                        "id": "Id43 -> Id26"
+                  },
+                  {
+                        "id1": "Id43",
+                        "id2": "Id27",
+                        "value": 1,
+                        "id": "Id43 -> Id27"
+                  },
+                  {
+                        "id1": "Id44",
+                        "id2": "Id28",
+                        "value": 3,
+                        "id": "Id44 -> Id28"
+                  },
+                  {
+                        "id1": "Id44",
+                        "id2": "Id11",
+                        "value": 1,
+                        "id": "Id44 -> Id11"
+                  },
+                  {
+                        "id1": "Id45",
+                        "id2": "Id28",
+                        "value": 2,
+                        "id": "Id45 -> Id28"
+                  },
+                  {
+                        "id1": "Id47",
+                        "id2": "Id46",
+                        "value": 1,
+                        "id": "Id47 -> Id46"
+                  },
+                  {
+                        "id1": "Id48",
+                        "id2": "Id47",
+                        "value": 2,
+                        "id": "Id48 -> Id47"
+                  },
+                  {
+                        "id1": "Id48",
+                        "id2": "Id25",
+                        "value": 1,
+                        "id": "Id48 -> Id25"
+                  },
+                  {
+                        "id1": "Id48",
+                        "id2": "Id27",
+                        "value": 1,
+                        "id": "Id48 -> Id27"
+                  },
+                  {
+                        "id1": "Id48",
+                        "id2": "Id11",
+                        "value": 1,
+                        "id": "Id48 -> Id11"
+                  },
+                  {
+                        "id1": "Id49",
+                        "id2": "Id26",
+                        "value": 3,
+                        "id": "Id49 -> Id26"
+                  },
+                  {
+                        "id1": "Id49",
+                        "id2": "Id11",
+                        "value": 2,
+                        "id": "Id49 -> Id11"
+                  },
+                  {
+                        "id1": "Id50",
+                        "id2": "Id49",
+                        "value": 1,
+                        "id": "Id50 -> Id49"
+                  },
+                  {
+                        "id1": "Id50",
+                        "id2": "Id24",
+                        "value": 1,
+                        "id": "Id50 -> Id24"
+                  },
+                  {
+                        "id1": "Id51",
+                        "id2": "Id49",
+                        "value": 9,
+                        "id": "Id51 -> Id49"
+                  },
+                  {
+                        "id1": "Id51",
+                        "id2": "Id26",
+                        "value": 2,
+                        "id": "Id51 -> Id26"
+                  },
+                  {
+                        "id1": "Id51",
+                        "id2": "Id11",
+                        "value": 2,
+                        "id": "Id51 -> Id11"
+                  },
+                  {
+                        "id1": "Id52",
+                        "id2": "Id51",
+                        "value": 1,
+                        "id": "Id52 -> Id51"
+                  },
+                  {
+                        "id1": "Id52",
+                        "id2": "Id39",
+                        "value": 1,
+                        "id": "Id52 -> Id39"
+                  },
+                  {
+                        "id1": "Id53",
+                        "id2": "Id51",
+                        "value": 1,
+                        "id": "Id53 -> Id51"
+                  },
+                  {
+                        "id1": "Id54",
+                        "id2": "Id51",
+                        "value": 2,
+                        "id": "Id54 -> Id51"
+                  },
+                  {
+                        "id1": "Id54",
+                        "id2": "Id49",
+                        "value": 1,
+                        "id": "Id54 -> Id49"
+                  },
+                  {
+                        "id1": "Id54",
+                        "id2": "Id26",
+                        "value": 1,
+                        "id": "Id54 -> Id26"
+                  },
+                  {
+                        "id1": "Id55",
+                        "id2": "Id51",
+                        "value": 6,
+                        "id": "Id55 -> Id51"
+                  },
+                  {
+                        "id1": "Id55",
+                        "id2": "Id49",
+                        "value": 12,
+                        "id": "Id55 -> Id49"
+                  },
+                  {
+                        "id1": "Id55",
+                        "id2": "Id39",
+                        "value": 1,
+                        "id": "Id55 -> Id39"
+                  },
+                  {
+                        "id1": "Id55",
+                        "id2": "Id54",
+                        "value": 1,
+                        "id": "Id55 -> Id54"
+                  },
+                  {
+                        "id1": "Id55",
+                        "id2": "Id26",
+                        "value": 21,
+                        "id": "Id55 -> Id26"
+                  },
+                  {
+                        "id1": "Id55",
+                        "id2": "Id11",
+                        "value": 19,
+                        "id": "Id55 -> Id11"
+                  },
+                  {
+                        "id1": "Id55",
+                        "id2": "Id16",
+                        "value": 1,
+                        "id": "Id55 -> Id16"
+                  },
+                  {
+                        "id1": "Id55",
+                        "id2": "Id25",
+                        "value": 2,
+                        "id": "Id55 -> Id25"
+                  },
+                  {
+                        "id1": "Id55",
+                        "id2": "Id41",
+                        "value": 5,
+                        "id": "Id55 -> Id41"
+                  },
+                  {
+                        "id1": "Id55",
+                        "id2": "Id48",
+                        "value": 4,
+                        "id": "Id55 -> Id48"
+                  },
+                  {
+                        "id1": "Id56",
+                        "id2": "Id49",
+                        "value": 1,
+                        "id": "Id56 -> Id49"
+                  },
+                  {
+                        "id1": "Id56",
+                        "id2": "Id55",
+                        "value": 1,
+                        "id": "Id56 -> Id55"
+                  },
+                  {
+                        "id1": "Id57",
+                        "id2": "Id55",
+                        "value": 1,
+                        "id": "Id57 -> Id55"
+                  },
+                  {
+                        "id1": "Id57",
+                        "id2": "Id41",
+                        "value": 1,
+                        "id": "Id57 -> Id41"
+                  },
+                  {
+                        "id1": "Id57",
+                        "id2": "Id48",
+                        "value": 1,
+                        "id": "Id57 -> Id48"
+                  },
+                  {
+                        "id1": "Id58",
+                        "id2": "Id55",
+                        "value": 7,
+                        "id": "Id58 -> Id55"
+                  },
+                  {
+                        "id1": "Id58",
+                        "id2": "Id48",
+                        "value": 7,
+                        "id": "Id58 -> Id48"
+                  },
+                  {
+                        "id1": "Id58",
+                        "id2": "Id27",
+                        "value": 6,
+                        "id": "Id58 -> Id27"
+                  },
+                  {
+                        "id1": "Id58",
+                        "id2": "Id57",
+                        "value": 1,
+                        "id": "Id58 -> Id57"
+                  },
+                  {
+                        "id1": "Id58",
+                        "id2": "Id11",
+                        "value": 4,
+                        "id": "Id58 -> Id11"
+                  },
+                  {
+                        "id1": "Id59",
+                        "id2": "Id58",
+                        "value": 15,
+                        "id": "Id59 -> Id58"
+                  },
+                  {
+                        "id1": "Id59",
+                        "id2": "Id55",
+                        "value": 5,
+                        "id": "Id59 -> Id55"
+                  },
+                  {
+                        "id1": "Id59",
+                        "id2": "Id48",
+                        "value": 6,
+                        "id": "Id59 -> Id48"
+                  },
+                  {
+                        "id1": "Id59",
+                        "id2": "Id57",
+                        "value": 2,
+                        "id": "Id59 -> Id57"
+                  },
+                  {
+                        "id1": "Id60",
+                        "id2": "Id48",
+                        "value": 1,
+                        "id": "Id60 -> Id48"
+                  },
+                  {
+                        "id1": "Id60",
+                        "id2": "Id58",
+                        "value": 4,
+                        "id": "Id60 -> Id58"
+                  },
+                  {
+                        "id1": "Id60",
+                        "id2": "Id59",
+                        "value": 2,
+                        "id": "Id60 -> Id59"
+                  },
+                  {
+                        "id1": "Id61",
+                        "id2": "Id48",
+                        "value": 2,
+                        "id": "Id61 -> Id48"
+                  },
+                  {
+                        "id1": "Id61",
+                        "id2": "Id58",
+                        "value": 6,
+                        "id": "Id61 -> Id58"
+                  },
+                  {
+                        "id1": "Id61",
+                        "id2": "Id60",
+                        "value": 2,
+                        "id": "Id61 -> Id60"
+                  },
+                  {
+                        "id1": "Id61",
+                        "id2": "Id59",
+                        "value": 5,
+                        "id": "Id61 -> Id59"
+                  },
+                  {
+                        "id1": "Id61",
+                        "id2": "Id57",
+                        "value": 1,
+                        "id": "Id61 -> Id57"
+                  },
+                  {
+                        "id1": "Id61",
+                        "id2": "Id55",
+                        "value": 1,
+                        "id": "Id61 -> Id55"
+                  },
+                  {
+                        "id1": "Id62",
+                        "id2": "Id55",
+                        "value": 9,
+                        "id": "Id62 -> Id55"
+                  },
+                  {
+                        "id1": "Id62",
+                        "id2": "Id58",
+                        "value": 17,
+                        "id": "Id62 -> Id58"
+                  },
+                  {
+                        "id1": "Id62",
+                        "id2": "Id59",
+                        "value": 13,
+                        "id": "Id62 -> Id59"
+                  },
+                  {
+                        "id1": "Id62",
+                        "id2": "Id48",
+                        "value": 7,
+                        "id": "Id62 -> Id48"
+                  },
+                  {
+                        "id1": "Id62",
+                        "id2": "Id57",
+                        "value": 2,
+                        "id": "Id62 -> Id57"
+                  },
+                  {
+                        "id1": "Id62",
+                        "id2": "Id41",
+                        "value": 1,
+                        "id": "Id62 -> Id41"
+                  },
+                  {
+                        "id1": "Id62",
+                        "id2": "Id61",
+                        "value": 6,
+                        "id": "Id62 -> Id61"
+                  },
+                  {
+                        "id1": "Id62",
+                        "id2": "Id60",
+                        "value": 3,
+                        "id": "Id62 -> Id60"
+                  },
+                  {
+                        "id1": "Id63",
+                        "id2": "Id59",
+                        "value": 5,
+                        "id": "Id63 -> Id59"
+                  },
+                  {
+                        "id1": "Id63",
+                        "id2": "Id48",
+                        "value": 5,
+                        "id": "Id63 -> Id48"
+                  },
+                  {
+                        "id1": "Id63",
+                        "id2": "Id62",
+                        "value": 6,
+                        "id": "Id63 -> Id62"
+                  },
+                  {
+                        "id1": "Id63",
+                        "id2": "Id57",
+                        "value": 2,
+                        "id": "Id63 -> Id57"
+                  },
+                  {
+                        "id1": "Id63",
+                        "id2": "Id58",
+                        "value": 4,
+                        "id": "Id63 -> Id58"
+                  },
+                  {
+                        "id1": "Id63",
+                        "id2": "Id61",
+                        "value": 3,
+                        "id": "Id63 -> Id61"
+                  },
+                  {
+                        "id1": "Id63",
+                        "id2": "Id60",
+                        "value": 2,
+                        "id": "Id63 -> Id60"
+                  },
+                  {
+                        "id1": "Id63",
+                        "id2": "Id55",
+                        "value": 1,
+                        "id": "Id63 -> Id55"
+                  },
+                  {
+                        "id1": "Id64",
+                        "id2": "Id55",
+                        "value": 5,
+                        "id": "Id64 -> Id55"
+                  },
+                  {
+                        "id1": "Id64",
+                        "id2": "Id62",
+                        "value": 12,
+                        "id": "Id64 -> Id62"
+                  },
+                  {
+                        "id1": "Id64",
+                        "id2": "Id48",
+                        "value": 5,
+                        "id": "Id64 -> Id48"
+                  },
+                  {
+                        "id1": "Id64",
+                        "id2": "Id63",
+                        "value": 4,
+                        "id": "Id64 -> Id63"
+                  },
+                  {
+                        "id1": "Id64",
+                        "id2": "Id58",
+                        "value": 10,
+                        "id": "Id64 -> Id58"
+                  },
+                  {
+                        "id1": "Id64",
+                        "id2": "Id61",
+                        "value": 6,
+                        "id": "Id64 -> Id61"
+                  },
+                  {
+                        "id1": "Id64",
+                        "id2": "Id60",
+                        "value": 2,
+                        "id": "Id64 -> Id60"
+                  },
+                  {
+                        "id1": "Id64",
+                        "id2": "Id59",
+                        "value": 9,
+                        "id": "Id64 -> Id59"
+                  },
+                  {
+                        "id1": "Id64",
+                        "id2": "Id57",
+                        "value": 1,
+                        "id": "Id64 -> Id57"
+                  },
+                  {
+                        "id1": "Id64",
+                        "id2": "Id11",
+                        "value": 1,
+                        "id": "Id64 -> Id11"
+                  },
+                  {
+                        "id1": "Id65",
+                        "id2": "Id63",
+                        "value": 5,
+                        "id": "Id65 -> Id63"
+                  },
+                  {
+                        "id1": "Id65",
+                        "id2": "Id64",
+                        "value": 7,
+                        "id": "Id65 -> Id64"
+                  },
+                  {
+                        "id1": "Id65",
+                        "id2": "Id48",
+                        "value": 3,
+                        "id": "Id65 -> Id48"
+                  },
+                  {
+                        "id1": "Id65",
+                        "id2": "Id62",
+                        "value": 5,
+                        "id": "Id65 -> Id62"
+                  },
+                  {
+                        "id1": "Id65",
+                        "id2": "Id58",
+                        "value": 5,
+                        "id": "Id65 -> Id58"
+                  },
+                  {
+                        "id1": "Id65",
+                        "id2": "Id61",
+                        "value": 5,
+                        "id": "Id65 -> Id61"
+                  },
+                  {
+                        "id1": "Id65",
+                        "id2": "Id60",
+                        "value": 2,
+                        "id": "Id65 -> Id60"
+                  },
+                  {
+                        "id1": "Id65",
+                        "id2": "Id59",
+                        "value": 5,
+                        "id": "Id65 -> Id59"
+                  },
+                  {
+                        "id1": "Id65",
+                        "id2": "Id57",
+                        "value": 1,
+                        "id": "Id65 -> Id57"
+                  },
+                  {
+                        "id1": "Id65",
+                        "id2": "Id55",
+                        "value": 2,
+                        "id": "Id65 -> Id55"
+                  },
+                  {
+                        "id1": "Id66",
+                        "id2": "Id64",
+                        "value": 3,
+                        "id": "Id66 -> Id64"
+                  },
+                  {
+                        "id1": "Id66",
+                        "id2": "Id58",
+                        "value": 3,
+                        "id": "Id66 -> Id58"
+                  },
+                  {
+                        "id1": "Id66",
+                        "id2": "Id59",
+                        "value": 1,
+                        "id": "Id66 -> Id59"
+                  },
+                  {
+                        "id1": "Id66",
+                        "id2": "Id62",
+                        "value": 2,
+                        "id": "Id66 -> Id62"
+                  },
+                  {
+                        "id1": "Id66",
+                        "id2": "Id65",
+                        "value": 2,
+                        "id": "Id66 -> Id65"
+                  },
+                  {
+                        "id1": "Id66",
+                        "id2": "Id48",
+                        "value": 1,
+                        "id": "Id66 -> Id48"
+                  },
+                  {
+                        "id1": "Id66",
+                        "id2": "Id63",
+                        "value": 1,
+                        "id": "Id66 -> Id63"
+                  },
+                  {
+                        "id1": "Id66",
+                        "id2": "Id61",
+                        "value": 1,
+                        "id": "Id66 -> Id61"
+                  },
+                  {
+                        "id1": "Id66",
+                        "id2": "Id60",
+                        "value": 1,
+                        "id": "Id66 -> Id60"
+                  },
+                  {
+                        "id1": "Id67",
+                        "id2": "Id57",
+                        "value": 3,
+                        "id": "Id67 -> Id57"
+                  },
+                  {
+                        "id1": "Id68",
+                        "id2": "Id25",
+                        "value": 5,
+                        "id": "Id68 -> Id25"
+                  },
+                  {
+                        "id1": "Id68",
+                        "id2": "Id11",
+                        "value": 1,
+                        "id": "Id68 -> Id11"
+                  },
+                  {
+                        "id1": "Id68",
+                        "id2": "Id24",
+                        "value": 1,
+                        "id": "Id68 -> Id24"
+                  },
+                  {
+                        "id1": "Id68",
+                        "id2": "Id27",
+                        "value": 1,
+                        "id": "Id68 -> Id27"
+                  },
+                  {
+                        "id1": "Id68",
+                        "id2": "Id48",
+                        "value": 1,
+                        "id": "Id68 -> Id48"
+                  },
+                  {
+                        "id1": "Id68",
+                        "id2": "Id41",
+                        "value": 1,
+                        "id": "Id68 -> Id41"
+                  },
+                  {
+                        "id1": "Id69",
+                        "id2": "Id25",
+                        "value": 6,
+                        "id": "Id69 -> Id25"
+                  },
+                  {
+                        "id1": "Id69",
+                        "id2": "Id68",
+                        "value": 6,
+                        "id": "Id69 -> Id68"
+                  },
+                  {
+                        "id1": "Id69",
+                        "id2": "Id11",
+                        "value": 1,
+                        "id": "Id69 -> Id11"
+                  },
+                  {
+                        "id1": "Id69",
+                        "id2": "Id24",
+                        "value": 1,
+                        "id": "Id69 -> Id24"
+                  },
+                  {
+                        "id1": "Id69",
+                        "id2": "Id27",
+                        "value": 2,
+                        "id": "Id69 -> Id27"
+                  },
+                  {
+                        "id1": "Id69",
+                        "id2": "Id48",
+                        "value": 1,
+                        "id": "Id69 -> Id48"
+                  },
+                  {
+                        "id1": "Id69",
+                        "id2": "Id41",
+                        "value": 1,
+                        "id": "Id69 -> Id41"
+                  },
+                  {
+                        "id1": "Id70",
+                        "id2": "Id25",
+                        "value": 4,
+                        "id": "Id70 -> Id25"
+                  },
+                  {
+                        "id1": "Id70",
+                        "id2": "Id69",
+                        "value": 4,
+                        "id": "Id70 -> Id69"
+                  },
+                  {
+                        "id1": "Id70",
+                        "id2": "Id68",
+                        "value": 4,
+                        "id": "Id70 -> Id68"
+                  },
+                  {
+                        "id1": "Id70",
+                        "id2": "Id11",
+                        "value": 1,
+                        "id": "Id70 -> Id11"
+                  },
+                  {
+                        "id1": "Id70",
+                        "id2": "Id24",
+                        "value": 1,
+                        "id": "Id70 -> Id24"
+                  },
+                  {
+                        "id1": "Id70",
+                        "id2": "Id27",
+                        "value": 1,
+                        "id": "Id70 -> Id27"
+                  },
+                  {
+                        "id1": "Id70",
+                        "id2": "Id41",
+                        "value": 1,
+                        "id": "Id70 -> Id41"
+                  },
+                  {
+                        "id1": "Id70",
+                        "id2": "Id58",
+                        "value": 1,
+                        "id": "Id70 -> Id58"
+                  },
+                  {
+                        "id1": "Id71",
+                        "id2": "Id27",
+                        "value": 1,
+                        "id": "Id71 -> Id27"
+                  },
+                  {
+                        "id1": "Id71",
+                        "id2": "Id69",
+                        "value": 2,
+                        "id": "Id71 -> Id69"
+                  },
+                  {
+                        "id1": "Id71",
+                        "id2": "Id68",
+                        "value": 2,
+                        "id": "Id71 -> Id68"
+                  },
+                  {
+                        "id1": "Id71",
+                        "id2": "Id70",
+                        "value": 2,
+                        "id": "Id71 -> Id70"
+                  },
+                  {
+                        "id1": "Id71",
+                        "id2": "Id11",
+                        "value": 1,
+                        "id": "Id71 -> Id11"
+                  },
+                  {
+                        "id1": "Id71",
+                        "id2": "Id48",
+                        "value": 1,
+                        "id": "Id71 -> Id48"
+                  },
+                  {
+                        "id1": "Id71",
+                        "id2": "Id41",
+                        "value": 1,
+                        "id": "Id71 -> Id41"
+                  },
+                  {
+                        "id1": "Id71",
+                        "id2": "Id25",
+                        "value": 1,
+                        "id": "Id71 -> Id25"
+                  },
+                  {
+                        "id1": "Id72",
+                        "id2": "Id26",
+                        "value": 2,
+                        "id": "Id72 -> Id26"
+                  },
+                  {
+                        "id1": "Id72",
+                        "id2": "Id27",
+                        "value": 1,
+                        "id": "Id72 -> Id27"
+                  },
+                  {
+                        "id1": "Id72",
+                        "id2": "Id11",
+                        "value": 1,
+                        "id": "Id72 -> Id11"
+                  },
+                  {
+                        "id1": "Id73",
+                        "id2": "Id48",
+                        "value": 2,
+                        "id": "Id73 -> Id48"
+                  },
+                  {
+                        "id1": "Id74",
+                        "id2": "Id48",
+                        "value": 2,
+                        "id": "Id74 -> Id48"
+                  },
+                  {
+                        "id1": "Id74",
+                        "id2": "Id73",
+                        "value": 3,
+                        "id": "Id74 -> Id73"
+                  },
+                  {
+                        "id1": "Id75",
+                        "id2": "Id69",
+                        "value": 3,
+                        "id": "Id75 -> Id69"
+                  },
+                  {
+                        "id1": "Id75",
+                        "id2": "Id68",
+                        "value": 3,
+                        "id": "Id75 -> Id68"
+                  },
+                  {
+                        "id1": "Id75",
+                        "id2": "Id25",
+                        "value": 3,
+                        "id": "Id75 -> Id25"
+                  },
+                  {
+                        "id1": "Id75",
+                        "id2": "Id48",
+                        "value": 1,
+                        "id": "Id75 -> Id48"
+                  },
+                  {
+                        "id1": "Id75",
+                        "id2": "Id41",
+                        "value": 1,
+                        "id": "Id75 -> Id41"
+                  },
+                  {
+                        "id1": "Id75",
+                        "id2": "Id70",
+                        "value": 1,
+                        "id": "Id75 -> Id70"
+                  },
+                  {
+                        "id1": "Id75",
+                        "id2": "Id71",
+                        "value": 1,
+                        "id": "Id75 -> Id71"
+                  },
+                  {
+                        "id1": "Id76",
+                        "id2": "Id64",
+                        "value": 1,
+                        "id": "Id76 -> Id64"
+                  },
+                  {
+                        "id1": "Id76",
+                        "id2": "Id65",
+                        "value": 1,
+                        "id": "Id76 -> Id65"
+                  },
+                  {
+                        "id1": "Id76",
+                        "id2": "Id66",
+                        "value": 1,
+                        "id": "Id76 -> Id66"
+                  },
+                  {
+                        "id1": "Id76",
+                        "id2": "Id63",
+                        "value": 1,
+                        "id": "Id76 -> Id63"
+                  },
+                  {
+                        "id1": "Id76",
+                        "id2": "Id62",
+                        "value": 1,
+                        "id": "Id76 -> Id62"
+                  },
+                  {
+                        "id1": "Id76",
+                        "id2": "Id48",
+                        "value": 1,
+                        "id": "Id76 -> Id48"
+                  },
+                  {
+                        "id1": "Id76",
+                        "id2": "Id58",
+                        "value": 1,
+                        "id": "Id76 -> Id58"
+                  }
+            ],
+            "nodes": [
+                  {
+                        "group": 1,
+                        "id": "Id0",
+                        "name": "Myriel",
+                        "radius": 242.98330078125,
+                        "angle": 2.763709020336803,
+                        "x": 752.3818118713325,
+                        "y": 1197.3512655990428,
+                        "z": 0
+                  },
+                  {
+                        "group": 1,
+                        "id": "Id1",
+                        "name": "Napoleon",
+                        "radius": 242.98330078125,
+                        "angle": 6.985919414339349,
+                        "x": 788.05579385429,
+                        "y": 1194.3087225418985,
+                        "z": 0
+                  },
+                  {
+                        "group": 1,
+                        "id": "Id2",
+                        "name": "Mlle. Baptistine",
+                        "radius": 242.98330078125,
+                        "angle": 10.120333937937328,
+                        "x": 814.3420629059817,
+                        "y": 1190.3552918919027,
+                        "z": 0
+                  },
+                  {
+                        "group": 1,
+                        "id": "Id3",
+                        "name": "Mme. Magloire",
+                        "radius": 242.98330078125,
+                        "angle": 13.472160237801804,
+                        "x": 842.1669343557974,
+                        "y": 1184.5442754551832,
+                        "z": 0
+                  },
+                  {
+                        "group": 1,
+                        "id": "Id4",
+                        "name": "Countess de Lo",
+                        "radius": 242.98330078125,
+                        "angle": 16.60657476139978,
+                        "x": 867.8383475577091,
+                        "y": 1177.6467325028725,
+                        "z": 0
+                  },
+                  {
+                        "group": 1,
+                        "id": "Id5",
+                        "name": "Geborand",
+                        "radius": 242.98330078125,
+                        "angle": 19.523577508731268,
+                        "x": 891.35738090001,
+                        "y": 1169.975391528799,
+                        "z": 0
+                  },
+                  {
+                        "group": 1,
+                        "id": "Id6",
+                        "name": "Champtercier",
+                        "radius": 242.98330078125,
+                        "angle": 22.440580256062752,
+                        "x": 914.4555513581347,
+                        "y": 1161.1171228952473,
+                        "z": 0
+                  },
+                  {
+                        "group": 1,
+                        "id": "Id7",
+                        "name": "Cravatte",
+                        "radius": 242.98330078125,
+                        "angle": 25.35758300339424,
+                        "x": 937.0730023126432,
+                        "y": 1151.094881927422,
+                        "z": 0
+                  },
+                  {
+                        "group": 1,
+                        "id": "Id8",
+                        "name": "Count",
+                        "radius": 242.98330078125,
+                        "angle": 28.274585750725723,
+                        "x": 959.1511228810439,
+                        "y": 1139.9346402694682,
+                        "z": 0
+                  },
+                  {
+                        "group": 1,
+                        "id": "Id9",
+                        "name": "Old Man",
+                        "radius": 242.98330078125,
+                        "angle": 31.191588498057207,
+                        "x": 980.6326998020864,
+                        "y": 1127.665318581531,
+                        "z": 0
+                  },
+                  {
+                        "group": 2,
+                        "id": "Id10",
+                        "name": "Labarre",
+                        "radius": 242.98330078125,
+                        "angle": 34.108591245388695,
+                        "x": 1001.4620656982586,
+                        "y": 1114.3187115947294,
+                        "z": 0
+                  },
+                  {
+                        "group": 2,
+                        "id": "Id11",
+                        "name": "Valjean",
+                        "radius": 242.98330078125,
+                        "angle": 46.235009437554496,
+                        "x": 1079.9067271432625,
+                        "y": 1048.0939859758284,
+                        "z": 0
+                  },
+                  {
+                        "group": 3,
+                        "id": "Id12",
+                        "name": "Marguerite",
+                        "radius": 242.98330078125,
+                        "angle": 58.48745276104764,
+                        "x": 1143.2489300236707,
+                        "y": 965.9574878558326,
+                        "z": 0
+                  },
+                  {
+                        "group": 2,
+                        "id": "Id13",
+                        "name": "Mme. de R",
+                        "radius": 242.98330078125,
+                        "angle": 61.53048063970648,
+                        "x": 1156.1489665196943,
+                        "y": 943.6058916930498,
+                        "z": 0
+                  },
+                  {
+                        "group": 2,
+                        "id": "Id14",
+                        "name": "Isabeau",
+                        "radius": 242.98330078125,
+                        "angle": 64.44748338703795,
+                        "x": 1167.3842583590463,
+                        "y": 921.5658685764251,
+                        "z": 0
+                  },
+                  {
+                        "group": 2,
+                        "id": "Id15",
+                        "name": "Gervais",
+                        "radius": 242.98330078125,
+                        "angle": 67.36448613436943,
+                        "x": 1177.483391018816,
+                        "y": 898.9826464587309,
+                        "z": 0
+                  },
+                  {
+                        "group": 3,
+                        "id": "Id16",
+                        "name": "Tholomyes",
+                        "radius": 242.98330078125,
+                        "angle": 71.37223270839384,
+                        "x": 1189.4585220557617,
+                        "y": 867.1766687377691,
+                        "z": 0
+                  },
+                  {
+                        "group": 3,
+                        "id": "Id17",
+                        "name": "Listolier",
+                        "radius": 242.98330078125,
+                        "angle": 76.14276297203119,
+                        "x": 1200.7726921166502,
+                        "y": 828.3405930587863,
+                        "z": 0
+                  },
+                  {
+                        "group": 3,
+                        "id": "Id18",
+                        "name": "Fameuil",
+                        "radius": 242.98330078125,
+                        "angle": 80.58533309858859,
+                        "x": 1208.3706893745873,
+                        "y": 791.4435926401387,
+                        "z": 0
+                  },
+                  {
+                        "group": 3,
+                        "id": "Id19",
+                        "name": "Blacheville",
+                        "radius": 242.98330078125,
+                        "angle": 85.02790322514598,
+                        "x": 1213.0878237709667,
+                        "y": 754.0689107644116,
+                        "z": 0
+                  },
+                  {
+                        "group": 3,
+                        "id": "Id20",
+                        "name": "Favourite",
+                        "radius": 242.98330078125,
+                        "angle": 89.47047335170338,
+                        "x": 1214.8957498154318,
+                        "y": 716.4411337154941,
+                        "z": 0
+                  },
+                  {
+                        "group": 3,
+                        "id": "Id21",
+                        "name": "Dahlia",
+                        "radius": 242.98330078125,
+                        "angle": 93.91304347826075,
+                        "x": 1213.7836035923185,
+                        "y": 678.7863686384985,
+                        "z": 0
+                  },
+                  {
+                        "group": 3,
+                        "id": "Id22",
+                        "name": "Zephine",
+                        "radius": 242.98330078125,
+                        "angle": 98.35561360481815,
+                        "x": 1209.7580680424535,
+                        "y": 641.330884850913,
+                        "z": 0
+                  },
+                  {
+                        "group": 3,
+                        "id": "Id23",
+                        "name": "Fantine",
+                        "radius": 242.98330078125,
+                        "angle": 104.33112100132236,
+                        "x": 1199.7939169896113,
+                        "y": 591.6608683199727,
+                        "z": 0
+                  },
+                  {
+                        "group": 4,
+                        "id": "Id24",
+                        "name": "Mme. Thenardier",
+                        "radius": 242.98330078125,
+                        "angle": 110.999398125591,
+                        "x": 1182.6406389116125,
+                        "y": 537.7998136652885,
+                        "z": 0
+                  },
+                  {
+                        "group": 4,
+                        "id": "Id25",
+                        "name": "Thenardier",
+                        "radius": 242.98330078125,
+                        "angle": 117.94846808632587,
+                        "x": 1158.237966046041,
+                        "y": 484.1884126293047,
+                        "z": 0
+                  },
+                  {
+                        "group": 5,
+                        "id": "Id26",
+                        "name": "Cosette",
+                        "radius": 242.98330078125,
+                        "angle": 124.89753804706073,
+                        "x": 1127.5282691741022,
+                        "y": 433.9232429582609,
+                        "z": 0
+                  },
+                  {
+                        "group": 4,
+                        "id": "Id27",
+                        "name": "Javert",
+                        "radius": 242.98330078125,
+                        "angle": 132.0411731228273,
+                        "x": 1089.859701445273,
+                        "y": 386.5153394179539,
+                        "z": 0
+                  },
+                  {
+                        "group": 0,
+                        "id": "Id28",
+                        "name": "Fauchelevent",
+                        "radius": 242.98330078125,
+                        "angle": 138.09480136097304,
+                        "x": 1053.5270376194082,
+                        "y": 350.2687982057917,
+                        "z": 0
+                  },
+                  {
+                        "group": 2,
+                        "id": "Id29",
+                        "name": "Bamatabois",
+                        "radius": 242.98330078125,
+                        "angle": 142.33248852548948,
+                        "x": 1025.9135437027119,
+                        "y": 327.27324130875627,
+                        "z": 0
+                  },
+                  {
+                        "group": 3,
+                        "id": "Id30",
+                        "name": "Perpetue",
+                        "radius": 242.98330078125,
+                        "angle": 146.33065424157672,
+                        "x": 998.3694159871505,
+                        "y": 307.50378293801367,
+                        "z": 0
+                  },
+                  {
+                        "group": 2,
+                        "id": "Id31",
+                        "name": "Simplice",
+                        "radius": 242.98330078125,
+                        "angle": 149.73922869999208,
+                        "x": 973.8461448500923,
+                        "y": 292.2007293362497,
+                        "z": 0
+                  },
+                  {
+                        "group": 2,
+                        "id": "Id32",
+                        "name": "Scaufflaire",
+                        "radius": 242.98330078125,
+                        "angle": 153.02177802708016,
+                        "x": 949.4095243797889,
+                        "y": 278.86666220863174,
+                        "z": 0
+                  },
+                  {
+                        "group": 2,
+                        "id": "Id33",
+                        "name": "Woman 1",
+                        "radius": 242.98330078125,
+                        "angle": 156.06480590573898,
+                        "x": 926.1080558796449,
+                        "y": 267.77403590285235,
+                        "z": 0
+                  },
+                  {
+                        "group": 2,
+                        "id": "Id34",
+                        "name": "Judge",
+                        "radius": 242.98330078125,
+                        "angle": 159.74975126618804,
+                        "x": 897.15321160568,
+                        "y": 256.0209774140619,
+                        "z": 0
+                  },
+                  {
+                        "group": 2,
+                        "id": "Id35",
+                        "name": "Champmathieu",
+                        "radius": 242.98330078125,
+                        "angle": 163.9505889771,
+                        "x": 863.3032570307512,
+                        "y": 244.92451339947166,
+                        "z": 0
+                  },
+                  {
+                        "group": 2,
+                        "id": "Id36",
+                        "name": "Brevet",
+                        "radius": 242.98330078125,
+                        "angle": 168.15142668801195,
+                        "x": 828.7313967075249,
+                        "y": 236.33746430544807,
+                        "z": 0
+                  },
+                  {
+                        "group": 2,
+                        "id": "Id37",
+                        "name": "Chenildieu",
+                        "radius": 242.98330078125,
+                        "angle": 172.3522643989239,
+                        "x": 793.6233917191896,
+                        "y": 230.3059699557145,
+                        "z": 0
+                  },
+                  {
+                        "group": 2,
+                        "id": "Id38",
+                        "name": "Cochepaille",
+                        "radius": 242.98330078125,
+                        "angle": 176.55310210983586,
+                        "x": 758.1678839546762,
+                        "y": 226.862438699523,
+                        "z": 0
+                  },
+                  {
+                        "group": 4,
+                        "id": "Id39",
+                        "name": "Pontmercy",
+                        "radius": 242.98330078125,
+                        "angle": 180.32943411522405,
+                        "x": 726.1557507207049,
+                        "y": 225.99133358411478,
+                        "z": 0
+                  },
+                  {
+                        "group": 6,
+                        "id": "Id40",
+                        "name": "Boulatruelle",
+                        "radius": 242.98330078125,
+                        "angle": 183.46384863882207,
+                        "x": 699.5884106460104,
+                        "y": 226.87110396199301,
+                        "z": 0
+                  },
+                  {
+                        "group": 4,
+                        "id": "Id41",
+                        "name": "Eponine",
+                        "radius": 242.98330078125,
+                        "angle": 187.83640480353094,
+                        "x": 662.6907617501049,
+                        "y": 230.5215440992473,
+                        "z": 0
+                  },
+                  {
+                        "group": 4,
+                        "id": "Id42",
+                        "name": "Anzelma",
+                        "radius": 242.98330078125,
+                        "angle": 192.42637274450632,
+                        "x": 624.3772481538007,
+                        "y": 237.36787800035478,
+                        "z": 0
+                  },
+                  {
+                        "group": 5,
+                        "id": "Id43",
+                        "name": "Woman 2",
+                        "radius": 242.98330078125,
+                        "angle": 195.77819904437075,
+                        "x": 596.8087288790477,
+                        "y": 244.29378070138642,
+                        "z": 0
+                  },
+                  {
+                        "group": 0,
+                        "id": "Id44",
+                        "name": "Mother Innocent",
+                        "radius": 242.98330078125,
+                        "angle": 199.0386386992961,
+                        "x": 570.424821012562,
+                        "y": 252.5662539373816,
+                        "z": 0
+                  },
+                  {
+                        "group": 0,
+                        "id": "Id45",
+                        "name": "Gribier",
+                        "radius": 242.98330078125,
+                        "angle": 202.0816665779549,
+                        "x": 546.2615593026815,
+                        "y": 261.6294529400897,
+                        "z": 0
+                  },
+                  {
+                        "group": 7,
+                        "id": "Id46",
+                        "name": "Jondrette",
+                        "radius": 242.98330078125,
+                        "angle": 204.99866932528644,
+                        "x": 523.5817709410164,
+                        "y": 271.5098173851313,
+                        "z": 0
+                  },
+                  {
+                        "group": 7,
+                        "id": "Id47",
+                        "name": "Mme. Burgon",
+                        "radius": 242.98330078125,
+                        "angle": 208.04169720394526,
+                        "x": 500.4901962064,
+                        "y": 283.03301003727836,
+                        "z": 0
+                  },
+                  {
+                        "group": 8,
+                        "id": "Id48",
+                        "name": "Gavroche",
+                        "radius": 242.98330078125,
+                        "angle": 215.26419011042543,
+                        "x": 448.37833621305697,
+                        "y": 315.15885643523177,
+                        "z": 0
+                  },
+                  {
+                        "group": 5,
+                        "id": "Id49",
+                        "name": "Gillenormand",
+                        "radius": 242.98330078125,
+                        "angle": 223.1234415751912,
+                        "x": 396.7565220281585,
+                        "y": 357.2513036593085,
+                        "z": 0
+                  },
+                  {
+                        "group": 5,
+                        "id": "Id50",
+                        "name": "Magnon",
+                        "radius": 242.98330078125,
+                        "angle": 226.92925314346297,
+                        "x": 373.9459366760476,
+                        "y": 380.082877476243,
+                        "z": 0
+                  },
+                  {
+                        "group": 5,
+                        "id": "Id51",
+                        "name": "Mlle. Gillenormand",
+                        "radius": 242.98330078125,
+                        "angle": 230.73506471173476,
+                        "x": 352.7011027534437,
+                        "y": 404.3781568256364,
+                        "z": 0
+                  },
+                  {
+                        "group": 5,
+                        "id": "Id52",
+                        "name": "Mme. Pontmercy",
+                        "radius": 242.98330078125,
+                        "angle": 234.5408762800066,
+                        "x": 333.11572098569354,
+                        "y": 430.0299869372592,
+                        "z": 0
+                  },
+                  {
+                        "group": 5,
+                        "id": "Id53",
+                        "name": "Mlle. Vaubois",
+                        "radius": 242.98330078125,
+                        "angle": 237.5839041586654,
+                        "x": 318.70789724816575,
+                        "y": 451.44071807309837,
+                        "z": 0
+                  },
+                  {
+                        "group": 5,
+                        "id": "Id54",
+                        "name": "Lt. Gillenormand",
+                        "radius": 242.98330078125,
+                        "angle": 240.86645348575342,
+                        "x": 304.4642353517344,
+                        "y": 475.3585746232495,
+                        "z": 0
+                  },
+                  {
+                        "group": 8,
+                        "id": "Id55",
+                        "name": "Marius",
+                        "radius": 242.98330078125,
+                        "angle": 247.43228912900156,
+                        "x": 280.1953959465009,
+                        "y": 525.4480770916442,
+                        "z": 0
+                  },
+                  {
+                        "group": 5,
+                        "id": "Id56",
+                        "name": "Baroness T",
+                        "radius": 242.98330078125,
+                        "angle": 253.7586033238205,
+                        "x": 262.3773231451717,
+                        "y": 576.032404668903,
+                        "z": 0
+                  },
+                  {
+                        "group": 8,
+                        "id": "Id57",
+                        "name": "Mabeuf",
+                        "radius": 242.98330078125,
+                        "angle": 258.2571846198567,
+                        "x": 253.15409554234418,
+                        "y": 613.0464743727997,
+                        "z": 0
+                  },
+                  {
+                        "group": 8,
+                        "id": "Id58",
+                        "name": "Enjolras",
+                        "radius": 242.98330078125,
+                        "angle": 264.92546174412536,
+                        "x": 244.8880610138575,
+                        "y": 668.9653516014233,
+                        "z": 0
+                  },
+                  {
+                        "group": 8,
+                        "id": "Id59",
+                        "name": "Combeferre",
+                        "radius": 242.98330078125,
+                        "angle": 271.5937388683939,
+                        "x": 243.17129196780047,
+                        "y": 725.4658017003253,
+                        "z": 0
+                  },
+                  {
+                        "group": 8,
+                        "id": "Id60",
+                        "name": "Prouvaire",
+                        "radius": 242.98330078125,
+                        "angle": 277.0570388597957,
+                        "x": 246.6648200037094,
+                        "y": 771.6544849690889,
+                        "z": 0
+                  },
+                  {
+                        "group": 8,
+                        "id": "Id61",
+                        "name": "Feuilly",
+                        "radius": 242.98330078125,
+                        "angle": 282.52033885119744,
+                        "x": 254.54001718484795,
+                        "y": 817.3007385897097,
+                        "z": 0
+                  },
+                  {
+                        "group": 8,
+                        "id": "Id62",
+                        "name": "Courfeyrac",
+                        "radius": 242.98330078125,
+                        "angle": 288.7501074775726,
+                        "x": 268.7737784190958,
+                        "y": 868.1596101211059,
+                        "z": 0
+                  },
+                  {
+                        "group": 8,
+                        "id": "Id63",
+                        "name": "Bahorel",
+                        "radius": 242.98330078125,
+                        "angle": 295.2164495960887,
+                        "x": 289.29359785340114,
+                        "y": 918.9906513669685,
+                        "z": 0
+                  },
+                  {
+                        "group": 8,
+                        "id": "Id64",
+                        "name": "Bossuet",
+                        "radius": 242.98330078125,
+                        "angle": 301.6827917146048,
+                        "x": 315.4074419337382,
+                        "y": 967.18738249163,
+                        "z": 0
+                  },
+                  {
+                        "group": 8,
+                        "id": "Id65",
+                        "name": "Joly",
+                        "radius": 242.98330078125,
+                        "angle": 308.14913383312086,
+                        "x": 346.78304774042147,
+                        "y": 1012.1365660661811,
+                        "z": 0
+                  },
+                  {
+                        "group": 8,
+                        "id": "Id66",
+                        "name": "Grantaire",
+                        "radius": 242.98330078125,
+                        "angle": 314.06347113664157,
+                        "x": 379.74896395212363,
+                        "y": 1049.917715102026,
+                        "z": 0
+                  },
+                  {
+                        "group": 9,
+                        "id": "Id67",
+                        "name": "Mother Plutarch",
+                        "radius": 242.98330078125,
+                        "angle": 318.2856815306441,
+                        "x": 405.57950210210174,
+                        "y": 1074.7103220173437,
+                        "z": 0
+                  },
+                  {
+                        "group": 4,
+                        "id": "Id68",
+                        "name": "Gueulemer",
+                        "radius": 242.98330078125,
+                        "angle": 322.50789192464663,
+                        "x": 433.16528708304014,
+                        "y": 1097.533874014357,
+                        "z": 0
+                  },
+                  {
+                        "group": 4,
+                        "id": "Id69",
+                        "name": "Babet",
+                        "radius": 242.98330078125,
+                        "angle": 328.0353099653202,
+                        "x": 471.6808684854674,
+                        "y": 1124.2315803890294,
+                        "z": 0
+                  },
+                  {
+                        "group": 4,
+                        "id": "Id70",
+                        "name": "Claquesous",
+                        "radius": 242.98330078125,
+                        "angle": 333.5627280059938,
+                        "x": 512.5889392997782,
+                        "y": 1147.0952476077096,
+                        "z": 0
+                  },
+                  {
+                        "group": 4,
+                        "id": "Id71",
+                        "name": "Montparnasse",
+                        "radius": 242.98330078125,
+                        "angle": 338.87568222668915,
+                        "x": 553.8110649815293,
+                        "y": 1165.259868571733,
+                        "z": 0
+                  },
+                  {
+                        "group": 5,
+                        "id": "Id72",
+                        "name": "Toussaint",
+                        "radius": 242.98330078125,
+                        "angle": 343.1008405769801,
+                        "x": 587.6851669064008,
+                        "y": 1176.9314206388553,
+                        "z": 0
+                  },
+                  {
+                        "group": 10,
+                        "id": "Id73",
+                        "name": "Child 1",
+                        "radius": 242.98330078125,
+                        "angle": 346.3612802319055,
+                        "x": 614.3595130388032,
+                        "y": 1184.2131557450139,
+                        "z": 0
+                  },
+                  {
+                        "group": 10,
+                        "id": "Id74",
+                        "name": "Child 2",
+                        "radius": 242.98330078125,
+                        "angle": 349.5303332418916,
+                        "x": 640.6425055729032,
+                        "y": 1189.8257664651364,
+                        "z": 0
+                  },
+                  {
+                        "group": 4,
+                        "id": "Id75",
+                        "name": "Brujon",
+                        "radius": 242.98330078125,
+                        "angle": 353.33614481016343,
+                        "x": 672.5563083811239,
+                        "y": 1194.6333393852378,
+                        "z": 0
+                  },
+                  {
+                        "group": 8,
+                        "id": "Id76",
+                        "name": "Mme. Hucheloup",
+                        "radius": 242.98330078125,
+                        "angle": 357.77871493672086,
+                        "x": 710.1143096916334,
+                        "y": 1197.5513420900188,
+                        "z": 0
+                  }
+            ]
+      },
+      "config": {
+            "background": "rgb(245,245,245)",
+            "colorNodeBy": "group",
+            "graphType": "Network",
+            "networkLayoutType": "circular",
+            "nodeScaleFontFactor": 1.8,
+            "showAnimation": true,
+            "showLegend": false,
+            "showNodeNameSizeThreshold": 25,
+            "showNodeNameThreshold": 100,
+            "sizeNodeBy": "nodeEdges",
+            "title": "Les Miserable",
+            "graphOrientation": "horizontal",
+            "calculateLayout": false
+      },
+      "events": {},
+      "info": false,
+      "afterRender": [
+            [
+                  "setDimensions",
+                  [
+                        596,
+                        596,
+                        true
+                  ]
+            ],
+            [
+                  "setDimensions",
+                  [
+                        800,
+                        800
+                  ],
+                  {},
+                  false,
+                  1791830710515
+            ]
+      ],
+      "noValidate": true,
+      "factory": {
+            "version": 71.3,
+            "specSchemaVersion": "1.0",
+            "buildDate": "10-11-2026",
+            "client": "MDo6MTo6NzEuMzo6Y2FudmFzeHByZXNzLm9yZzo6",
+            "siteSrc": false,
+            "href": "https://canvasxpress.org/examples/network-13.html",
+            "services": "https://www.canvasxpress.org/cgi-bin/services.py"
+      },
+      "system": {
+            "browser": "Chrome",
+            "browserVersion": "153",
+            "os": "Mac OS",
+            "alt": "&#8997;",
+            "command": "&#8984;",
+            "control": "&#8963;",
+            "shift": "&#8679;",
+            "isNode": false,
+            "isReact": false,
+            "isjQuery": true,
+            "isReveal": false,
+            "isZoom": false,
+            "isIE": false,
+            "isInIframe": false,
+            "isR": false,
+            "isHTMLWidgets": false,
+            "isShiny": false,
+            "isRViewer": false,
+            "isRConsole": false,
+            "isCxplot": false,
+            "isGGMatrix": false,
+            "isJupyter": false,
+            "isVSCode": false
+      }
+}

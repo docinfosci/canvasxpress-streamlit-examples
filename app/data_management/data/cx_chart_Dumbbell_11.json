@@ -1,0 +1,206 @@
+{
+      "version": 71.3,
+      "renderTo": "dumbbell11",
+      "data": {
+            "y": {
+                  "vars": [
+                        "Lower 95%",
+                        "Upper 95%",
+                        "Mean"
+                  ],
+                  "smps": [
+                        "18-29",
+                        "30-39",
+                        "40-49",
+                        "50-59",
+                        "60-69",
+                        "70-79",
+                        "80+",
+                        "18-29 ",
+                        "30-39 ",
+                        "40-49 ",
+                        "50-59 ",
+                        "60-69 ",
+                        "70-79 ",
+                        "80+ "
+                  ],
+                  "data": [
+                        [
+                              4.6,
+                              4.8,
+                              4.9,
+                              5,
+                              5,
+                              5.2,
+                              5.3,
+                              4.7,
+                              5,
+                              5.5,
+                              5.9,
+                              6.2,
+                              5.8,
+                              5.3
+                        ],
+                        [
+                              5.3,
+                              5.5,
+                              5.5,
+                              5.7,
+                              5.7,
+                              5.9,
+                              5.9,
+                              6,
+                              6.5,
+                              7.2,
+                              7.9,
+                              8.4,
+                              8.2,
+                              8
+                        ],
+                        [
+                              5,
+                              5.1,
+                              5.2,
+                              5.3,
+                              5.4,
+                              5.5,
+                              5.6,
+                              5.4,
+                              5.8,
+                              6.3,
+                              6.9,
+                              7.3,
+                              7,
+                              6.6
+                        ]
+                  ]
+            },
+            "x": {
+                  "Wave": [
+                        "1. Baseline",
+                        "1. Baseline",
+                        "1. Baseline",
+                        "1. Baseline",
+                        "1. Baseline",
+                        "1. Baseline",
+                        "1. Baseline",
+                        "2. After 12 weeks of high-fat diet",
+                        "2. After 12 weeks of high-fat diet",
+                        "2. After 12 weeks of high-fat diet",
+                        "2. After 12 weeks of high-fat diet",
+                        "2. After 12 weeks of high-fat diet",
+                        "2. After 12 weeks of high-fat diet",
+                        "2. After 12 weeks of high-fat diet"
+                  ]
+            }
+      },
+      "config": {
+            "graphType": "Dumbbell",
+            "dumbbellType": "connected",
+            "theme": "minimal",
+            "colorScheme": "User",
+            "colors": [
+                  "#bdbdbd",
+                  "#bdbdbd",
+                  "#009E73"
+            ],
+            "title": "Fasting glucose by age group",
+            "subtitle": "Mean and 95% interval (mmol/L) before and after a 12-week high-fat diet",
+            "xAxis": [
+                  "Lower 95%",
+                  "Upper 95%",
+                  "Mean"
+            ],
+            "xAxisTitle": "Fasting glucose (mmol/L)",
+            "showLegend": false,
+            "smpLabelInterval": 1,
+            "dataPointSizeScaleFactor": 2,
+            "segregateSamplesBy": [
+                  "Wave"
+            ],
+            "stripBackgroundBorderColor": "rgba(255,255,255,0)",
+            "layoutTopology": "2X1",
+            "decorations": {
+                  "range": [
+                        {
+                              "value": 3.9,
+                              "value2": 5.6,
+                              "color": "rgba(0,158,115,0.12)",
+                              "tooltip": "Normal fasting range",
+                              "id": "dumbbell11-decoration-range-0"
+                        }
+                  ],
+                  "text": [
+                        {
+                              "value": 6.1,
+                              "smpId": 0,
+                              "panel": 1,
+                              "label": "\u25c0 Normal fasting range",
+                              "color": "#009E73",
+                              "labelScaleFontFactor": 0.9,
+                              "id": "dumbbell11-decoration-text-0"
+                        }
+                  ]
+            },
+            "citation": "Source: synthetic data for illustration",
+            "graphOrientation": "horizontal",
+            "dotplotType": "normal"
+      },
+      "events": {},
+      "info": false,
+      "afterRender": [
+            [
+                  "setDimensions",
+                  [
+                        636,
+                        536,
+                        true
+                  ]
+            ],
+            [
+                  "setDimensions",
+                  [
+                        800,
+                        800
+                  ],
+                  {},
+                  false,
+                  1791828861405
+            ]
+      ],
+      "noValidate": true,
+      "factory": {
+            "version": 71.3,
+            "specSchemaVersion": "1.0",
+            "buildDate": "10-11-2026",
+            "client": "MDo6MTo6NzEuMzo6Y2FudmFzeHByZXNzLm9yZzo6",
+            "siteSrc": false,
+            "href": "https://canvasxpress.org/examples/dumbbell-11.html",
+            "services": "https://www.canvasxpress.org/cgi-bin/services.py"
+      },
+      "system": {
+            "browser": "Chrome",
+            "browserVersion": "153",
+            "os": "Mac OS",
+            "alt": "&#8997;",
+            "command": "&#8984;",
+            "control": "&#8963;",
+            "shift": "&#8679;",
+            "isNode": false,
+            "isReact": false,
+            "isjQuery": true,
+            "isReveal": false,
+            "isZoom": false,
+            "isIE": false,
+            "isInIframe": false,
+            "isR": false,
+            "isHTMLWidgets": false,
+            "isShiny": false,
+            "isRViewer": false,
+            "isRConsole": false,
+            "isCxplot": false,
+            "isGGMatrix": false,
+            "isJupyter": false,
+            "isVSCode": false
+      }
+}

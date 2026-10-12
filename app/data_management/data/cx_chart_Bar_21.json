@@ -1,0 +1,170 @@
+{
+      "version": 71.3,
+      "renderTo": "bar21",
+      "data": {
+            "y": {
+                  "vars": [
+                        "Trend"
+                  ],
+                  "smps": [
+                        "Barents Sea",
+                        "Kara Sea",
+                        "Laptev Sea",
+                        "Svalbard shelf",
+                        "Chukchi Sea",
+                        "Bering Strait",
+                        "Beaufort Sea",
+                        "Baffin Bay",
+                        "Labrador Sea",
+                        "Irminger Sea",
+                        "Subpolar gyre",
+                        "Gulf Stream ext.",
+                        "Sargasso Sea",
+                        "Azores front",
+                        "Canary current"
+                  ],
+                  "data": [
+                        [
+                              0.83,
+                              0.81,
+                              0.76,
+                              0.71,
+                              0.58,
+                              0.58,
+                              0.53,
+                              0.51,
+                              -0.26,
+                              -0.29,
+                              -0.29,
+                              -0.3,
+                              -0.31,
+                              -0.34,
+                              -0.38
+                        ]
+                  ]
+            },
+            "x": {
+                  "Direction": [
+                        "Warming faster",
+                        "Warming faster",
+                        "Warming faster",
+                        "Warming faster",
+                        "Warming faster",
+                        "Warming faster",
+                        "Warming faster",
+                        "Warming faster",
+                        "Warming slower",
+                        "Warming slower",
+                        "Warming slower",
+                        "Warming slower",
+                        "Warming slower",
+                        "Warming slower",
+                        "Warming slower"
+                  ],
+                  "Trend": [
+                        0.83,
+                        0.81,
+                        0.76,
+                        0.71,
+                        0.58,
+                        0.58,
+                        0.53,
+                        0.51,
+                        -0.26,
+                        -0.29,
+                        -0.29,
+                        -0.3,
+                        -0.31,
+                        -0.34,
+                        -0.38
+                  ]
+            }
+      },
+      "config": {
+            "graphType": "Bar",
+            "titleAlign": "plot::0",
+            "subtitleAlign": "plot::0",
+            "legendHorizontalJustification": 0,
+            "legendJustifyTo": "plot",
+            "graphOrientation": "horizontal",
+            "theme": "paulTol",
+            "colorBy": "Trend",
+            "colorSpectrum": [
+                  "#B5651D",
+                  "#E9B96E",
+                  "#F6D9A0",
+                  "#4FB3A0",
+                  "#1B7F74",
+                  "#003D3B"
+            ],
+            "colorSpectrumZeroValue": 0,
+            "xAxis": [
+                  "Trend"
+            ],
+            "showDataValues": true,
+            "dataValuesPosition": "inside",
+            "dataTextColor": "#ffffff",
+            "dataTextScaleFontFactor": 0.8,
+            "showLegend": false,
+            "title": "Ocean regions where warming trends diverge most",
+            "subtitle": "Change in sea-surface temperature trend, \u00b0C per decade, 2000\u20132016 versus 1960\u20132000 (illustrative).",
+            "sampleSpaceFactor": 0.25
+      },
+      "events": {},
+      "info": false,
+      "afterRender": [
+            [
+                  "setDimensions",
+                  [
+                        636,
+                        502,
+                        true
+                  ]
+            ],
+            [
+                  "setDimensions",
+                  [
+                        800,
+                        800
+                  ],
+                  {},
+                  false,
+                  1791827637853
+            ]
+      ],
+      "noValidate": true,
+      "factory": {
+            "version": 71.3,
+            "specSchemaVersion": "1.0",
+            "buildDate": "10-11-2026",
+            "client": "MDo6MTo6NzEuMzo6Y2FudmFzeHByZXNzLm9yZzo6",
+            "siteSrc": false,
+            "href": "https://canvasxpress.org/examples/bar-21.html",
+            "services": "https://www.canvasxpress.org/cgi-bin/services.py"
+      },
+      "system": {
+            "browser": "Chrome",
+            "browserVersion": "153",
+            "os": "Mac OS",
+            "alt": "&#8997;",
+            "command": "&#8984;",
+            "control": "&#8963;",
+            "shift": "&#8679;",
+            "isNode": false,
+            "isReact": false,
+            "isjQuery": true,
+            "isReveal": false,
+            "isZoom": false,
+            "isIE": false,
+            "isInIframe": false,
+            "isR": false,
+            "isHTMLWidgets": false,
+            "isShiny": false,
+            "isRViewer": false,
+            "isRConsole": false,
+            "isCxplot": false,
+            "isGGMatrix": false,
+            "isJupyter": false,
+            "isVSCode": false
+      }
+}

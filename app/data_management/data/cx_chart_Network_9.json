@@ -1,0 +1,1592 @@
+{
+      "version": 71.3,
+      "renderTo": "network9",
+      "data": {
+            "constraints": [
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id0",
+                        "rightId": "Id1"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id0",
+                        "rightId": "Id2"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id0",
+                        "rightId": "Id9"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id0",
+                        "rightId": "Id11"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id1",
+                        "rightId": "Id78"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id2",
+                        "rightId": "Id3"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id3",
+                        "rightId": "Id4"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id4",
+                        "rightId": "Id5"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id5",
+                        "rightId": "Id6"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id6",
+                        "rightId": "Id10"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id7",
+                        "rightId": "Id8"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id7",
+                        "rightId": "Id11"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id8",
+                        "rightId": "Id12"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id9",
+                        "rightId": "Id18"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id10",
+                        "rightId": "Id35"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id12",
+                        "rightId": "Id13"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id12",
+                        "rightId": "Id14"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id12",
+                        "rightId": "Id15"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id12",
+                        "rightId": "Id16"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id12",
+                        "rightId": "Id17"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id12",
+                        "rightId": "Id19"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id12",
+                        "rightId": "Id20"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id12",
+                        "rightId": "Id21"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id12",
+                        "rightId": "Id23"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id12",
+                        "rightId": "Id25"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id12",
+                        "rightId": "Id26"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id12",
+                        "rightId": "Id28"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id12",
+                        "rightId": "Id29"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id12",
+                        "rightId": "Id31"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id13",
+                        "rightId": "Id24"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id14",
+                        "rightId": "Id45"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id15",
+                        "rightId": "Id22"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id16",
+                        "rightId": "Id49"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id18",
+                        "rightId": "Id30"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id19",
+                        "rightId": "Id39"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id20",
+                        "rightId": "Id40"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id21",
+                        "rightId": "Id50"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id22",
+                        "rightId": "Id27"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id23",
+                        "rightId": "Id63"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id24",
+                        "rightId": "Id72"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id26",
+                        "rightId": "Id60"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id27",
+                        "rightId": "Id68"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id29",
+                        "rightId": "Id59"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id31",
+                        "rightId": "Id32"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id31",
+                        "rightId": "Id33"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id31",
+                        "rightId": "Id34"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id31",
+                        "rightId": "Id36"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id31",
+                        "rightId": "Id37"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id31",
+                        "rightId": "Id38"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id32",
+                        "rightId": "Id58"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id33",
+                        "rightId": "Id75"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id34",
+                        "rightId": "Id41"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id35",
+                        "rightId": "Id48"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id36",
+                        "rightId": "Id76"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id37",
+                        "rightId": "Id42"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id38",
+                        "rightId": "Id44"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id38",
+                        "rightId": "Id46"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id38",
+                        "rightId": "Id47"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id39",
+                        "rightId": "Id43"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id40",
+                        "rightId": "Id57"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id41",
+                        "rightId": "Id67"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id42",
+                        "rightId": "Id74"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id43",
+                        "rightId": "Id51"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id48",
+                        "rightId": "Id52"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id48",
+                        "rightId": "Id53"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id48",
+                        "rightId": "Id54"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id48",
+                        "rightId": "Id55"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id48",
+                        "rightId": "Id56"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id48",
+                        "rightId": "Id61"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id48",
+                        "rightId": "Id62"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id62",
+                        "rightId": "Id64"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id62",
+                        "rightId": "Id65"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id62",
+                        "rightId": "Id66"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id62",
+                        "rightId": "Id69"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id69",
+                        "rightId": "Id70"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id69",
+                        "rightId": "Id71"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id69",
+                        "rightId": "Id73"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id69",
+                        "rightId": "Id77"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id78",
+                        "rightId": "Id79"
+                  }
+            ],
+            "edges": [
+                  {
+                        "id1": "Id0",
+                        "id2": "Id1",
+                        "value": 1,
+                        "id": "Id0 -> Id1"
+                  },
+                  {
+                        "id1": "Id0",
+                        "id2": "Id2",
+                        "value": 1,
+                        "id": "Id0 -> Id2"
+                  },
+                  {
+                        "id1": "Id0",
+                        "id2": "Id9",
+                        "value": 1,
+                        "id": "Id0 -> Id9"
+                  },
+                  {
+                        "id1": "Id0",
+                        "id2": "Id11",
+                        "value": 1,
+                        "id": "Id0 -> Id11"
+                  },
+                  {
+                        "id1": "Id1",
+                        "id2": "Id78",
+                        "value": 1,
+                        "id": "Id1 -> Id78"
+                  },
+                  {
+                        "id1": "Id2",
+                        "id2": "Id3",
+                        "value": 1,
+                        "id": "Id2 -> Id3"
+                  },
+                  {
+                        "id1": "Id3",
+                        "id2": "Id4",
+                        "value": 1,
+                        "id": "Id3 -> Id4"
+                  },
+                  {
+                        "id1": "Id4",
+                        "id2": "Id5",
+                        "value": 1,
+                        "id": "Id4 -> Id5"
+                  },
+                  {
+                        "id1": "Id5",
+                        "id2": "Id6",
+                        "value": 1,
+                        "id": "Id5 -> Id6"
+                  },
+                  {
+                        "id1": "Id6",
+                        "id2": "Id10",
+                        "value": 1,
+                        "id": "Id6 -> Id10"
+                  },
+                  {
+                        "id1": "Id7",
+                        "id2": "Id8",
+                        "value": 1,
+                        "id": "Id7 -> Id8"
+                  },
+                  {
+                        "id1": "Id7",
+                        "id2": "Id11",
+                        "value": 1,
+                        "id": "Id7 -> Id11"
+                  },
+                  {
+                        "id1": "Id8",
+                        "id2": "Id12",
+                        "value": 1,
+                        "id": "Id8 -> Id12"
+                  },
+                  {
+                        "id1": "Id9",
+                        "id2": "Id18",
+                        "value": 1,
+                        "id": "Id9 -> Id18"
+                  },
+                  {
+                        "id1": "Id10",
+                        "id2": "Id35",
+                        "value": 1,
+                        "id": "Id10 -> Id35"
+                  },
+                  {
+                        "id1": "Id12",
+                        "id2": "Id13",
+                        "value": 1,
+                        "id": "Id12 -> Id13"
+                  },
+                  {
+                        "id1": "Id12",
+                        "id2": "Id14",
+                        "value": 1,
+                        "id": "Id12 -> Id14"
+                  },
+                  {
+                        "id1": "Id12",
+                        "id2": "Id15",
+                        "value": 1,
+                        "id": "Id12 -> Id15"
+                  },
+                  {
+                        "id1": "Id12",
+                        "id2": "Id16",
+                        "value": 1,
+                        "id": "Id12 -> Id16"
+                  },
+                  {
+                        "id1": "Id12",
+                        "id2": "Id17",
+                        "value": 1,
+                        "id": "Id12 -> Id17"
+                  },
+                  {
+                        "id1": "Id12",
+                        "id2": "Id19",
+                        "value": 1,
+                        "id": "Id12 -> Id19"
+                  },
+                  {
+                        "id1": "Id12",
+                        "id2": "Id20",
+                        "value": 1,
+                        "id": "Id12 -> Id20"
+                  },
+                  {
+                        "id1": "Id12",
+                        "id2": "Id21",
+                        "value": 1,
+                        "id": "Id12 -> Id21"
+                  },
+                  {
+                        "id1": "Id12",
+                        "id2": "Id23",
+                        "value": 1,
+                        "id": "Id12 -> Id23"
+                  },
+                  {
+                        "id1": "Id12",
+                        "id2": "Id25",
+                        "value": 1,
+                        "id": "Id12 -> Id25"
+                  },
+                  {
+                        "id1": "Id12",
+                        "id2": "Id26",
+                        "value": 1,
+                        "id": "Id12 -> Id26"
+                  },
+                  {
+                        "id1": "Id12",
+                        "id2": "Id28",
+                        "value": 1,
+                        "id": "Id12 -> Id28"
+                  },
+                  {
+                        "id1": "Id12",
+                        "id2": "Id29",
+                        "value": 1,
+                        "id": "Id12 -> Id29"
+                  },
+                  {
+                        "id1": "Id12",
+                        "id2": "Id31",
+                        "value": 1,
+                        "id": "Id12 -> Id31"
+                  },
+                  {
+                        "id1": "Id13",
+                        "id2": "Id24",
+                        "value": 1,
+                        "id": "Id13 -> Id24"
+                  },
+                  {
+                        "id1": "Id14",
+                        "id2": "Id45",
+                        "value": 1,
+                        "id": "Id14 -> Id45"
+                  },
+                  {
+                        "id1": "Id15",
+                        "id2": "Id22",
+                        "value": 1,
+                        "id": "Id15 -> Id22"
+                  },
+                  {
+                        "id1": "Id16",
+                        "id2": "Id49",
+                        "value": 1,
+                        "id": "Id16 -> Id49"
+                  },
+                  {
+                        "id1": "Id18",
+                        "id2": "Id30",
+                        "value": 1,
+                        "id": "Id18 -> Id30"
+                  },
+                  {
+                        "id1": "Id19",
+                        "id2": "Id39",
+                        "value": 1,
+                        "id": "Id19 -> Id39"
+                  },
+                  {
+                        "id1": "Id20",
+                        "id2": "Id40",
+                        "value": 1,
+                        "id": "Id20 -> Id40"
+                  },
+                  {
+                        "id1": "Id21",
+                        "id2": "Id50",
+                        "value": 1,
+                        "id": "Id21 -> Id50"
+                  },
+                  {
+                        "id1": "Id22",
+                        "id2": "Id27",
+                        "value": 1,
+                        "id": "Id22 -> Id27"
+                  },
+                  {
+                        "id1": "Id23",
+                        "id2": "Id63",
+                        "value": 1,
+                        "id": "Id23 -> Id63"
+                  },
+                  {
+                        "id1": "Id24",
+                        "id2": "Id72",
+                        "value": 1,
+                        "id": "Id24 -> Id72"
+                  },
+                  {
+                        "id1": "Id26",
+                        "id2": "Id60",
+                        "value": 1,
+                        "id": "Id26 -> Id60"
+                  },
+                  {
+                        "id1": "Id27",
+                        "id2": "Id68",
+                        "value": 1,
+                        "id": "Id27 -> Id68"
+                  },
+                  {
+                        "id1": "Id29",
+                        "id2": "Id59",
+                        "value": 1,
+                        "id": "Id29 -> Id59"
+                  },
+                  {
+                        "id1": "Id31",
+                        "id2": "Id32",
+                        "value": 1,
+                        "id": "Id31 -> Id32"
+                  },
+                  {
+                        "id1": "Id31",
+                        "id2": "Id33",
+                        "value": 1,
+                        "id": "Id31 -> Id33"
+                  },
+                  {
+                        "id1": "Id31",
+                        "id2": "Id34",
+                        "value": 1,
+                        "id": "Id31 -> Id34"
+                  },
+                  {
+                        "id1": "Id31",
+                        "id2": "Id36",
+                        "value": 1,
+                        "id": "Id31 -> Id36"
+                  },
+                  {
+                        "id1": "Id31",
+                        "id2": "Id37",
+                        "value": 1,
+                        "id": "Id31 -> Id37"
+                  },
+                  {
+                        "id1": "Id31",
+                        "id2": "Id38",
+                        "value": 1,
+                        "id": "Id31 -> Id38"
+                  },
+                  {
+                        "id1": "Id32",
+                        "id2": "Id58",
+                        "value": 1,
+                        "id": "Id32 -> Id58"
+                  },
+                  {
+                        "id1": "Id33",
+                        "id2": "Id75",
+                        "value": 1,
+                        "id": "Id33 -> Id75"
+                  },
+                  {
+                        "id1": "Id34",
+                        "id2": "Id41",
+                        "value": 1,
+                        "id": "Id34 -> Id41"
+                  },
+                  {
+                        "id1": "Id35",
+                        "id2": "Id48",
+                        "value": 1,
+                        "id": "Id35 -> Id48"
+                  },
+                  {
+                        "id1": "Id36",
+                        "id2": "Id76",
+                        "value": 1,
+                        "id": "Id36 -> Id76"
+                  },
+                  {
+                        "id1": "Id37",
+                        "id2": "Id42",
+                        "value": 1,
+                        "id": "Id37 -> Id42"
+                  },
+                  {
+                        "id1": "Id38",
+                        "id2": "Id44",
+                        "value": 1,
+                        "id": "Id38 -> Id44"
+                  },
+                  {
+                        "id1": "Id38",
+                        "id2": "Id46",
+                        "value": 1,
+                        "id": "Id38 -> Id46"
+                  },
+                  {
+                        "id1": "Id38",
+                        "id2": "Id47",
+                        "value": 1,
+                        "id": "Id38 -> Id47"
+                  },
+                  {
+                        "id1": "Id39",
+                        "id2": "Id43",
+                        "value": 1,
+                        "id": "Id39 -> Id43"
+                  },
+                  {
+                        "id1": "Id40",
+                        "id2": "Id57",
+                        "value": 1,
+                        "id": "Id40 -> Id57"
+                  },
+                  {
+                        "id1": "Id41",
+                        "id2": "Id67",
+                        "value": 1,
+                        "id": "Id41 -> Id67"
+                  },
+                  {
+                        "id1": "Id42",
+                        "id2": "Id74",
+                        "value": 1,
+                        "id": "Id42 -> Id74"
+                  },
+                  {
+                        "id1": "Id43",
+                        "id2": "Id51",
+                        "value": 1,
+                        "id": "Id43 -> Id51"
+                  },
+                  {
+                        "id1": "Id48",
+                        "id2": "Id52",
+                        "value": 1,
+                        "id": "Id48 -> Id52"
+                  },
+                  {
+                        "id1": "Id48",
+                        "id2": "Id53",
+                        "value": 1,
+                        "id": "Id48 -> Id53"
+                  },
+                  {
+                        "id1": "Id48",
+                        "id2": "Id54",
+                        "value": 1,
+                        "id": "Id48 -> Id54"
+                  },
+                  {
+                        "id1": "Id48",
+                        "id2": "Id55",
+                        "value": 1,
+                        "id": "Id48 -> Id55"
+                  },
+                  {
+                        "id1": "Id48",
+                        "id2": "Id56",
+                        "value": 1,
+                        "id": "Id48 -> Id56"
+                  },
+                  {
+                        "id1": "Id48",
+                        "id2": "Id61",
+                        "value": 1,
+                        "id": "Id48 -> Id61"
+                  },
+                  {
+                        "id1": "Id48",
+                        "id2": "Id62",
+                        "value": 1,
+                        "id": "Id48 -> Id62"
+                  },
+                  {
+                        "id1": "Id62",
+                        "id2": "Id64",
+                        "value": 1,
+                        "id": "Id62 -> Id64"
+                  },
+                  {
+                        "id1": "Id62",
+                        "id2": "Id65",
+                        "value": 1,
+                        "id": "Id62 -> Id65"
+                  },
+                  {
+                        "id1": "Id62",
+                        "id2": "Id66",
+                        "value": 1,
+                        "id": "Id62 -> Id66"
+                  },
+                  {
+                        "id1": "Id62",
+                        "id2": "Id69",
+                        "value": 1,
+                        "id": "Id62 -> Id69"
+                  },
+                  {
+                        "id1": "Id69",
+                        "id2": "Id70",
+                        "value": 1,
+                        "id": "Id69 -> Id70"
+                  },
+                  {
+                        "id1": "Id69",
+                        "id2": "Id71",
+                        "value": 1,
+                        "id": "Id69 -> Id71"
+                  },
+                  {
+                        "id1": "Id69",
+                        "id2": "Id73",
+                        "value": 1,
+                        "id": "Id69 -> Id73"
+                  },
+                  {
+                        "id1": "Id69",
+                        "id2": "Id77",
+                        "value": 1,
+                        "id": "Id69 -> Id77"
+                  },
+                  {
+                        "id1": "Id78",
+                        "id2": "Id79",
+                        "value": 1,
+                        "id": "Id78 -> Id79"
+                  }
+            ],
+            "nodes": [
+                  {
+                        "id": "Id0",
+                        "name": "Toprato",
+                        "x": 186.96931480437863,
+                        "y": 93.05130986029233,
+                        "index": 0
+                  },
+                  {
+                        "id": "Id1",
+                        "name": "Fella",
+                        "x": 153.880383839497,
+                        "y": 123.05130986029233,
+                        "index": 1
+                  },
+                  {
+                        "id": "Id2",
+                        "name": "Tirti",
+                        "x": 180.4383287320733,
+                        "y": 147.37626047584544,
+                        "index": 2
+                  },
+                  {
+                        "id": "Id3",
+                        "name": "LA Piu' Bella",
+                        "x": 165.3156234907183,
+                        "y": 203.20160283313217,
+                        "index": 3
+                  },
+                  {
+                        "id": "Id4",
+                        "name": "Deep Shadow 1-5-8",
+                        "x": 151.4923499845696,
+                        "y": 253.45285689950637,
+                        "index": 4
+                  },
+                  {
+                        "id": "Id5",
+                        "name": "Oobiscus",
+                        "x": 143.16096934357142,
+                        "y": 301.56174167883466,
+                        "index": 5
+                  },
+                  {
+                        "id": "Id6",
+                        "name": "Rioky",
+                        "x": 140.5673289886175,
+                        "y": 347.94454943601835,
+                        "index": 6
+                  },
+                  {
+                        "id": "Id7",
+                        "name": "Klashe",
+                        "x": 266.92977611868224,
+                        "y": 89.01639253777184,
+                        "index": 7
+                  },
+                  {
+                        "id": "Id8",
+                        "name": "Tau Beta",
+                        "x": 307.8119316973104,
+                        "y": 119.01639253777182,
+                        "index": 8
+                  },
+                  {
+                        "id": "Id9",
+                        "name": "311040",
+                        "x": 182.126695763253,
+                        "y": 123.05130986029233,
+                        "index": 9
+                  },
+                  {
+                        "id": "Id10",
+                        "name": "Nevf Zotsamm",
+                        "x": 142.84672149048822,
+                        "y": 392.60274680189326,
+                        "index": 10
+                  },
+                  {
+                        "id": "Id11",
+                        "name": "Gnaron",
+                        "x": 227.25509737735692,
+                        "y": 123.05130986029233,
+                        "index": 11
+                  },
+                  {
+                        "id": "Id12",
+                        "name": "Green Dor",
+                        "x": 349.0422561825785,
+                        "y": 149.01639253777182,
+                        "index": 12
+                  },
+                  {
+                        "id": "Id13",
+                        "name": "Gravity",
+                        "x": 374.5332620340104,
+                        "y": 179.01639253777182,
+                        "index": 13
+                  },
+                  {
+                        "id": "Id14",
+                        "name": "Jurrawensaed",
+                        "x": 335.6204904036519,
+                        "y": 179.01639253777182,
+                        "index": 14
+                  },
+                  {
+                        "id": "Id15",
+                        "name": "Andrill Primus",
+                        "x": 404.5373042101989,
+                        "y": 179.01639253777182,
+                        "index": 15
+                  },
+                  {
+                        "id": "Id16",
+                        "name": "Ulti-Mad",
+                        "x": 320.70834464103467,
+                        "y": 179.01639253777182,
+                        "index": 16
+                  },
+                  {
+                        "id": "Id17",
+                        "name": "Jellyfish",
+                        "x": 330.13966673698735,
+                        "y": 179.01639253777182,
+                        "index": 17
+                  },
+                  {
+                        "id": "Id18",
+                        "name": "Yersa",
+                        "x": 171.2755880868023,
+                        "y": 153.05130986029232,
+                        "index": 18
+                  },
+                  {
+                        "id": "Id19",
+                        "name": "Therfady",
+                        "x": 300.9237385715546,
+                        "y": 179.01639253777182,
+                        "index": 19
+                  },
+                  {
+                        "id": "Id20",
+                        "name": "SC 09",
+                        "x": 384.67028565270806,
+                        "y": 179.01639253777182,
+                        "index": 20
+                  },
+                  {
+                        "id": "Id21",
+                        "name": "Glueck",
+                        "x": 387.4148596524745,
+                        "y": 179.01639253777182,
+                        "index": 21
+                  },
+                  {
+                        "id": "Id22",
+                        "name": "Fiddle",
+                        "x": 445.4980971540499,
+                        "y": 209.01639253777182,
+                        "index": 22
+                  },
+                  {
+                        "id": "Id23",
+                        "name": "LV-017",
+                        "x": 356.7781871371055,
+                        "y": 179.01639253777182,
+                        "index": 23
+                  },
+                  {
+                        "id": "Id24",
+                        "name": "Sardinle",
+                        "x": 393.2662659987659,
+                        "y": 209.01639253777182,
+                        "index": 24
+                  },
+                  {
+                        "id": "Id25",
+                        "name": "Latalava",
+                        "x": 365.0627885196407,
+                        "y": 179.01639253777182,
+                        "index": 25
+                  },
+                  {
+                        "id": "Id26",
+                        "name": "Penumbra",
+                        "x": 312.19883224182655,
+                        "y": 179.01639253777182,
+                        "index": 26
+                  },
+                  {
+                        "id": "Id27",
+                        "name": "Chi Qoppa",
+                        "x": 474.8725952344178,
+                        "y": 239.01639253777182,
+                        "index": 27
+                  },
+                  {
+                        "id": "Id28",
+                        "name": "Vopru Maufyb",
+                        "x": 351.31222615516464,
+                        "y": 179.01639253777182,
+                        "index": 28
+                  },
+                  {
+                        "id": "Id29",
+                        "name": "Onadha",
+                        "x": 345.9907039150314,
+                        "y": 179.01639253777182,
+                        "index": 29
+                  },
+                  {
+                        "id": "Id30",
+                        "name": "Muplita Furr",
+                        "x": 165.66525184425265,
+                        "y": 183.05130986029235,
+                        "index": 30
+                  },
+                  {
+                        "id": "Id31",
+                        "name": "Psi Epsilon",
+                        "x": 353.6604530579955,
+                        "y": 232.17344648490652,
+                        "index": 31
+                  },
+                  {
+                        "id": "Id32",
+                        "name": "Dimloon",
+                        "x": 323.6978076925488,
+                        "y": 262.1734464849065,
+                        "index": 32
+                  },
+                  {
+                        "id": "Id33",
+                        "name": "Tanned I",
+                        "x": 358.800444635156,
+                        "y": 262.1734464849065,
+                        "index": 33
+                  },
+                  {
+                        "id": "Id34",
+                        "name": "Woolaris 10",
+                        "x": 372.7705209602639,
+                        "y": 267.56199530766844,
+                        "index": 34
+                  },
+                  {
+                        "id": "Id35",
+                        "name": "Semend",
+                        "x": 148.95095814576268,
+                        "y": 435.1951829556926,
+                        "index": 35
+                  },
+                  {
+                        "id": "Id36",
+                        "name": "Blacus",
+                        "x": 337.4097700778189,
+                        "y": 262.1734464849065,
+                        "index": 36
+                  },
+                  {
+                        "id": "Id37",
+                        "name": "Darknok",
+                        "x": 386.93281485144115,
+                        "y": 262.1734464849065,
+                        "index": 37
+                  },
+                  {
+                        "id": "Id38",
+                        "name": "Oastar Secundus",
+                        "x": 347.6308063930437,
+                        "y": 281.2450336074746,
+                        "index": 38
+                  },
+                  {
+                        "id": "Id39",
+                        "name": "Green One",
+                        "x": 274.457786447708,
+                        "y": 209.01639253777182,
+                        "index": 39
+                  },
+                  {
+                        "id": "Id40",
+                        "name": "Kayin Minor A",
+                        "x": 416.8586942555271,
+                        "y": 209.01639253777182,
+                        "index": 40
+                  },
+                  {
+                        "id": "Id41",
+                        "name": "Arton",
+                        "x": 390.88492768847726,
+                        "y": 300.5743630295178,
+                        "index": 41
+                  },
+                  {
+                        "id": "Id42",
+                        "name": "Anerstis",
+                        "x": 413.24210280713237,
+                        "y": 292.1734464849065,
+                        "index": 42
+                  },
+                  {
+                        "id": "Id43",
+                        "name": "Lament",
+                        "x": 259.13111979934416,
+                        "y": 239.01639253777182,
+                        "index": 43
+                  },
+                  {
+                        "id": "Id44",
+                        "name": "Shaison",
+                        "x": 331.78035694421607,
+                        "y": 311.2450336074746,
+                        "index": 44
+                  },
+                  {
+                        "id": "Id45",
+                        "name": "Rekini-H-S6",
+                        "x": 325.3548936504224,
+                        "y": 209.01639253777182,
+                        "index": 45
+                  },
+                  {
+                        "id": "Id46",
+                        "name": "Darkless",
+                        "x": 345.65919214270724,
+                        "y": 311.2450336074746,
+                        "index": 46
+                  },
+                  {
+                        "id": "Id47",
+                        "name": "MBTP 20",
+                        "x": 359.84650106514937,
+                        "y": 311.2450336074746,
+                        "index": 47
+                  },
+                  {
+                        "id": "Id48",
+                        "name": "Yankee Quebec",
+                        "x": 157.76630225287008,
+                        "y": 475.67524441012915,
+                        "index": 48
+                  },
+                  {
+                        "id": "Id49",
+                        "name": "Shere Jauj-Bred",
+                        "x": 307.62731295363307,
+                        "y": 209.01639253777182,
+                        "index": 49
+                  },
+                  {
+                        "id": "Id50",
+                        "name": "Embalm",
+                        "x": 400.56385962793655,
+                        "y": 209.01639253777182,
+                        "index": 50
+                  },
+                  {
+                        "id": "Id51",
+                        "name": "Small Rock 4",
+                        "x": 249.32827360671715,
+                        "y": 269.0163925377719,
+                        "index": 51
+                  },
+                  {
+                        "id": "Id52",
+                        "name": "Libra-D-S3",
+                        "x": 149.5182980097076,
+                        "y": 505.67524441012915,
+                        "index": 52
+                  },
+                  {
+                        "id": "Id53",
+                        "name": "Dying Warmth",
+                        "x": 159.69232219609384,
+                        "y": 505.67524441012915,
+                        "index": 53
+                  },
+                  {
+                        "id": "Id54",
+                        "name": "Sofa",
+                        "x": 139.6629438415351,
+                        "y": 505.67524441012915,
+                        "index": 54
+                  },
+                  {
+                        "id": "Id55",
+                        "name": "Grobnor",
+                        "x": 170.78974550586247,
+                        "y": 505.67524441012915,
+                        "index": 55
+                  },
+                  {
+                        "id": "Id56",
+                        "name": "Forbidden 1",
+                        "x": 129.20608931980192,
+                        "y": 505.67524441012915,
+                        "index": 56
+                  },
+                  {
+                        "id": "Id57",
+                        "name": "Glimmer II",
+                        "x": 436.57226711032223,
+                        "y": 239.01639253777182,
+                        "index": 57
+                  },
+                  {
+                        "id": "Id58",
+                        "name": "Aleksis",
+                        "x": 305.2067815503896,
+                        "y": 292.1734464849065,
+                        "index": 58
+                  },
+                  {
+                        "id": "Id59",
+                        "name": "Relu",
+                        "x": 354.73247853471366,
+                        "y": 209.01639253777182,
+                        "index": 59
+                  },
+                  {
+                        "id": "Id60",
+                        "name": "Scoff",
+                        "x": 294.49949434676995,
+                        "y": 209.01639253777182,
+                        "index": 60
+                  },
+                  {
+                        "id": "Id61",
+                        "name": "Elas",
+                        "x": 183.76296292609797,
+                        "y": 505.67524441012915,
+                        "index": 61
+                  },
+                  {
+                        "id": "Id62",
+                        "name": "Great Crater",
+                        "x": 176.988319744367,
+                        "y": 526.1107586563395,
+                        "index": 62
+                  },
+                  {
+                        "id": "Id63",
+                        "name": "Leuprekota",
+                        "x": 348.1996548591973,
+                        "y": 209.01639253777182,
+                        "index": 63
+                  },
+                  {
+                        "id": "Id64",
+                        "name": "Yetton",
+                        "x": 188.2622624018478,
+                        "y": 556.1107586563395,
+                        "index": 64
+                  },
+                  {
+                        "id": "Id65",
+                        "name": "Fheyhs",
+                        "x": 157.95732365827732,
+                        "y": 556.1107586563395,
+                        "index": 65
+                  },
+                  {
+                        "id": "Id66",
+                        "name": "Edriwoise",
+                        "x": 172.13252631652028,
+                        "y": 556.1107586563395,
+                        "index": 66
+                  },
+                  {
+                        "id": "Id67",
+                        "name": "Usque",
+                        "x": 400.98850121253463,
+                        "y": 330.5743630295178,
+                        "index": 67
+                  },
+                  {
+                        "id": "Id68",
+                        "name": "Surfatu",
+                        "x": 491.83515192244727,
+                        "y": 269.0163925377719,
+                        "index": 68
+                  },
+                  {
+                        "id": "Id69",
+                        "name": "Drumana",
+                        "x": 201.17042480657315,
+                        "y": 565.6923988296538,
+                        "index": 69
+                  },
+                  {
+                        "id": "Id70",
+                        "name": "Hausner",
+                        "x": 211.93271939770727,
+                        "y": 595.6923988296538,
+                        "index": 70
+                  },
+                  {
+                        "id": "Id71",
+                        "name": "Vitalis",
+                        "x": 183.25343883936003,
+                        "y": 595.6923988296538,
+                        "index": 71
+                  },
+                  {
+                        "id": "Id72",
+                        "name": "Hyacinta IV",
+                        "x": 412.04820030946803,
+                        "y": 239.01639253777182,
+                        "index": 72
+                  },
+                  {
+                        "id": "Id73",
+                        "name": "Revenge of the Lith",
+                        "x": 197.61345663302882,
+                        "y": 595.6923988296538,
+                        "index": 73
+                  },
+                  {
+                        "id": "Id74",
+                        "name": "Asclephyrus",
+                        "x": 429.2182726908339,
+                        "y": 322.1734464849065,
+                        "index": 74
+                  },
+                  {
+                        "id": "Id75",
+                        "name": "Little Friend VI",
+                        "x": 368.6818183803833,
+                        "y": 292.1734464849065,
+                        "index": 75
+                  },
+                  {
+                        "id": "Id76",
+                        "name": "Fontelitio",
+                        "x": 322.21256113276013,
+                        "y": 292.1734464849065,
+                        "index": 76
+                  },
+                  {
+                        "id": "Id77",
+                        "name": "Shinmien",
+                        "x": 224.57270295795487,
+                        "y": 595.6923988296538,
+                        "index": 77
+                  },
+                  {
+                        "id": "Id78",
+                        "name": "Nine",
+                        "x": 128.13832262014216,
+                        "y": 153.05130986029232,
+                        "index": 78
+                  },
+                  {
+                        "id": "Id79",
+                        "name": "Kalgash",
+                        "x": 112.0795812254537,
+                        "y": 183.05130986029235,
+                        "index": 79
+                  }
+            ]
+      },
+      "config": {
+            "graphType": "Network",
+            "networkColaAllConstraintsIterations": 20,
+            "networkColaAvoidOverlaps": true,
+            "networkColaFlowLayoutAxis": "y",
+            "networkColaFlowLayoutSeparation": 30,
+            "networkColaStartUnconstrainedIterations": 10,
+            "networkColaSymmetricDiffLinkLengths": 6,
+            "networkColaUserConstraintIterations": 20,
+            "networkLayoutType": "cola",
+            "nodeColor": "rgb(31,119,180)",
+            "nodeSizeScaleFactor": 0.5,
+            "graphOrientation": "horizontal",
+            "calculateLayout": false
+      },
+      "events": {},
+      "info": false,
+      "afterRender": [
+            [
+                  "setDimensions",
+                  [
+                        596,
+                        596,
+                        true
+                  ]
+            ],
+            [
+                  "setDimensions",
+                  [
+                        800,
+                        800
+                  ],
+                  {},
+                  false,
+                  1791830653814
+            ]
+      ],
+      "noValidate": true,
+      "factory": {
+            "version": 71.3,
+            "specSchemaVersion": "1.0",
+            "buildDate": "10-11-2026",
+            "client": "MDo6MTo6NzEuMzo6Y2FudmFzeHByZXNzLm9yZzo6",
+            "siteSrc": false,
+            "href": "https://canvasxpress.org/examples/network-9.html",
+            "services": "https://www.canvasxpress.org/cgi-bin/services.py"
+      },
+      "system": {
+            "browser": "Chrome",
+            "browserVersion": "153",
+            "os": "Mac OS",
+            "alt": "&#8997;",
+            "command": "&#8984;",
+            "control": "&#8963;",
+            "shift": "&#8679;",
+            "isNode": false,
+            "isReact": false,
+            "isjQuery": true,
+            "isReveal": false,
+            "isZoom": false,
+            "isIE": false,
+            "isInIframe": false,
+            "isR": false,
+            "isHTMLWidgets": false,
+            "isShiny": false,
+            "isRViewer": false,
+            "isRConsole": false,
+            "isCxplot": false,
+            "isGGMatrix": false,
+            "isJupyter": false,
+            "isVSCode": false
+      }
+}

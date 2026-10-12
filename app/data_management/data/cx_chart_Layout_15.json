@@ -1,0 +1,503 @@
+{
+      "version": 69.6,
+      "renderTo": "layout15",
+      "data": {
+            "x": {
+                  "Binary": [
+                        "Yes",
+                        "No",
+                        "Yes",
+                        "No",
+                        "Yes",
+                        "No"
+                  ],
+                  "Boolean": [
+                        true,
+                        false,
+                        true,
+                        false,
+                        true,
+                        false
+                  ],
+                  "Continuous": [
+                        8,
+                        16,
+                        24,
+                        32,
+                        40,
+                        48
+                  ],
+                  "Discrete": [
+                        "X",
+                        "X",
+                        "Y",
+                        "Y",
+                        "Z",
+                        "Z"
+                  ],
+                  "Early": [
+                        8,
+                        16,
+                        24,
+                        32,
+                        40,
+                        48
+                  ],
+                  "Late": [
+                        60,
+                        50,
+                        40,
+                        30,
+                        20,
+                        10
+                  ],
+                  "OnTime": [
+                        30,
+                        40,
+                        20,
+                        30,
+                        40,
+                        20
+                  ],
+                  "PhaseA": [
+                        40,
+                        10,
+                        20,
+                        60,
+                        20,
+                        50
+                  ],
+                  "PhaseB": [
+                        10,
+                        20,
+                        30,
+                        40,
+                        50,
+                        60
+                  ],
+                  "PhaseC": [
+                        6,
+                        22,
+                        18,
+                        14,
+                        25,
+                        34
+                  ],
+                  "Temp": [
+                        5,
+                        10,
+                        15,
+                        20,
+                        25,
+                        30
+                  ]
+            },
+            "y": {
+                  "data": [
+                        [
+                              1,
+                              2,
+                              3,
+                              4,
+                              5,
+                              6
+                        ],
+                        [
+                              2,
+                              3,
+                              4,
+                              5,
+                              6,
+                              7
+                        ],
+                        [
+                              3,
+                              4,
+                              5,
+                              6,
+                              7,
+                              8
+                        ],
+                        [
+                              4,
+                              5,
+                              6,
+                              7,
+                              8,
+                              9
+                        ],
+                        [
+                              5,
+                              6,
+                              7,
+                              8,
+                              9,
+                              10
+                        ],
+                        [
+                              6,
+                              7,
+                              8,
+                              9,
+                              10,
+                              11
+                        ]
+                  ],
+                  "smps": [
+                        "S1",
+                        "S2",
+                        "S3",
+                        "S4",
+                        "S5",
+                        "S6"
+                  ],
+                  "vars": [
+                        "V1",
+                        "V2",
+                        "V3",
+                        "V4",
+                        "V5",
+                        "V6"
+                  ]
+            },
+            "z": {
+                  "Cold": [
+                        10,
+                        20,
+                        30,
+                        40,
+                        50,
+                        60
+                  ],
+                  "Conc": [
+                        1,
+                        2,
+                        3,
+                        1,
+                        2,
+                        3
+                  ],
+                  "Desc": [
+                        "Good",
+                        "So-so",
+                        "So-so",
+                        "So-so",
+                        "Excellent",
+                        "Ahh!"
+                  ],
+                  "Drug": [
+                        "A",
+                        "A",
+                        "A",
+                        "B",
+                        "B",
+                        "B"
+                  ],
+                  "Even": [
+                        20,
+                        20,
+                        30,
+                        40,
+                        6,
+                        10
+                  ],
+                  "Female": [
+                        50,
+                        40,
+                        30,
+                        20,
+                        10,
+                        20
+                  ],
+                  "Hot": [
+                        10,
+                        20,
+                        10,
+                        25,
+                        10,
+                        30
+                  ],
+                  "Male": [
+                        10,
+                        20,
+                        30,
+                        40,
+                        30,
+                        20
+                  ],
+                  "Nice": [
+                        8,
+                        16,
+                        24,
+                        32,
+                        40,
+                        48
+                  ],
+                  "Odd": [
+                        5,
+                        9,
+                        15,
+                        21,
+                        25,
+                        31
+                  ],
+                  "Site": [
+                        "X",
+                        "Y",
+                        "Z",
+                        "Y",
+                        "Z",
+                        "W"
+                  ],
+                  "Ugly": [
+                        10,
+                        5,
+                        20,
+                        10,
+                        30,
+                        15
+                  ]
+            }
+      },
+      "config": {
+            "graphType": "Heatmap",
+            "smpOverlayProperties": {
+                  "Binary": {
+                        "position": "left",
+                        "scheme": "BlackAndWhite",
+                        "type": "Default"
+                  },
+                  "Continuous": {
+                        "position": "left",
+                        "spectrum": [
+                              "green",
+                              "white"
+                        ],
+                        "type": "Heatmap"
+                  },
+                  "Discrete": {
+                        "position": "left",
+                        "thickness": 30,
+                        "type": "Default"
+                  },
+                  "Early": {
+                        "color": "blue",
+                        "position": "right",
+                        "thickness": 50,
+                        "type": "Line"
+                  },
+                  "Late": {
+                        "color": "red",
+                        "position": "right",
+                        "thickness": 50,
+                        "type": "Line"
+                  },
+                  "OnTime": {
+                        "color": "green",
+                        "position": "right",
+                        "thickness": 50,
+                        "type": "Line"
+                  },
+                  "PhaseA": {
+                        "position": "left",
+                        "thickness": 50,
+                        "type": "Bar"
+                  },
+                  "PhaseB": {
+                        "position": "left",
+                        "thickness": 50,
+                        "type": "Bar"
+                  },
+                  "PhaseC": {
+                        "position": "left",
+                        "thickness": 50,
+                        "type": "Bar"
+                  },
+                  "Temp": {
+                        "position": "right",
+                        "spectrum": [
+                              "blue",
+                              "white",
+                              "red"
+                        ],
+                        "thickness": 100,
+                        "type": "Heatmap"
+                  }
+            },
+            "smpOverlays": [
+                  "PhaseA",
+                  "PhaseB",
+                  "PhaseC",
+                  "-",
+                  "-",
+                  "Binary",
+                  "Continuous",
+                  "Discrete",
+                  "-",
+                  "-",
+                  "Temp",
+                  "-",
+                  "-",
+                  "Early",
+                  "OnTime",
+                  "Late"
+            ],
+            "smpTextScaleFontFactor": 1.1,
+            "stripBackgroundBorderColor": "rgb(0,0,0)",
+            "stripTextColor": "rgb(0,0,0)",
+            "varOverlayProperties": {
+                  "Cold": {
+                        "color": "blue",
+                        "position": "bottom",
+                        "thickness": 50,
+                        "type": "StackedPercent"
+                  },
+                  "Conc": {
+                        "position": "top",
+                        "thickness": 40,
+                        "type": "Bar"
+                  },
+                  "Desc": {
+                        "position": "bottom",
+                        "type": "Text"
+                  },
+                  "Drug": {
+                        "position": "top",
+                        "thickness": 30,
+                        "type": "Increase"
+                  },
+                  "Even": {
+                        "position": "bottom",
+                        "thickness": 50,
+                        "type": "Bar"
+                  },
+                  "Female": {
+                        "position": "top",
+                        "thickness": 50,
+                        "type": "Pie"
+                  },
+                  "Hot": {
+                        "color": "red",
+                        "position": "bottom",
+                        "thickness": 50,
+                        "type": "StackedPercent"
+                  },
+                  "Male": {
+                        "position": "top",
+                        "thickness": 50,
+                        "type": "Pie"
+                  },
+                  "Nice": {
+                        "color": "green",
+                        "position": "bottom",
+                        "thickness": 50,
+                        "type": "Dotplot"
+                  },
+                  "Odd": {
+                        "position": "bottom",
+                        "thickness": 50,
+                        "type": "BarLine"
+                  },
+                  "Site": {
+                        "position": "top",
+                        "type": "Default"
+                  },
+                  "Ugly": {
+                        "color": "black",
+                        "position": "bottom",
+                        "thickness": 50,
+                        "type": "Dotplot"
+                  }
+            },
+            "varOverlays": [
+                  "Drug",
+                  "-",
+                  "Male",
+                  "Female",
+                  "-",
+                  "Site",
+                  "-",
+                  "Conc",
+                  "-",
+                  "Desc",
+                  "-",
+                  "Even",
+                  "Odd",
+                  "-",
+                  "-",
+                  "Nice",
+                  "Ugly",
+                  "-",
+                  "-",
+                  "Cold",
+                  "Hot"
+            ],
+            "varTextRotate": 45,
+            "varTextScaleFontFactor": 1.7,
+            "xAxis": [
+                  "V1",
+                  "V2",
+                  "V3",
+                  "V4",
+                  "V5",
+                  "V6"
+            ],
+            "graphOrientation": "horizontal"
+      },
+      "events": {},
+      "info": false,
+      "afterRender": [
+            [
+                  "setDimensions",
+                  [
+                        596,
+                        596,
+                        true
+                  ]
+            ],
+            [
+                  "setDimensions",
+                  [
+                        800,
+                        800
+                  ],
+                  {},
+                  false,
+                  1790069516144
+            ]
+      ],
+      "noValidate": true,
+      "factory": {
+            "version": 69.6,
+            "specSchemaVersion": "1.0",
+            "buildDate": "09-19-2026",
+            "client": "MDo6MTo6NjkuNjo6Y2FudmFzeHByZXNzLm9yZzo6",
+            "siteSrc": false,
+            "href": "https://canvasxpress.org/examples/layout-15.html",
+            "services": "https://www.canvasxpress.org/cgi-bin/services.py"
+      },
+      "system": {
+            "browser": "Chrome",
+            "browserVersion": "153",
+            "os": "Mac OS",
+            "alt": "&#8997;",
+            "command": "&#8984;",
+            "control": "&#8963;",
+            "shift": "&#8679;",
+            "isNode": false,
+            "isReact": false,
+            "isjQuery": true,
+            "isReveal": false,
+            "isZoom": false,
+            "isIE": false,
+            "isInIframe": false,
+            "isR": false,
+            "isHTMLWidgets": false,
+            "isShiny": false,
+            "isRViewer": false,
+            "isRConsole": false,
+            "isCxplot": false,
+            "isGGMatrix": false,
+            "isJupyter": false
+      }
+}

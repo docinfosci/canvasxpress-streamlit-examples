@@ -1,0 +1,152 @@
+{
+      "version": 71.3,
+      "renderTo": "bullet3",
+      "data": {
+            "x": {
+                  "Color": [
+                        "A",
+                        "A",
+                        "A",
+                        "B",
+                        "B",
+                        "B",
+                        "C",
+                        "C",
+                        "C"
+                  ]
+            },
+            "y": {
+                  "data": [
+                        [
+                              10,
+                              12,
+                              22,
+                              31,
+                              42,
+                              27,
+                              15,
+                              15,
+                              5
+                        ]
+                  ],
+                  "smps": [
+                        "Birth",
+                        "Puberty",
+                        "Death",
+                        "Family",
+                        "Friendship",
+                        "Love",
+                        "Work",
+                        "Passion",
+                        "Environment"
+                  ],
+                  "vars": [
+                        "Topic"
+                  ]
+            }
+      },
+      "config": {
+            "backgroundType": "solid",
+            "rangeColors": [
+                  "rgb(48,126,164)"
+            ],
+            "rangeColorTransparency": 1,
+            "bulletWidthRatio": 1,
+            "colorBy": "Color",
+            "colors": [
+                  "rgb(250,165,44)",
+                  "rgb(254,225,60)",
+                  "rgb(253,243,169)"
+            ],
+            "fontName": "Waltograph",
+            "fontsExternal": [
+                  {
+                        "name": "Waltograph",
+                        "url": "https://www.canvasxpress.org/assets/fonts/waltograph42.otf"
+                  }
+            ],
+            "graphType": "Bullet",
+            "graphOrientation": "vertical",
+            "marginBottom": 0,
+            "marginLeft": 50,
+            "marginRight": 50,
+            "marginTop": 50,
+            "maxTextSize": 80,
+            "objectBorderColor": "rgba(255,255,255,0)",
+            "plotBackgroundColor": "rgb(48,114,148)",
+            "showLegend": false,
+            "smpTextColor": "rgb(255,255,255)",
+            "smpTextRotate": "30",
+            "smpTextScaleFontFactor": 2,
+            "title": "Friendship, Love, Family",
+            "titleAlign": "center",
+            "titleColor": "rgb(254,225,60)",
+            "titleScaleFontFactor": 2.5,
+            "xAxis": [
+                  "Topic"
+            ],
+            "xAxisShow": false,
+            "xAxis2Show": false,
+            "xAxisGridMajorShow": false,
+            "xAxisGridMinorShow": false,
+            "barType": "normal",
+            "meterType": "gauge"
+      },
+      "events": {},
+      "info": false,
+      "afterRender": [
+            [
+                  "setDimensions",
+                  [
+                        596,
+                        596,
+                        true
+                  ]
+            ],
+            [
+                  "setDimensions",
+                  [
+                        800,
+                        800
+                  ],
+                  {},
+                  false,
+                  1791827974383
+            ]
+      ],
+      "noValidate": true,
+      "factory": {
+            "version": 71.3,
+            "specSchemaVersion": "1.0",
+            "buildDate": "10-11-2026",
+            "client": "MDo6MTo6NzEuMzo6Y2FudmFzeHByZXNzLm9yZzo6",
+            "siteSrc": false,
+            "href": "https://canvasxpress.org/examples/bullet-3.html",
+            "services": "https://www.canvasxpress.org/cgi-bin/services.py"
+      },
+      "system": {
+            "browser": "Chrome",
+            "browserVersion": "153",
+            "os": "Mac OS",
+            "alt": "&#8997;",
+            "command": "&#8984;",
+            "control": "&#8963;",
+            "shift": "&#8679;",
+            "isNode": false,
+            "isReact": false,
+            "isjQuery": true,
+            "isReveal": false,
+            "isZoom": false,
+            "isIE": false,
+            "isInIframe": false,
+            "isR": false,
+            "isHTMLWidgets": false,
+            "isShiny": false,
+            "isRViewer": false,
+            "isRConsole": false,
+            "isCxplot": false,
+            "isGGMatrix": false,
+            "isJupyter": false,
+            "isVSCode": false
+      }
+}

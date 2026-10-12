@@ -1,0 +1,105 @@
+{
+      "version": 71.3,
+      "renderTo": "dumbbell9",
+      "data": {
+            "y": {
+                  "vars": [
+                        "2014",
+                        "2024"
+                  ],
+                  "smps": [
+                        "USA",
+                        "Germany",
+                        "Japan",
+                        "Brazil",
+                        "India",
+                        "Nigeria"
+                  ],
+                  "data": [
+                        [
+                              79,
+                              81,
+                              84,
+                              75,
+                              68,
+                              53
+                        ],
+                        [
+                              80,
+                              82,
+                              83,
+                              76,
+                              71,
+                              55
+                        ]
+                  ]
+            }
+      },
+      "config": {
+            "graphType": "Dumbbell",
+            "dumbbellType": "arrow",
+            "dumbbellArrowDirection": "order",
+            "title": "Life expectancy, 2014 to 2024",
+            "legendPosition": "bottom",
+            "source": "World Bank",
+            "graphOrientation": "horizontal",
+            "dotplotType": "normal"
+      },
+      "events": {},
+      "info": false,
+      "afterRender": [
+            [
+                  "setDimensions",
+                  [
+                        596,
+                        596,
+                        true
+                  ]
+            ],
+            [
+                  "setDimensions",
+                  [
+                        800,
+                        800
+                  ],
+                  {},
+                  false,
+                  1791828838137
+            ]
+      ],
+      "noValidate": true,
+      "factory": {
+            "version": 71.3,
+            "specSchemaVersion": "1.0",
+            "buildDate": "10-11-2026",
+            "client": "MDo6MTo6NzEuMzo6Y2FudmFzeHByZXNzLm9yZzo6",
+            "siteSrc": false,
+            "href": "https://canvasxpress.org/examples/dumbbell-9.html",
+            "services": "https://www.canvasxpress.org/cgi-bin/services.py"
+      },
+      "system": {
+            "browser": "Chrome",
+            "browserVersion": "153",
+            "os": "Mac OS",
+            "alt": "&#8997;",
+            "command": "&#8984;",
+            "control": "&#8963;",
+            "shift": "&#8679;",
+            "isNode": false,
+            "isReact": false,
+            "isjQuery": true,
+            "isReveal": false,
+            "isZoom": false,
+            "isIE": false,
+            "isInIframe": false,
+            "isR": false,
+            "isHTMLWidgets": false,
+            "isShiny": false,
+            "isRViewer": false,
+            "isRConsole": false,
+            "isCxplot": false,
+            "isGGMatrix": false,
+            "isJupyter": false,
+            "isVSCode": false
+      }
+}

@@ -1,0 +1,117 @@
+{
+      "version": 71.3,
+      "renderTo": "chord4",
+      "data": {
+            "y": {
+                  "data": [
+                        [
+                              0,
+                              8,
+                              8,
+                              8
+                        ],
+                        [
+                              1,
+                              0,
+                              8,
+                              1
+                        ],
+                        [
+                              1,
+                              1,
+                              0,
+                              8
+                        ],
+                        [
+                              1,
+                              8,
+                              1,
+                              0
+                        ]
+                  ],
+                  "smps": [
+                        "A",
+                        "B",
+                        "C",
+                        "D"
+                  ],
+                  "vars": [
+                        "A",
+                        "B",
+                        "C",
+                        "D"
+                  ]
+            }
+      },
+      "config": {
+            "chordColor": "largest",
+            "chordScaleShow": false,
+            "circularArc": 360,
+            "circularRotate": 180,
+            "circularType": "chord",
+            "graphType": "Circular",
+            "higlightGreyOut": true,
+            "legendKeyBackgroundBorderColor": "rgba(255,255,255,0)",
+            "legendKeyBackgroundColor": "rgba(255,255,255,0)",
+            "objectBorderColor": "rgb(0,0,0)",
+            "title": "Four way Round Robin Tournament",
+            "graphOrientation": "horizontal"
+      },
+      "events": {},
+      "info": false,
+      "afterRender": [
+            [
+                  "setDimensions",
+                  [
+                        596,
+                        596,
+                        true
+                  ]
+            ],
+            [
+                  "setDimensions",
+                  [
+                        800,
+                        800
+                  ],
+                  {},
+                  false,
+                  1791828098798
+            ]
+      ],
+      "noValidate": true,
+      "factory": {
+            "version": 71.3,
+            "specSchemaVersion": "1.0",
+            "buildDate": "10-11-2026",
+            "client": "MDo6MTo6NzEuMzo6Y2FudmFzeHByZXNzLm9yZzo6",
+            "siteSrc": false,
+            "href": "https://canvasxpress.org/examples/chord-4.html",
+            "services": "https://www.canvasxpress.org/cgi-bin/services.py"
+      },
+      "system": {
+            "browser": "Chrome",
+            "browserVersion": "153",
+            "os": "Mac OS",
+            "alt": "&#8997;",
+            "command": "&#8984;",
+            "control": "&#8963;",
+            "shift": "&#8679;",
+            "isNode": false,
+            "isReact": false,
+            "isjQuery": true,
+            "isReveal": false,
+            "isZoom": false,
+            "isIE": false,
+            "isInIframe": false,
+            "isR": false,
+            "isHTMLWidgets": false,
+            "isShiny": false,
+            "isRViewer": false,
+            "isRConsole": false,
+            "isCxplot": false,
+            "isGGMatrix": false,
+            "isJupyter": false,
+            "isVSCode": false
+      }
+}

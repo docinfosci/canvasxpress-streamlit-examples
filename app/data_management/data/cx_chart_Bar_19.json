@@ -1,0 +1,172 @@
+{
+      "version": 71.3,
+      "renderTo": "bar19",
+      "data": {
+            "y": {
+                  "vars": [
+                        "2019",
+                        "2020",
+                        "2021",
+                        "2022",
+                        "2023",
+                        "Trend",
+                        "Population"
+                  ],
+                  "smps": [
+                        "Germany",
+                        "France",
+                        "Italy",
+                        "Spain",
+                        "Poland",
+                        "Netherlands"
+                  ],
+                  "data": [
+                        [
+                              46,
+                              41,
+                              34,
+                              30,
+                              15,
+                              52
+                        ],
+                        [
+                              42,
+                              39,
+                              31,
+                              27,
+                              16,
+                              50
+                        ],
+                        [
+                              44,
+                              41,
+                              34,
+                              29,
+                              17,
+                              55
+                        ],
+                        [
+                              48,
+                              43,
+                              36,
+                              31,
+                              19,
+                              58
+                        ],
+                        [
+                              51,
+                              45,
+                              38,
+                              33,
+                              21,
+                              61
+                        ],
+                        [
+                              0,
+                              0,
+                              0,
+                              0,
+                              0,
+                              0
+                        ],
+                        [
+                              83200000,
+                              68000000,
+                              58900000,
+                              48100000,
+                              36700000,
+                              17900000
+                        ]
+                  ]
+            }
+      },
+      "config": {
+            "graphType": "Bar",
+            "view": "table",
+            "dataTableFitHeight": true,
+            "dataTableFitWidth": true,
+            "title": "GDP per capita (thousand USD)",
+            "dataTableColWidth": 120,
+            "dataTableRowNumbersShow": false,
+            "dataTableColHide": [
+                  "2019",
+                  "2020",
+                  "2021",
+                  "2022"
+            ],
+            "dataTableColRenderer": {
+                  "2023": "bar",
+                  "Trend": {
+                        "type": "sparkline",
+                        "columns": [
+                              "2019",
+                              "2020",
+                              "2021",
+                              "2022",
+                              "2023"
+                        ]
+                  }
+            },
+            "dataTableColFormat": {
+                  "Population": "compact"
+            },
+            "graphOrientation": "horizontal"
+      },
+      "events": {},
+      "info": false,
+      "afterRender": [
+            [
+                  "setDimensions",
+                  [
+                        596,
+                        596,
+                        true
+                  ]
+            ],
+            [
+                  "setDimensions",
+                  [
+                        800,
+                        800
+                  ],
+                  {},
+                  false,
+                  1791827616221
+            ]
+      ],
+      "noValidate": true,
+      "factory": {
+            "version": 71.3,
+            "specSchemaVersion": "1.0",
+            "buildDate": "10-11-2026",
+            "client": "MDo6MTo6NzEuMzo6Y2FudmFzeHByZXNzLm9yZzo6",
+            "siteSrc": false,
+            "href": "https://canvasxpress.org/examples/bar-19.html",
+            "services": "https://www.canvasxpress.org/cgi-bin/services.py"
+      },
+      "system": {
+            "browser": "Chrome",
+            "browserVersion": "153",
+            "os": "Mac OS",
+            "alt": "&#8997;",
+            "command": "&#8984;",
+            "control": "&#8963;",
+            "shift": "&#8679;",
+            "isNode": false,
+            "isReact": false,
+            "isjQuery": true,
+            "isReveal": false,
+            "isZoom": false,
+            "isIE": false,
+            "isInIframe": false,
+            "isR": false,
+            "isHTMLWidgets": false,
+            "isShiny": false,
+            "isRViewer": false,
+            "isRConsole": false,
+            "isCxplot": false,
+            "isGGMatrix": false,
+            "isJupyter": false,
+            "isVSCode": false
+      }
+}

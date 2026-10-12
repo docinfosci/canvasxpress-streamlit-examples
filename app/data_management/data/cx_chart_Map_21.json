@@ -1,0 +1,675 @@
+{
+      "version": 71.3,
+      "renderTo": "map21",
+      "data": {
+            "y": {
+                  "vars": [
+                        "AFG",
+                        "AGO",
+                        "ALB",
+                        "ARE",
+                        "ARG",
+                        "ARM",
+                        "AUS",
+                        "AUT",
+                        "AZE",
+                        "BDI",
+                        "BEL",
+                        "BEN",
+                        "BFA",
+                        "BGD",
+                        "BGR",
+                        "BIH",
+                        "BLR",
+                        "BOL",
+                        "BRA",
+                        "BWA",
+                        "CAF",
+                        "CAN",
+                        "CHE",
+                        "CHL",
+                        "CHN",
+                        "CIV",
+                        "CMR",
+                        "COD",
+                        "COG",
+                        "COL",
+                        "CRI",
+                        "CUB",
+                        "CZE",
+                        "DEU",
+                        "DNK",
+                        "DOM",
+                        "DZA",
+                        "ECU",
+                        "EGY",
+                        "ESP",
+                        "EST",
+                        "ETH",
+                        "FIN",
+                        "FRA",
+                        "GAB",
+                        "GBR",
+                        "GEO",
+                        "GHA",
+                        "GIN",
+                        "GRC",
+                        "GTM",
+                        "HND",
+                        "HRV",
+                        "HTI",
+                        "HUN",
+                        "IDN",
+                        "IND",
+                        "IRL",
+                        "IRN",
+                        "IRQ",
+                        "ISL",
+                        "ISR",
+                        "ITA",
+                        "JAM",
+                        "JOR",
+                        "JPN",
+                        "KAZ",
+                        "KEN",
+                        "KGZ",
+                        "KHM",
+                        "KOR",
+                        "KWT",
+                        "LAO",
+                        "LBN",
+                        "LBR",
+                        "LBY",
+                        "LKA",
+                        "LSO",
+                        "LTU",
+                        "LVA",
+                        "MAR",
+                        "MDG",
+                        "MEX",
+                        "MLI",
+                        "MMR",
+                        "MNG",
+                        "MOZ",
+                        "MRT",
+                        "MWI",
+                        "MYS",
+                        "NAM",
+                        "NER",
+                        "NGA",
+                        "NIC",
+                        "NLD",
+                        "NOR",
+                        "NPL",
+                        "NZL",
+                        "OMN",
+                        "PAK",
+                        "PAN",
+                        "PER",
+                        "PHL",
+                        "PNG",
+                        "POL",
+                        "PRK",
+                        "PRT",
+                        "PRY",
+                        "QAT",
+                        "ROU",
+                        "RUS",
+                        "RWA",
+                        "SAU",
+                        "SDN",
+                        "SEN",
+                        "SLE",
+                        "SLV",
+                        "SOM",
+                        "SRB",
+                        "SVK",
+                        "SVN",
+                        "SWE",
+                        "SYR",
+                        "TCD",
+                        "TGO",
+                        "THA",
+                        "TJK",
+                        "TKM",
+                        "TUN",
+                        "TUR",
+                        "TZA",
+                        "UGA",
+                        "UKR",
+                        "URY",
+                        "USA",
+                        "UZB",
+                        "VEN",
+                        "VNM",
+                        "YEM",
+                        "ZAF",
+                        "ZMB",
+                        "ZWE"
+                  ],
+                  "smps": [
+                        "Wellbeing index"
+                  ],
+                  "data": [
+                        [
+                              37.2
+                        ],
+                        [
+                              36.3
+                        ],
+                        [
+                              55.5
+                        ],
+                        [
+                              44.4
+                        ],
+                        [
+                              45
+                        ],
+                        [
+                              41.3
+                        ],
+                        [
+                              51.4
+                        ],
+                        [
+                              66.4
+                        ],
+                        [
+                              62.1
+                        ],
+                        [
+                              34.3
+                        ],
+                        [
+                              58.1
+                        ],
+                        [
+                              41.1
+                        ],
+                        [
+                              36.9
+                        ],
+                        [
+                              67.5
+                        ],
+                        [
+                              62.5
+                        ],
+                        [
+                              50.1
+                        ],
+                        [
+                              59.2
+                        ],
+                        [
+                              35.9
+                        ],
+                        [
+                              49.4
+                        ],
+                        [
+                              56.3
+                        ],
+                        [
+                              67.5
+                        ],
+                        [
+                              41.2
+                        ],
+                        [
+                              62.8
+                        ],
+                        [
+                              41.8
+                        ],
+                        [
+                              40.5
+                        ],
+                        [
+                              60.6
+                        ],
+                        [
+                              39.3
+                        ],
+                        [
+                              58.3
+                        ],
+                        [
+                              46.6
+                        ],
+                        [
+                              51.3
+                        ],
+                        [
+                              68.3
+                        ],
+                        [
+                              60
+                        ],
+                        [
+                              64.4
+                        ],
+                        [
+                              65
+                        ],
+                        [
+                              56
+                        ],
+                        [
+                              61.6
+                        ],
+                        [
+                              58.1
+                        ],
+                        [
+                              41.4
+                        ],
+                        [
+                              44.6
+                        ],
+                        [
+                              51.6
+                        ],
+                        [
+                              64.4
+                        ],
+                        [
+                              66.4
+                        ],
+                        [
+                              61.5
+                        ],
+                        [
+                              55.9
+                        ],
+                        [
+                              44.8
+                        ],
+                        [
+                              64.8
+                        ],
+                        [
+                              40.9
+                        ],
+                        [
+                              47.4
+                        ],
+                        [
+                              61.3
+                        ],
+                        [
+                              39.5
+                        ],
+                        [
+                              57.1
+                        ],
+                        [
+                              64.5
+                        ],
+                        [
+                              60.4
+                        ],
+                        [
+                              34.2
+                        ],
+                        [
+                              53.8
+                        ],
+                        [
+                              52
+                        ],
+                        [
+                              59.5
+                        ],
+                        [
+                              46.3
+                        ],
+                        [
+                              43.9
+                        ],
+                        [
+                              35.8
+                        ],
+                        [
+                              34.4
+                        ],
+                        [
+                              40.9
+                        ],
+                        [
+                              56
+                        ],
+                        [
+                              36.9
+                        ],
+                        [
+                              53.6
+                        ],
+                        [
+                              65.9
+                        ],
+                        [
+                              57.6
+                        ],
+                        [
+                              40.2
+                        ],
+                        [
+                              39.9
+                        ],
+                        [
+                              58.9
+                        ],
+                        [
+                              52.7
+                        ],
+                        [
+                              44.4
+                        ],
+                        [
+                              36.4
+                        ],
+                        [
+                              62.2
+                        ],
+                        [
+                              58.9
+                        ],
+                        [
+                              62.5
+                        ],
+                        [
+                              58
+                        ],
+                        [
+                              34.8
+                        ],
+                        [
+                              39.7
+                        ],
+                        [
+                              56.5
+                        ],
+                        [
+                              55.4
+                        ],
+                        [
+                              41.4
+                        ],
+                        [
+                              48.1
+                        ],
+                        [
+                              42.2
+                        ],
+                        [
+                              42
+                        ],
+                        [
+                              34.2
+                        ],
+                        [
+                              67.8
+                        ],
+                        [
+                              34.8
+                        ],
+                        [
+                              58
+                        ],
+                        [
+                              50.7
+                        ],
+                        [
+                              37.8
+                        ],
+                        [
+                              66.8
+                        ],
+                        [
+                              53.7
+                        ],
+                        [
+                              57.1
+                        ],
+                        [
+                              67.2
+                        ],
+                        [
+                              61
+                        ],
+                        [
+                              62.7
+                        ],
+                        [
+                              40.4
+                        ],
+                        [
+                              36.1
+                        ],
+                        [
+                              60.7
+                        ],
+                        [
+                              55.1
+                        ],
+                        [
+                              54
+                        ],
+                        [
+                              57.9
+                        ],
+                        [
+                              58
+                        ],
+                        [
+                              54.3
+                        ],
+                        [
+                              54.2
+                        ],
+                        [
+                              41.6
+                        ],
+                        [
+                              59.2
+                        ],
+                        [
+                              41
+                        ],
+                        [
+                              67.1
+                        ],
+                        [
+                              58.4
+                        ],
+                        [
+                              37
+                        ],
+                        [
+                              38.9
+                        ],
+                        [
+                              65.4
+                        ],
+                        [
+                              39.4
+                        ],
+                        [
+                              49
+                        ],
+                        [
+                              36.1
+                        ],
+                        [
+                              43.1
+                        ],
+                        [
+                              34.4
+                        ],
+                        [
+                              62.3
+                        ],
+                        [
+                              52.7
+                        ],
+                        [
+                              42.7
+                        ],
+                        [
+                              53.9
+                        ],
+                        [
+                              35.4
+                        ],
+                        [
+                              39
+                        ],
+                        [
+                              42.1
+                        ],
+                        [
+                              52.2
+                        ],
+                        [
+                              36.8
+                        ],
+                        [
+                              50.7
+                        ],
+                        [
+                              50.8
+                        ],
+                        [
+                              54.5
+                        ],
+                        [
+                              49.4
+                        ],
+                        [
+                              34.6
+                        ],
+                        [
+                              37.9
+                        ],
+                        [
+                              55.4
+                        ],
+                        [
+                              48
+                        ],
+                        [
+                              50.9
+                        ],
+                        [
+                              50.6
+                        ],
+                        [
+                              38
+                        ],
+                        [
+                              61.8
+                        ],
+                        [
+                              65.1
+                        ],
+                        [
+                              34.9
+                        ]
+                  ]
+            }
+      },
+      "config": {
+            "graphType": "Map",
+            "topoJSON": "https://www.canvasxpress.org/data/maps/WORLD.json",
+            "mapId": "worldHpi",
+            "theme": "paulTol",
+            "colorBy": "Wellbeing index",
+            "colorSpectrum": [
+                  "#c51b7d",
+                  "#f7f7f7",
+                  "#4d9221"
+            ],
+            "colorSpectrumZeroValue": 51,
+            "title": "How well does the planet live?",
+            "subtitle": "Synthetic wellbeing-efficiency index by country (34 = low, 68 = high). Synthetic data for illustration",
+            "legendPosition": "bottomLeft",
+            "legendInside": true,
+            "showLegendTitle": true,
+            "mapColor": "#dddddd",
+            "decorations": {
+                  "marker": [
+                        {
+                              "coords": [
+                                    9.9,
+                                    -84.1
+                              ],
+                              "label": "Costa Rica (68.3)",
+                              "shape": "sphere",
+                              "size": 1.6,
+                              "color": "#276419",
+                              "id": "map21-marker-0"
+                        }
+                  ]
+            },
+            "graphOrientation": "horizontal"
+      },
+      "events": {},
+      "info": false,
+      "afterRender": [
+            [
+                  "setDimensions",
+                  [
+                        636,
+                        468,
+                        true
+                  ]
+            ],
+            [
+                  "setDimensions",
+                  [
+                        800,
+                        800
+                  ],
+                  {},
+                  false,
+                  1791830153015
+            ]
+      ],
+      "noValidate": true,
+      "factory": {
+            "version": 71.3,
+            "specSchemaVersion": "1.0",
+            "buildDate": "10-11-2026",
+            "client": "MDo6MTo6NzEuMzo6Y2FudmFzeHByZXNzLm9yZzo6",
+            "siteSrc": false,
+            "href": "https://canvasxpress.org/examples/map-21.html",
+            "services": "https://www.canvasxpress.org/cgi-bin/services.py"
+      },
+      "system": {
+            "browser": "Chrome",
+            "browserVersion": "153",
+            "os": "Mac OS",
+            "alt": "&#8997;",
+            "command": "&#8984;",
+            "control": "&#8963;",
+            "shift": "&#8679;",
+            "isNode": false,
+            "isReact": false,
+            "isjQuery": true,
+            "isReveal": false,
+            "isZoom": false,
+            "isIE": false,
+            "isInIframe": false,
+            "isR": false,
+            "isHTMLWidgets": false,
+            "isShiny": false,
+            "isRViewer": false,
+            "isRConsole": false,
+            "isCxplot": false,
+            "isGGMatrix": false,
+            "isJupyter": false,
+            "isVSCode": false
+      }
+}

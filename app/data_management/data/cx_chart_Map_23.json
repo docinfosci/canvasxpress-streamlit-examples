@@ -1,0 +1,153 @@
+{
+      "version": 71.3,
+      "renderTo": "map23",
+      "data": {
+            "y": {
+                  "vars": [
+                        "Karas",
+                        "Kunene",
+                        "Omusati",
+                        "Ohangwena",
+                        "Kavango",
+                        "Caprivi",
+                        "Hardap",
+                        "Otjozondjupa",
+                        "Omaheke",
+                        "Erongo",
+                        "Khomas",
+                        "Oshana",
+                        "Oshikoto"
+                  ],
+                  "smps": [
+                        "Rainfall (mm)"
+                  ],
+                  "data": [
+                        [
+                              70
+                        ],
+                        [
+                              120
+                        ],
+                        [
+                              330
+                        ],
+                        [
+                              410
+                        ],
+                        [
+                              520
+                        ],
+                        [
+                              660
+                        ],
+                        [
+                              160
+                        ],
+                        [
+                              440
+                        ],
+                        [
+                              360
+                        ],
+                        [
+                              60
+                        ],
+                        [
+                              300
+                        ],
+                        [
+                              350
+                        ],
+                        [
+                              400
+                        ]
+                  ]
+            }
+      },
+      "config": {
+            "graphType": "Map",
+            "topoJSON": "https://www.canvasxpress.org/data/maps/NAM.json",
+            "mapId": "namibia",
+            "mapConfig": {
+                  "zoom": 5.6,
+                  "center": [
+                        -22.9,
+                        18.5
+                  ]
+            },
+            "theme": "bw",
+            "colorBy": "Rainfall (mm)",
+            "colorScheme": "User",
+            "colorSpectrum": [
+                  "#dfc27d",
+                  "#a6b37a",
+                  "#35978f",
+                  "#01665e"
+            ],
+            "showMapLabels": true,
+            "title": "Annual rainfall per region",
+            "subtitle": "Regional mean of total yearly rainfall in mm (synthetic)",
+            "legendPosition": "topRight",
+            "showLegendTitle": true,
+            "mapOutlineColor": "#ffffff",
+            "source": "Synthetic data for illustration",
+            "graphOrientation": "horizontal"
+      },
+      "events": {},
+      "info": false,
+      "afterRender": [
+            [
+                  "setDimensions",
+                  [
+                        636,
+                        502,
+                        true
+                  ]
+            ],
+            [
+                  "setDimensions",
+                  [
+                        800,
+                        800
+                  ],
+                  {},
+                  false,
+                  1791830175346
+            ]
+      ],
+      "noValidate": true,
+      "factory": {
+            "version": 71.3,
+            "specSchemaVersion": "1.0",
+            "buildDate": "10-11-2026",
+            "client": "MDo6MTo6NzEuMzo6Y2FudmFzeHByZXNzLm9yZzo6",
+            "siteSrc": false,
+            "href": "https://canvasxpress.org/examples/map-23.html",
+            "services": "https://www.canvasxpress.org/cgi-bin/services.py"
+      },
+      "system": {
+            "browser": "Chrome",
+            "browserVersion": "153",
+            "os": "Mac OS",
+            "alt": "&#8997;",
+            "command": "&#8984;",
+            "control": "&#8963;",
+            "shift": "&#8679;",
+            "isNode": false,
+            "isReact": false,
+            "isjQuery": true,
+            "isReveal": false,
+            "isZoom": false,
+            "isIE": false,
+            "isInIframe": false,
+            "isR": false,
+            "isHTMLWidgets": false,
+            "isShiny": false,
+            "isRViewer": false,
+            "isRConsole": false,
+            "isCxplot": false,
+            "isGGMatrix": false,
+            "isJupyter": false,
+            "isVSCode": false
+      }
+}

@@ -1,0 +1,127 @@
+{
+      "version": 71.3,
+      "renderTo": "area20",
+      "data": {
+            "y": {
+                  "vars": [
+                        "Chrome",
+                        "Safari",
+                        "Edge",
+                        "Firefox"
+                  ],
+                  "smps": [
+                        "FY21",
+                        "FY22",
+                        "FY23",
+                        "FY24",
+                        "FY25"
+                  ],
+                  "data": [
+                        [
+                              61,
+                              63,
+                              64,
+                              65,
+                              66
+                        ],
+                        [
+                              18,
+                              19,
+                              19,
+                              20,
+                              20
+                        ],
+                        [
+                              8,
+                              9,
+                              10,
+                              11,
+                              12
+                        ],
+                        [
+                              9,
+                              7,
+                              6,
+                              5,
+                              4
+                        ]
+                  ]
+            }
+      },
+      "config": {
+            "graphType": "Area",
+            "graphOrientation": "vertical",
+            "areaType": "percent",
+            "areaStyle": "translucent",
+            "areaShowColumns": true,
+            "areaColumnWidth": 0.62,
+            "colorScheme": "Tableau",
+            "title": "TrendPlot: browser market share",
+            "subtitle": "Percent-stacked bars with a stacked area trend (scale_y = TRUE)",
+            "smpTitle": "Year",
+            "xAxisTitle": "Share (%)",
+            "xAxis": [
+                  "Chrome",
+                  "Safari",
+                  "Edge",
+                  "Firefox"
+            ]
+      },
+      "events": {},
+      "info": false,
+      "afterRender": [
+            [
+                  "setDimensions",
+                  [
+                        596,
+                        596,
+                        true
+                  ]
+            ],
+            [
+                  "setDimensions",
+                  [
+                        800,
+                        800
+                  ],
+                  {},
+                  false,
+                  1791827394987
+            ]
+      ],
+      "noValidate": true,
+      "factory": {
+            "version": 71.3,
+            "specSchemaVersion": "1.0",
+            "buildDate": "10-11-2026",
+            "client": "MDo6MTo6NzEuMzo6Y2FudmFzeHByZXNzLm9yZzo6",
+            "siteSrc": false,
+            "href": "https://canvasxpress.org/examples/area-20.html",
+            "services": "https://www.canvasxpress.org/cgi-bin/services.py"
+      },
+      "system": {
+            "browser": "Chrome",
+            "browserVersion": "153",
+            "os": "Mac OS",
+            "alt": "&#8997;",
+            "command": "&#8984;",
+            "control": "&#8963;",
+            "shift": "&#8679;",
+            "isNode": false,
+            "isReact": false,
+            "isjQuery": true,
+            "isReveal": false,
+            "isZoom": false,
+            "isIE": false,
+            "isInIframe": false,
+            "isR": false,
+            "isHTMLWidgets": false,
+            "isShiny": false,
+            "isRViewer": false,
+            "isRConsole": false,
+            "isCxplot": false,
+            "isGGMatrix": false,
+            "isJupyter": false,
+            "isVSCode": false
+      }
+}

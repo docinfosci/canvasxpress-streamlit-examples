@@ -1,0 +1,133 @@
+{
+      "version": 71.3,
+      "renderTo": "dumbbell13",
+      "data": {
+            "y": {
+                  "vars": [
+                        "Pathogen identified",
+                        "Vaccine licensed"
+                  ],
+                  "smps": [
+                        "Cholera",
+                        "Tuberculosis",
+                        "Malaria",
+                        "Dengue",
+                        "Anthrax",
+                        "Rabies",
+                        "Hepatitis A",
+                        "Mumps",
+                        "HPV",
+                        "Ebola"
+                  ],
+                  "data": [
+                        [
+                              1883,
+                              1882,
+                              1880,
+                              1943,
+                              1876,
+                              1885,
+                              1973,
+                              1934,
+                              1983,
+                              1976
+                        ],
+                        [
+                              1991,
+                              1921,
+                              2021,
+                              2019,
+                              1881,
+                              1885,
+                              1995,
+                              1967,
+                              2006,
+                              2019
+                        ]
+                  ]
+            }
+      },
+      "config": {
+            "graphType": "Dumbbell",
+            "dumbbellType": "connected",
+            "theme": "paulTol",
+            "colorScheme": "User",
+            "colors": [
+                  "#332288",
+                  "#332288"
+            ],
+            "title": "From pathogen to vaccine",
+            "subtitle": "Year the cause of ten diseases was identified and the year a vaccine against it was licensed",
+            "xAxis": [
+                  "Pathogen identified",
+                  "Vaccine licensed"
+            ],
+            "xAxisTitle": "Year",
+            "setMinX": 1860,
+            "setMaxX": 2040,
+            "xAxisTickFormat": "%.0f",
+            "sortDir": "ascending",
+            "showLegend": false,
+            "dataPointSizeScaleFactor": 2.2,
+            "citation": "Source: synthetic data for illustration",
+            "graphOrientation": "horizontal",
+            "dotplotType": "normal"
+      },
+      "events": {},
+      "info": false,
+      "afterRender": [
+            [
+                  "setDimensions",
+                  [
+                        636,
+                        401,
+                        true
+                  ]
+            ],
+            [
+                  "setDimensions",
+                  [
+                        800,
+                        800
+                  ],
+                  {},
+                  false,
+                  1791828893199
+            ]
+      ],
+      "noValidate": true,
+      "factory": {
+            "version": 71.3,
+            "specSchemaVersion": "1.0",
+            "buildDate": "10-11-2026",
+            "client": "MDo6MTo6NzEuMzo6Y2FudmFzeHByZXNzLm9yZzo6",
+            "siteSrc": false,
+            "href": "https://canvasxpress.org/examples/dumbbell-13.html",
+            "services": "https://www.canvasxpress.org/cgi-bin/services.py"
+      },
+      "system": {
+            "browser": "Chrome",
+            "browserVersion": "153",
+            "os": "Mac OS",
+            "alt": "&#8997;",
+            "command": "&#8984;",
+            "control": "&#8963;",
+            "shift": "&#8679;",
+            "isNode": false,
+            "isReact": false,
+            "isjQuery": true,
+            "isReveal": false,
+            "isZoom": false,
+            "isIE": false,
+            "isInIframe": false,
+            "isR": false,
+            "isHTMLWidgets": false,
+            "isShiny": false,
+            "isRViewer": false,
+            "isRConsole": false,
+            "isCxplot": false,
+            "isGGMatrix": false,
+            "isJupyter": false,
+            "isVSCode": false
+      }
+}

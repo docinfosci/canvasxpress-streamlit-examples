@@ -1,0 +1,151 @@
+{
+      "version": 71.3,
+      "renderTo": "bullet5",
+      "data": {
+            "y": {
+                  "data": [
+                        [
+                              250.43,
+                              5.69,
+                              9.79
+                        ],
+                        [
+                              250,
+                              3,
+                              8
+                        ],
+                        [
+                              400,
+                              6,
+                              10
+                        ],
+                        [
+                              600,
+                              12,
+                              11
+                        ],
+                        [
+                              520,
+                              7.5,
+                              10.5
+                        ]
+                  ],
+                  "smps": [
+                        "Total Distance",
+                        "Average Distance",
+                        "Average Speed"
+                  ],
+                  "vars": [
+                        "Value",
+                        "Bad",
+                        "Acceptable",
+                        "Good",
+                        "Target"
+                  ]
+            }
+      },
+      "config": {
+            "barType": "bullet",
+            "rangeColors": [
+                  "#FFFFFF",
+                  "#F2F2F2",
+                  "#D8D8D8"
+            ],
+            "rangeStack": [
+                  "Bad",
+                  "Acceptable",
+                  "Good"
+            ],
+            "rangeStackShow": true,
+            "bulletTargetType": "openCircle",
+            "bulletTargetVarName": "Target",
+            "bulletTargetWidthRatio": 0.2,
+            "bulletStyle": "roundGradient",
+            "bulletWidthRatio": 0.5,
+            "colors": [
+                  "#9422F5"
+            ],
+            "dataValuesPosition": "inside",
+            "dataTextColor": "#FFFFFF",
+            "dataTextScaleFontFactor": 0.8,
+            "graphOrientation": "horizontal",
+            "graphType": "Bullet",
+            "layoutAdjust": true,
+            "layoutSpacing": 20,
+            "layoutTopology": "3X1",
+            "segregateSamplesBy": [
+                  "sample"
+            ],
+            "showDataValues": true,
+            "showLegend": false,
+            "showSampleNames": false,
+            "stripBackgroundColor": "#FFFFFF",
+            "stripTextAlign": "left",
+            "stripTextColor": "#000000",
+            "xAxis": [
+                  "Value"
+            ],
+            "xAxis2Show": true,
+            "xAxisGridMajorShow": false,
+            "xAxisGridMinorShow": false,
+            "xAxisShow": false,
+            "meterType": "gauge"
+      },
+      "events": {},
+      "info": false,
+      "afterRender": [
+            [
+                  "setDimensions",
+                  [
+                        596,
+                        596,
+                        true
+                  ]
+            ],
+            [
+                  "setDimensions",
+                  [
+                        800,
+                        800
+                  ],
+                  {},
+                  false,
+                  1791827999040
+            ]
+      ],
+      "noValidate": true,
+      "factory": {
+            "version": 71.3,
+            "specSchemaVersion": "1.0",
+            "buildDate": "10-11-2026",
+            "client": "MDo6MTo6NzEuMzo6Y2FudmFzeHByZXNzLm9yZzo6",
+            "siteSrc": false,
+            "href": "https://canvasxpress.org/examples/bullet-5.html",
+            "services": "https://www.canvasxpress.org/cgi-bin/services.py"
+      },
+      "system": {
+            "browser": "Chrome",
+            "browserVersion": "153",
+            "os": "Mac OS",
+            "alt": "&#8997;",
+            "command": "&#8984;",
+            "control": "&#8963;",
+            "shift": "&#8679;",
+            "isNode": false,
+            "isReact": false,
+            "isjQuery": true,
+            "isReveal": false,
+            "isZoom": false,
+            "isIE": false,
+            "isInIframe": false,
+            "isR": false,
+            "isHTMLWidgets": false,
+            "isShiny": false,
+            "isRViewer": false,
+            "isRConsole": false,
+            "isCxplot": false,
+            "isGGMatrix": false,
+            "isJupyter": false,
+            "isVSCode": false
+      }
+}

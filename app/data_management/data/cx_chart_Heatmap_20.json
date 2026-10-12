@@ -1,0 +1,830 @@
+{
+      "version": 71.3,
+      "renderTo": "heatmap20",
+      "data": {
+            "y": {
+                  "vars": [
+                        "V1",
+                        "V2",
+                        "V3",
+                        "V4",
+                        "V5",
+                        "V6",
+                        "V7",
+                        "V8"
+                  ],
+                  "smps": [
+                        "S1",
+                        "S2",
+                        "S3",
+                        "S4",
+                        "S5",
+                        "S6"
+                  ],
+                  "data": [
+                        [
+                              0.372,
+                              0.932,
+                              1.148,
+                              -0.98,
+                              -1.265,
+                              -0.823
+                        ],
+                        [
+                              0.967,
+                              1.184,
+                              0.374,
+                              -1.253,
+                              -0.553,
+                              -0.634
+                        ],
+                        [
+                              1.337,
+                              1.144,
+                              0.764,
+                              -0.896,
+                              0.1,
+                              -0.901
+                        ],
+                        [
+                              0.525,
+                              0.402,
+                              0.833,
+                              -0.749,
+                              -0.921,
+                              -0.822
+                        ],
+                        [
+                              -0.704,
+                              -0.558,
+                              -0.416,
+                              0.873,
+                              0.174,
+                              1.046
+                        ],
+                        [
+                              -1.297,
+                              -0.86,
+                              -1.316,
+                              0.801,
+                              0.528,
+                              0.875
+                        ],
+                        [
+                              0.355,
+                              -0.817,
+                              -0.505,
+                              0.337,
+                              0.699,
+                              1.032
+                        ],
+                        [
+                              -0.832,
+                              -0.67,
+                              -0.764,
+                              0.448,
+                              0.997,
+                              0.516
+                        ]
+                  ]
+            },
+            "x": {
+                  "rows": [
+                        "A",
+                        "A",
+                        "A",
+                        "B",
+                        "B",
+                        "B"
+                  ],
+                  "rp_a": [
+                        4.26,
+                        6.33,
+                        5.29,
+                        3.14,
+                        2.6,
+                        3.06
+                  ],
+                  "rp_b": [
+                        1.77,
+                        3.1,
+                        3.22,
+                        3.28,
+                        5.27,
+                        3.15
+                  ],
+                  "rp_c": [
+                        1.31,
+                        5.08,
+                        1.89,
+                        2.83,
+                        3.3,
+                        2.98
+                  ],
+                  "rv_01": [
+                        -3.1,
+                        -2.27,
+                        0.4,
+                        1.33,
+                        1.85,
+                        3.24
+                  ],
+                  "rv_02": [
+                        -1.18,
+                        -1.16,
+                        -1.05,
+                        -0.16,
+                        1.05,
+                        2.14
+                  ],
+                  "rv_03": [
+                        -1.45,
+                        -0.58,
+                        -1.48,
+                        1.74,
+                        2.04,
+                        1.77
+                  ],
+                  "rv_04": [
+                        -1.73,
+                        -1.26,
+                        -2.37,
+                        1.11,
+                        1.06,
+                        3.21
+                  ],
+                  "rv_05": [
+                        -0.59,
+                        -0.91,
+                        -1.06,
+                        2.92,
+                        2,
+                        2.73
+                  ],
+                  "rv_06": [
+                        -3.16,
+                        -2.22,
+                        -2.81,
+                        2.8,
+                        1.36,
+                        1.88
+                  ],
+                  "rv_07": [
+                        -1.56,
+                        -0.51,
+                        -2.87,
+                        0.97,
+                        2.9,
+                        0.78
+                  ],
+                  "rv_08": [
+                        -1.5,
+                        -2.63,
+                        -2.12,
+                        0,
+                        2.78,
+                        1.45
+                  ],
+                  "rv_09": [
+                        -2.99,
+                        0.28,
+                        -1.22,
+                        5.86,
+                        2.45,
+                        1.62
+                  ],
+                  "rv_10": [
+                        -1.88,
+                        -0.23,
+                        -2.03,
+                        2.5,
+                        2.57,
+                        1
+                  ],
+                  "rv_11": [
+                        -1.86,
+                        -2.55,
+                        -3.37,
+                        2.96,
+                        2.73,
+                        2.08
+                  ],
+                  "rv_12": [
+                        -3,
+                        -4.21,
+                        -1.47,
+                        1.89,
+                        0.15,
+                        1.93
+                  ]
+            },
+            "z": {
+                  "c": [
+                        "G1",
+                        "G2",
+                        "G3",
+                        "G4",
+                        "G1",
+                        "G2",
+                        "G3",
+                        "G4"
+                  ],
+                  "p1_a": [
+                        6.31,
+                        2.74,
+                        4.53,
+                        3.5,
+                        4.93,
+                        2.6,
+                        5,
+                        3.31
+                  ],
+                  "p1_b": [
+                        5.39,
+                        4.44,
+                        3.71,
+                        2.33,
+                        4.65,
+                        4.2,
+                        5.96,
+                        2.93
+                  ],
+                  "p1_c": [
+                        4.33,
+                        4.26,
+                        3.92,
+                        3.81,
+                        3.77,
+                        2.6,
+                        1.98,
+                        2.91
+                  ],
+                  "p1_d": [
+                        4.39,
+                        5.77,
+                        4.97,
+                        5.08,
+                        4.67,
+                        4.55,
+                        3.78,
+                        4.66
+                  ],
+                  "p2": [
+                        5.85,
+                        5.02,
+                        2.52,
+                        5.42,
+                        2.05,
+                        2.97,
+                        5.27,
+                        4.21
+                  ],
+                  "F1_01": [
+                        0.58,
+                        0.06,
+                        -1.79,
+                        -0.19,
+                        1.01,
+                        2.9,
+                        3.04,
+                        1.82
+                  ],
+                  "F1_02": [
+                        -3.23,
+                        -5.86,
+                        -0.41,
+                        0.63,
+                        4.33,
+                        -0.25,
+                        1.59,
+                        2.7
+                  ],
+                  "F1_03": [
+                        0.21,
+                        0.36,
+                        -0.75,
+                        -0.76,
+                        -0.6,
+                        1.83,
+                        0.98,
+                        0.97
+                  ],
+                  "F1_04": [
+                        -2.13,
+                        -2.53,
+                        -3.98,
+                        -0.35,
+                        3.83,
+                        1.75,
+                        1.78,
+                        0.78
+                  ],
+                  "F1_05": [
+                        -3.51,
+                        -1.62,
+                        -3.59,
+                        1.63,
+                        3.1,
+                        1.56,
+                        2.67,
+                        -0.88
+                  ],
+                  "F1_06": [
+                        -3.61,
+                        -1.7,
+                        -0.11,
+                        -4.27,
+                        0.48,
+                        1.48,
+                        1.8,
+                        0.34
+                  ],
+                  "F1_07": [
+                        -3.03,
+                        -0.61,
+                        1.83,
+                        -1.21,
+                        3.78,
+                        1.86,
+                        1.21,
+                        1.33
+                  ],
+                  "F1_08": [
+                        -2.05,
+                        -1.85,
+                        -0.82,
+                        -3.71,
+                        -0.76,
+                        3.44,
+                        1.03,
+                        4.69
+                  ],
+                  "F1_09": [
+                        -1.03,
+                        -0.16,
+                        0.28,
+                        -4.91,
+                        1.6,
+                        -2.68,
+                        1.44,
+                        2.58
+                  ],
+                  "F1_10": [
+                        -1.37,
+                        -2.03,
+                        -1.46,
+                        -1.28,
+                        1.79,
+                        1.13,
+                        1.21,
+                        1.29
+                  ],
+                  "F1_11": [
+                        -2.19,
+                        -0.67,
+                        -3.03,
+                        -2.75,
+                        0.47,
+                        0.12,
+                        3.1,
+                        -1.69
+                  ],
+                  "F1_12": [
+                        -2.29,
+                        -1.09,
+                        -3.08,
+                        -3.09,
+                        0.91,
+                        0.05,
+                        0.53,
+                        3.17
+                  ],
+                  "F1_13": [
+                        -2.71,
+                        -0.87,
+                        1.21,
+                        -3.62,
+                        3.92,
+                        1.79,
+                        0.68,
+                        0.29
+                  ],
+                  "F1_14": [
+                        -3.92,
+                        -3.66,
+                        -4.29,
+                        -0.76,
+                        3.09,
+                        1.94,
+                        4.57,
+                        2.55
+                  ],
+                  "F1_15": [
+                        -3.87,
+                        -0.2,
+                        -1.5,
+                        -1.55,
+                        -0.15,
+                        1.5,
+                        2.93,
+                        -0.16
+                  ],
+                  "F1_16": [
+                        -2.12,
+                        -3.54,
+                        -0.48,
+                        -3.15,
+                        1.61,
+                        4.35,
+                        2.97,
+                        0.45
+                  ]
+            }
+      },
+      "config": {
+            "graphType": "Heatmap",
+            "samplesClustered": true,
+            "variablesClustered": true,
+            "colorSpectrum": [
+                  "blue",
+                  "white",
+                  "red"
+            ],
+            "varOverlays": [
+                  "c",
+                  "-",
+                  "p1_a",
+                  "p1_b",
+                  "p1_c",
+                  "p1_d",
+                  "-",
+                  "p2",
+                  "-",
+                  "F1_01",
+                  "F1_02",
+                  "F1_03",
+                  "F1_04",
+                  "F1_05",
+                  "F1_06",
+                  "F1_07",
+                  "F1_08",
+                  "F1_09",
+                  "F1_10",
+                  "F1_11",
+                  "F1_12",
+                  "F1_13",
+                  "F1_14",
+                  "F1_15",
+                  "F1_16"
+            ],
+            "varOverlayProperties": {
+                  "c": {
+                        "type": "Default",
+                        "position": "top",
+                        "showLegend": true,
+                        "thickness": 20
+                  },
+                  "p1_a": {
+                        "type": "Pie",
+                        "position": "top",
+                        "showLegend": true,
+                        "thickness": 50,
+                        "hideName": true
+                  },
+                  "p1_b": {
+                        "type": "Pie",
+                        "position": "top",
+                        "showLegend": true,
+                        "thickness": 50,
+                        "hideName": true
+                  },
+                  "p1_c": {
+                        "type": "Pie",
+                        "position": "top",
+                        "showLegend": true,
+                        "thickness": 50,
+                        "hideName": true
+                  },
+                  "p1_d": {
+                        "type": "Pie",
+                        "position": "top",
+                        "showLegend": true,
+                        "thickness": 50,
+                        "hideName": true
+                  },
+                  "p2": {
+                        "type": "Bar",
+                        "position": "top",
+                        "color": "rgb(49,130,189)",
+                        "thickness": 40,
+                        "hideName": true
+                  },
+                  "F1_01": {
+                        "type": "Violin",
+                        "position": "top",
+                        "color": "rgb(49,130,189)",
+                        "thickness": 90,
+                        "hideName": true
+                  },
+                  "F1_02": {
+                        "type": "Violin",
+                        "position": "top",
+                        "color": "rgb(49,130,189)",
+                        "thickness": 90,
+                        "hideName": true
+                  },
+                  "F1_03": {
+                        "type": "Violin",
+                        "position": "top",
+                        "color": "rgb(49,130,189)",
+                        "thickness": 90,
+                        "hideName": true
+                  },
+                  "F1_04": {
+                        "type": "Violin",
+                        "position": "top",
+                        "color": "rgb(49,130,189)",
+                        "thickness": 90,
+                        "hideName": true
+                  },
+                  "F1_05": {
+                        "type": "Violin",
+                        "position": "top",
+                        "color": "rgb(49,130,189)",
+                        "thickness": 90,
+                        "hideName": true
+                  },
+                  "F1_06": {
+                        "type": "Violin",
+                        "position": "top",
+                        "color": "rgb(49,130,189)",
+                        "thickness": 90,
+                        "hideName": true
+                  },
+                  "F1_07": {
+                        "type": "Violin",
+                        "position": "top",
+                        "color": "rgb(49,130,189)",
+                        "thickness": 90,
+                        "hideName": true
+                  },
+                  "F1_08": {
+                        "type": "Violin",
+                        "position": "top",
+                        "color": "rgb(49,130,189)",
+                        "thickness": 90,
+                        "hideName": true
+                  },
+                  "F1_09": {
+                        "type": "Violin",
+                        "position": "top",
+                        "color": "rgb(49,130,189)",
+                        "thickness": 90,
+                        "hideName": true
+                  },
+                  "F1_10": {
+                        "type": "Violin",
+                        "position": "top",
+                        "color": "rgb(49,130,189)",
+                        "thickness": 90,
+                        "hideName": true
+                  },
+                  "F1_11": {
+                        "type": "Violin",
+                        "position": "top",
+                        "color": "rgb(49,130,189)",
+                        "thickness": 90,
+                        "hideName": true
+                  },
+                  "F1_12": {
+                        "type": "Violin",
+                        "position": "top",
+                        "color": "rgb(49,130,189)",
+                        "thickness": 90,
+                        "hideName": true
+                  },
+                  "F1_13": {
+                        "type": "Violin",
+                        "position": "top",
+                        "color": "rgb(49,130,189)",
+                        "thickness": 90,
+                        "hideName": true
+                  },
+                  "F1_14": {
+                        "type": "Violin",
+                        "position": "top",
+                        "color": "rgb(49,130,189)",
+                        "thickness": 90,
+                        "hideName": true
+                  },
+                  "F1_15": {
+                        "type": "Violin",
+                        "position": "top",
+                        "color": "rgb(49,130,189)",
+                        "thickness": 90,
+                        "hideName": true
+                  },
+                  "F1_16": {
+                        "type": "Violin",
+                        "position": "top",
+                        "color": "rgb(49,130,189)",
+                        "thickness": 90,
+                        "hideName": true
+                  }
+            },
+            "smpOverlays": [
+                  "rows",
+                  "-",
+                  "rp_a",
+                  "rp_b",
+                  "rp_c",
+                  "-",
+                  "rv_01",
+                  "rv_02",
+                  "rv_03",
+                  "rv_04",
+                  "rv_05",
+                  "rv_06",
+                  "rv_07",
+                  "rv_08",
+                  "rv_09",
+                  "rv_10",
+                  "rv_11",
+                  "rv_12"
+            ],
+            "smpOverlayProperties": {
+                  "rows": {
+                        "type": "Default",
+                        "position": "left",
+                        "showLegend": true,
+                        "thickness": 20
+                  },
+                  "rp_a": {
+                        "type": "Pie",
+                        "position": "right",
+                        "showLegend": true,
+                        "thickness": 50,
+                        "hideName": true
+                  },
+                  "rp_b": {
+                        "type": "Pie",
+                        "position": "right",
+                        "showLegend": true,
+                        "thickness": 50,
+                        "hideName": true
+                  },
+                  "rp_c": {
+                        "type": "Pie",
+                        "position": "right",
+                        "showLegend": true,
+                        "thickness": 50,
+                        "hideName": true
+                  },
+                  "rv_01": {
+                        "type": "Violin",
+                        "position": "right",
+                        "color": "rgb(49,130,189)",
+                        "thickness": 80,
+                        "hideName": true
+                  },
+                  "rv_02": {
+                        "type": "Violin",
+                        "position": "right",
+                        "color": "rgb(49,130,189)",
+                        "thickness": 80,
+                        "hideName": true
+                  },
+                  "rv_03": {
+                        "type": "Violin",
+                        "position": "right",
+                        "color": "rgb(49,130,189)",
+                        "thickness": 80,
+                        "hideName": true
+                  },
+                  "rv_04": {
+                        "type": "Violin",
+                        "position": "right",
+                        "color": "rgb(49,130,189)",
+                        "thickness": 80,
+                        "hideName": true
+                  },
+                  "rv_05": {
+                        "type": "Violin",
+                        "position": "right",
+                        "color": "rgb(49,130,189)",
+                        "thickness": 80,
+                        "hideName": true
+                  },
+                  "rv_06": {
+                        "type": "Violin",
+                        "position": "right",
+                        "color": "rgb(49,130,189)",
+                        "thickness": 80,
+                        "hideName": true
+                  },
+                  "rv_07": {
+                        "type": "Violin",
+                        "position": "right",
+                        "color": "rgb(49,130,189)",
+                        "thickness": 80,
+                        "hideName": true
+                  },
+                  "rv_08": {
+                        "type": "Violin",
+                        "position": "right",
+                        "color": "rgb(49,130,189)",
+                        "thickness": 80,
+                        "hideName": true
+                  },
+                  "rv_09": {
+                        "type": "Violin",
+                        "position": "right",
+                        "color": "rgb(49,130,189)",
+                        "thickness": 80,
+                        "hideName": true
+                  },
+                  "rv_10": {
+                        "type": "Violin",
+                        "position": "right",
+                        "color": "rgb(49,130,189)",
+                        "thickness": 80,
+                        "hideName": true
+                  },
+                  "rv_11": {
+                        "type": "Violin",
+                        "position": "right",
+                        "color": "rgb(49,130,189)",
+                        "thickness": 80,
+                        "hideName": true
+                  },
+                  "rv_12": {
+                        "type": "Violin",
+                        "position": "right",
+                        "color": "rgb(49,130,189)",
+                        "thickness": 80,
+                        "hideName": true
+                  }
+            },
+            "showSmpDendrogram": true,
+            "showVarDendrogram": true,
+            "title": "Heatmap with violin, pie, bar and categorical annotation tracks",
+            "graphOrientation": "horizontal"
+      },
+      "events": {},
+      "info": false,
+      "afterRender": [
+            [
+                  "setDimensions",
+                  [
+                        596,
+                        596,
+                        true
+                  ]
+            ],
+            [
+                  "setDimensions",
+                  [
+                        800,
+                        800
+                  ],
+                  {},
+                  false,
+                  1791829417621
+            ]
+      ],
+      "noValidate": true,
+      "factory": {
+            "version": 71.3,
+            "specSchemaVersion": "1.0",
+            "buildDate": "10-11-2026",
+            "client": "MDo6MTo6NzEuMzo6Y2FudmFzeHByZXNzLm9yZzo6",
+            "siteSrc": false,
+            "href": "https://canvasxpress.org/examples/heatmap-20.html",
+            "services": "https://www.canvasxpress.org/cgi-bin/services.py"
+      },
+      "system": {
+            "browser": "Chrome",
+            "browserVersion": "153",
+            "os": "Mac OS",
+            "alt": "&#8997;",
+            "command": "&#8984;",
+            "control": "&#8963;",
+            "shift": "&#8679;",
+            "isNode": false,
+            "isReact": false,
+            "isjQuery": true,
+            "isReveal": false,
+            "isZoom": false,
+            "isIE": false,
+            "isInIframe": false,
+            "isR": false,
+            "isHTMLWidgets": false,
+            "isShiny": false,
+            "isRViewer": false,
+            "isRConsole": false,
+            "isCxplot": false,
+            "isGGMatrix": false,
+            "isJupyter": false,
+            "isVSCode": false
+      }
+}

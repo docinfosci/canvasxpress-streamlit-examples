@@ -1,0 +1,243 @@
+{
+      "version": 71.3,
+      "renderTo": "contour4",
+      "data": {
+            "y": {
+                  "data": [
+                        [
+                              -9,
+                              0,
+                              10
+                        ],
+                        [
+                              -9,
+                              1,
+                              5.625
+                        ],
+                        [
+                              -9,
+                              4,
+                              2.5
+                        ],
+                        [
+                              -9,
+                              5,
+                              0.625
+                        ],
+                        [
+                              -9,
+                              7,
+                              0
+                        ],
+                        [
+                              -6,
+                              0,
+                              10.625
+                        ],
+                        [
+                              -6,
+                              1,
+                              6.25
+                        ],
+                        [
+                              -6,
+                              4,
+                              3.125
+                        ],
+                        [
+                              -6,
+                              5,
+                              1.25
+                        ],
+                        [
+                              -6,
+                              7,
+                              0.625
+                        ],
+                        [
+                              -5,
+                              0,
+                              12.5
+                        ],
+                        [
+                              -5,
+                              1,
+                              8.125
+                        ],
+                        [
+                              -5,
+                              4,
+                              5
+                        ],
+                        [
+                              -5,
+                              5,
+                              3.125
+                        ],
+                        [
+                              -5,
+                              7,
+                              2.5
+                        ],
+                        [
+                              -3,
+                              0,
+                              15.625
+                        ],
+                        [
+                              -3,
+                              1,
+                              11.25
+                        ],
+                        [
+                              -3,
+                              4,
+                              8.125
+                        ],
+                        [
+                              -3,
+                              5,
+                              6.25
+                        ],
+                        [
+                              -3,
+                              7,
+                              5.625
+                        ],
+                        [
+                              -1,
+                              0,
+                              20
+                        ],
+                        [
+                              -1,
+                              1,
+                              15.625
+                        ],
+                        [
+                              -1,
+                              4,
+                              12.5
+                        ],
+                        [
+                              -1,
+                              5,
+                              10.625
+                        ],
+                        [
+                              -1,
+                              7,
+                              10
+                        ]
+                  ],
+                  "smps": [
+                        "s1",
+                        "s2",
+                        "s3"
+                  ],
+                  "vars": [
+                        "v1",
+                        "v2",
+                        "v3",
+                        "v4",
+                        "v5",
+                        "v6",
+                        "v7",
+                        "v8",
+                        "v9",
+                        "v10",
+                        "v11",
+                        "v12",
+                        "v13",
+                        "v14",
+                        "v15",
+                        "v16",
+                        "v17",
+                        "v18",
+                        "v19",
+                        "v20",
+                        "v21",
+                        "v22",
+                        "v23",
+                        "v24",
+                        "v25"
+                  ]
+            }
+      },
+      "config": {
+            "contourFilled": true,
+            "contourType": "normal",
+            "graphType": "ScatterBubble2D",
+            "title": "Custom Contour Plot",
+            "xAxis": [
+                  "s1"
+            ],
+            "yAxis": [
+                  "s2"
+            ],
+            "zAxis": [
+                  "s3"
+            ]
+      },
+      "events": {},
+      "info": false,
+      "afterRender": [
+            [
+                  "setDimensions",
+                  [
+                        596,
+                        596,
+                        true
+                  ]
+            ],
+            [
+                  "createContour",
+                  []
+            ],
+            [
+                  "setDimensions",
+                  [
+                        800,
+                        800
+                  ],
+                  {},
+                  false,
+                  1791828228074
+            ]
+      ],
+      "noValidate": true,
+      "factory": {
+            "version": 71.3,
+            "specSchemaVersion": "1.0",
+            "buildDate": "10-11-2026",
+            "client": "MDo6MTo6NzEuMzo6Y2FudmFzeHByZXNzLm9yZzo6",
+            "siteSrc": false,
+            "href": "https://canvasxpress.org/examples/contour-4.html",
+            "services": "https://www.canvasxpress.org/cgi-bin/services.py"
+      },
+      "system": {
+            "browser": "Chrome",
+            "browserVersion": "153",
+            "os": "Mac OS",
+            "alt": "&#8997;",
+            "command": "&#8984;",
+            "control": "&#8963;",
+            "shift": "&#8679;",
+            "isNode": false,
+            "isReact": false,
+            "isjQuery": true,
+            "isReveal": false,
+            "isZoom": false,
+            "isIE": false,
+            "isInIframe": false,
+            "isR": false,
+            "isHTMLWidgets": false,
+            "isShiny": false,
+            "isRViewer": false,
+            "isRConsole": false,
+            "isCxplot": false,
+            "isGGMatrix": false,
+            "isJupyter": false,
+            "isVSCode": false
+      }
+}

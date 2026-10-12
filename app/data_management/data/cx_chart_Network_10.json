@@ -1,0 +1,1593 @@
+{
+      "version": 71.3,
+      "renderTo": "network10",
+      "data": {
+            "constraints": [
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id0",
+                        "rightId": "Id1"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id0",
+                        "rightId": "Id2"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id0",
+                        "rightId": "Id9"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id0",
+                        "rightId": "Id11"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id1",
+                        "rightId": "Id78"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id2",
+                        "rightId": "Id3"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id3",
+                        "rightId": "Id4"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id4",
+                        "rightId": "Id5"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id5",
+                        "rightId": "Id6"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id6",
+                        "rightId": "Id10"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id7",
+                        "rightId": "Id8"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id7",
+                        "rightId": "Id11"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id8",
+                        "rightId": "Id12"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id9",
+                        "rightId": "Id18"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id10",
+                        "rightId": "Id35"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id12",
+                        "rightId": "Id13"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id12",
+                        "rightId": "Id14"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id12",
+                        "rightId": "Id15"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id12",
+                        "rightId": "Id16"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id12",
+                        "rightId": "Id17"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id12",
+                        "rightId": "Id19"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id12",
+                        "rightId": "Id20"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id12",
+                        "rightId": "Id21"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id12",
+                        "rightId": "Id23"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id12",
+                        "rightId": "Id25"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id12",
+                        "rightId": "Id26"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id12",
+                        "rightId": "Id28"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id12",
+                        "rightId": "Id29"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id12",
+                        "rightId": "Id31"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id13",
+                        "rightId": "Id24"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id14",
+                        "rightId": "Id45"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id15",
+                        "rightId": "Id22"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id16",
+                        "rightId": "Id49"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id18",
+                        "rightId": "Id30"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id19",
+                        "rightId": "Id39"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id20",
+                        "rightId": "Id40"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id21",
+                        "rightId": "Id50"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id22",
+                        "rightId": "Id27"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id23",
+                        "rightId": "Id63"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id24",
+                        "rightId": "Id72"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id26",
+                        "rightId": "Id60"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id27",
+                        "rightId": "Id68"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id29",
+                        "rightId": "Id59"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id31",
+                        "rightId": "Id32"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id31",
+                        "rightId": "Id33"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id31",
+                        "rightId": "Id34"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id31",
+                        "rightId": "Id36"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id31",
+                        "rightId": "Id37"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id31",
+                        "rightId": "Id38"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id32",
+                        "rightId": "Id58"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id33",
+                        "rightId": "Id75"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id34",
+                        "rightId": "Id41"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id35",
+                        "rightId": "Id48"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id36",
+                        "rightId": "Id76"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id37",
+                        "rightId": "Id42"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id38",
+                        "rightId": "Id44"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id38",
+                        "rightId": "Id46"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id38",
+                        "rightId": "Id47"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id39",
+                        "rightId": "Id43"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id40",
+                        "rightId": "Id57"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id41",
+                        "rightId": "Id67"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id42",
+                        "rightId": "Id74"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id43",
+                        "rightId": "Id51"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id48",
+                        "rightId": "Id52"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id48",
+                        "rightId": "Id53"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id48",
+                        "rightId": "Id54"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id48",
+                        "rightId": "Id55"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id48",
+                        "rightId": "Id56"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id48",
+                        "rightId": "Id61"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id48",
+                        "rightId": "Id62"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id62",
+                        "rightId": "Id64"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id62",
+                        "rightId": "Id65"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id62",
+                        "rightId": "Id66"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id62",
+                        "rightId": "Id69"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id69",
+                        "rightId": "Id70"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id69",
+                        "rightId": "Id71"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id69",
+                        "rightId": "Id73"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id69",
+                        "rightId": "Id77"
+                  },
+                  {
+                        "axis": "y",
+                        "gap": 25,
+                        "leftId": "Id78",
+                        "rightId": "Id79"
+                  }
+            ],
+            "edges": [
+                  {
+                        "id1": "Id0",
+                        "id2": "Id1",
+                        "value": 1,
+                        "id": "Id0 -> Id1"
+                  },
+                  {
+                        "id1": "Id0",
+                        "id2": "Id2",
+                        "value": 1,
+                        "id": "Id0 -> Id2"
+                  },
+                  {
+                        "id1": "Id0",
+                        "id2": "Id9",
+                        "value": 1,
+                        "id": "Id0 -> Id9"
+                  },
+                  {
+                        "id1": "Id0",
+                        "id2": "Id11",
+                        "value": 1,
+                        "id": "Id0 -> Id11"
+                  },
+                  {
+                        "id1": "Id1",
+                        "id2": "Id78",
+                        "value": 1,
+                        "id": "Id1 -> Id78"
+                  },
+                  {
+                        "id1": "Id2",
+                        "id2": "Id3",
+                        "value": 1,
+                        "id": "Id2 -> Id3"
+                  },
+                  {
+                        "id1": "Id3",
+                        "id2": "Id4",
+                        "value": 1,
+                        "id": "Id3 -> Id4"
+                  },
+                  {
+                        "id1": "Id4",
+                        "id2": "Id5",
+                        "value": 1,
+                        "id": "Id4 -> Id5"
+                  },
+                  {
+                        "id1": "Id5",
+                        "id2": "Id6",
+                        "value": 1,
+                        "id": "Id5 -> Id6"
+                  },
+                  {
+                        "id1": "Id6",
+                        "id2": "Id10",
+                        "value": 1,
+                        "id": "Id6 -> Id10"
+                  },
+                  {
+                        "id1": "Id7",
+                        "id2": "Id8",
+                        "value": 1,
+                        "id": "Id7 -> Id8"
+                  },
+                  {
+                        "id1": "Id7",
+                        "id2": "Id11",
+                        "value": 1,
+                        "id": "Id7 -> Id11"
+                  },
+                  {
+                        "id1": "Id8",
+                        "id2": "Id12",
+                        "value": 1,
+                        "id": "Id8 -> Id12"
+                  },
+                  {
+                        "id1": "Id9",
+                        "id2": "Id18",
+                        "value": 1,
+                        "id": "Id9 -> Id18"
+                  },
+                  {
+                        "id1": "Id10",
+                        "id2": "Id35",
+                        "value": 1,
+                        "id": "Id10 -> Id35"
+                  },
+                  {
+                        "id1": "Id12",
+                        "id2": "Id13",
+                        "value": 1,
+                        "id": "Id12 -> Id13"
+                  },
+                  {
+                        "id1": "Id12",
+                        "id2": "Id14",
+                        "value": 1,
+                        "id": "Id12 -> Id14"
+                  },
+                  {
+                        "id1": "Id12",
+                        "id2": "Id15",
+                        "value": 1,
+                        "id": "Id12 -> Id15"
+                  },
+                  {
+                        "id1": "Id12",
+                        "id2": "Id16",
+                        "value": 1,
+                        "id": "Id12 -> Id16"
+                  },
+                  {
+                        "id1": "Id12",
+                        "id2": "Id17",
+                        "value": 1,
+                        "id": "Id12 -> Id17"
+                  },
+                  {
+                        "id1": "Id12",
+                        "id2": "Id19",
+                        "value": 1,
+                        "id": "Id12 -> Id19"
+                  },
+                  {
+                        "id1": "Id12",
+                        "id2": "Id20",
+                        "value": 1,
+                        "id": "Id12 -> Id20"
+                  },
+                  {
+                        "id1": "Id12",
+                        "id2": "Id21",
+                        "value": 1,
+                        "id": "Id12 -> Id21"
+                  },
+                  {
+                        "id1": "Id12",
+                        "id2": "Id23",
+                        "value": 1,
+                        "id": "Id12 -> Id23"
+                  },
+                  {
+                        "id1": "Id12",
+                        "id2": "Id25",
+                        "value": 1,
+                        "id": "Id12 -> Id25"
+                  },
+                  {
+                        "id1": "Id12",
+                        "id2": "Id26",
+                        "value": 1,
+                        "id": "Id12 -> Id26"
+                  },
+                  {
+                        "id1": "Id12",
+                        "id2": "Id28",
+                        "value": 1,
+                        "id": "Id12 -> Id28"
+                  },
+                  {
+                        "id1": "Id12",
+                        "id2": "Id29",
+                        "value": 1,
+                        "id": "Id12 -> Id29"
+                  },
+                  {
+                        "id1": "Id12",
+                        "id2": "Id31",
+                        "value": 1,
+                        "id": "Id12 -> Id31"
+                  },
+                  {
+                        "id1": "Id13",
+                        "id2": "Id24",
+                        "value": 1,
+                        "id": "Id13 -> Id24"
+                  },
+                  {
+                        "id1": "Id14",
+                        "id2": "Id45",
+                        "value": 1,
+                        "id": "Id14 -> Id45"
+                  },
+                  {
+                        "id1": "Id15",
+                        "id2": "Id22",
+                        "value": 1,
+                        "id": "Id15 -> Id22"
+                  },
+                  {
+                        "id1": "Id16",
+                        "id2": "Id49",
+                        "value": 1,
+                        "id": "Id16 -> Id49"
+                  },
+                  {
+                        "id1": "Id18",
+                        "id2": "Id30",
+                        "value": 1,
+                        "id": "Id18 -> Id30"
+                  },
+                  {
+                        "id1": "Id19",
+                        "id2": "Id39",
+                        "value": 1,
+                        "id": "Id19 -> Id39"
+                  },
+                  {
+                        "id1": "Id20",
+                        "id2": "Id40",
+                        "value": 1,
+                        "id": "Id20 -> Id40"
+                  },
+                  {
+                        "id1": "Id21",
+                        "id2": "Id50",
+                        "value": 1,
+                        "id": "Id21 -> Id50"
+                  },
+                  {
+                        "id1": "Id22",
+                        "id2": "Id27",
+                        "value": 1,
+                        "id": "Id22 -> Id27"
+                  },
+                  {
+                        "id1": "Id23",
+                        "id2": "Id63",
+                        "value": 1,
+                        "id": "Id23 -> Id63"
+                  },
+                  {
+                        "id1": "Id24",
+                        "id2": "Id72",
+                        "value": 1,
+                        "id": "Id24 -> Id72"
+                  },
+                  {
+                        "id1": "Id26",
+                        "id2": "Id60",
+                        "value": 1,
+                        "id": "Id26 -> Id60"
+                  },
+                  {
+                        "id1": "Id27",
+                        "id2": "Id68",
+                        "value": 1,
+                        "id": "Id27 -> Id68"
+                  },
+                  {
+                        "id1": "Id29",
+                        "id2": "Id59",
+                        "value": 1,
+                        "id": "Id29 -> Id59"
+                  },
+                  {
+                        "id1": "Id31",
+                        "id2": "Id32",
+                        "value": 1,
+                        "id": "Id31 -> Id32"
+                  },
+                  {
+                        "id1": "Id31",
+                        "id2": "Id33",
+                        "value": 1,
+                        "id": "Id31 -> Id33"
+                  },
+                  {
+                        "id1": "Id31",
+                        "id2": "Id34",
+                        "value": 1,
+                        "id": "Id31 -> Id34"
+                  },
+                  {
+                        "id1": "Id31",
+                        "id2": "Id36",
+                        "value": 1,
+                        "id": "Id31 -> Id36"
+                  },
+                  {
+                        "id1": "Id31",
+                        "id2": "Id37",
+                        "value": 1,
+                        "id": "Id31 -> Id37"
+                  },
+                  {
+                        "id1": "Id31",
+                        "id2": "Id38",
+                        "value": 1,
+                        "id": "Id31 -> Id38"
+                  },
+                  {
+                        "id1": "Id32",
+                        "id2": "Id58",
+                        "value": 1,
+                        "id": "Id32 -> Id58"
+                  },
+                  {
+                        "id1": "Id33",
+                        "id2": "Id75",
+                        "value": 1,
+                        "id": "Id33 -> Id75"
+                  },
+                  {
+                        "id1": "Id34",
+                        "id2": "Id41",
+                        "value": 1,
+                        "id": "Id34 -> Id41"
+                  },
+                  {
+                        "id1": "Id35",
+                        "id2": "Id48",
+                        "value": 1,
+                        "id": "Id35 -> Id48"
+                  },
+                  {
+                        "id1": "Id36",
+                        "id2": "Id76",
+                        "value": 1,
+                        "id": "Id36 -> Id76"
+                  },
+                  {
+                        "id1": "Id37",
+                        "id2": "Id42",
+                        "value": 1,
+                        "id": "Id37 -> Id42"
+                  },
+                  {
+                        "id1": "Id38",
+                        "id2": "Id44",
+                        "value": 1,
+                        "id": "Id38 -> Id44"
+                  },
+                  {
+                        "id1": "Id38",
+                        "id2": "Id46",
+                        "value": 1,
+                        "id": "Id38 -> Id46"
+                  },
+                  {
+                        "id1": "Id38",
+                        "id2": "Id47",
+                        "value": 1,
+                        "id": "Id38 -> Id47"
+                  },
+                  {
+                        "id1": "Id39",
+                        "id2": "Id43",
+                        "value": 1,
+                        "id": "Id39 -> Id43"
+                  },
+                  {
+                        "id1": "Id40",
+                        "id2": "Id57",
+                        "value": 1,
+                        "id": "Id40 -> Id57"
+                  },
+                  {
+                        "id1": "Id41",
+                        "id2": "Id67",
+                        "value": 1,
+                        "id": "Id41 -> Id67"
+                  },
+                  {
+                        "id1": "Id42",
+                        "id2": "Id74",
+                        "value": 1,
+                        "id": "Id42 -> Id74"
+                  },
+                  {
+                        "id1": "Id43",
+                        "id2": "Id51",
+                        "value": 1,
+                        "id": "Id43 -> Id51"
+                  },
+                  {
+                        "id1": "Id48",
+                        "id2": "Id52",
+                        "value": 1,
+                        "id": "Id48 -> Id52"
+                  },
+                  {
+                        "id1": "Id48",
+                        "id2": "Id53",
+                        "value": 1,
+                        "id": "Id48 -> Id53"
+                  },
+                  {
+                        "id1": "Id48",
+                        "id2": "Id54",
+                        "value": 1,
+                        "id": "Id48 -> Id54"
+                  },
+                  {
+                        "id1": "Id48",
+                        "id2": "Id55",
+                        "value": 1,
+                        "id": "Id48 -> Id55"
+                  },
+                  {
+                        "id1": "Id48",
+                        "id2": "Id56",
+                        "value": 1,
+                        "id": "Id48 -> Id56"
+                  },
+                  {
+                        "id1": "Id48",
+                        "id2": "Id61",
+                        "value": 1,
+                        "id": "Id48 -> Id61"
+                  },
+                  {
+                        "id1": "Id48",
+                        "id2": "Id62",
+                        "value": 1,
+                        "id": "Id48 -> Id62"
+                  },
+                  {
+                        "id1": "Id62",
+                        "id2": "Id64",
+                        "value": 1,
+                        "id": "Id62 -> Id64"
+                  },
+                  {
+                        "id1": "Id62",
+                        "id2": "Id65",
+                        "value": 1,
+                        "id": "Id62 -> Id65"
+                  },
+                  {
+                        "id1": "Id62",
+                        "id2": "Id66",
+                        "value": 1,
+                        "id": "Id62 -> Id66"
+                  },
+                  {
+                        "id1": "Id62",
+                        "id2": "Id69",
+                        "value": 1,
+                        "id": "Id62 -> Id69"
+                  },
+                  {
+                        "id1": "Id69",
+                        "id2": "Id70",
+                        "value": 1,
+                        "id": "Id69 -> Id70"
+                  },
+                  {
+                        "id1": "Id69",
+                        "id2": "Id71",
+                        "value": 1,
+                        "id": "Id69 -> Id71"
+                  },
+                  {
+                        "id1": "Id69",
+                        "id2": "Id73",
+                        "value": 1,
+                        "id": "Id69 -> Id73"
+                  },
+                  {
+                        "id1": "Id69",
+                        "id2": "Id77",
+                        "value": 1,
+                        "id": "Id69 -> Id77"
+                  },
+                  {
+                        "id1": "Id78",
+                        "id2": "Id79",
+                        "value": 1,
+                        "id": "Id78 -> Id79"
+                  }
+            ],
+            "nodes": [
+                  {
+                        "id": "Id0",
+                        "name": "Toprato",
+                        "x": -7.242507072956257,
+                        "y": 8.22297241937215,
+                        "z": 6.357997081590593
+                  },
+                  {
+                        "id": "Id1",
+                        "name": "Fella",
+                        "x": -5.373906413591008,
+                        "y": 12.191918092288118,
+                        "z": 9.064032792770675
+                  },
+                  {
+                        "id": "Id2",
+                        "name": "Tirti",
+                        "x": -8.152389971609947,
+                        "y": 11.596876694363877,
+                        "z": 2.022308163764473
+                  },
+                  {
+                        "id": "Id3",
+                        "name": "LA Piu' Bella",
+                        "x": -9.087003809104145,
+                        "y": 15.003791805265394,
+                        "z": -1.9928326424461442
+                  },
+                  {
+                        "id": "Id4",
+                        "name": "Deep Shadow 1-5-8",
+                        "x": -10.082141408755058,
+                        "y": 18.467416329910026,
+                        "z": -5.69843818758552
+                  },
+                  {
+                        "id": "Id5",
+                        "name": "Oobiscus",
+                        "x": -11.129389500680418,
+                        "y": 21.951697322561753,
+                        "z": -9.152687339500137
+                  },
+                  {
+                        "id": "Id6",
+                        "name": "Rioky",
+                        "x": -12.206886428179773,
+                        "y": 25.427779148201832,
+                        "z": -12.444680561387651
+                  },
+                  {
+                        "id": "Id7",
+                        "name": "Klashe",
+                        "x": -2.022820190453358,
+                        "y": -3.341840832767943,
+                        "z": 7.882838442480613
+                  },
+                  {
+                        "id": "Id8",
+                        "name": "Tau Beta",
+                        "x": 0.8016032001149475,
+                        "y": -9.754844108336869,
+                        "z": 8.723372042739308
+                  },
+                  {
+                        "id": "Id9",
+                        "name": "311040",
+                        "x": -12.062030727994925,
+                        "y": 8.760137927831071,
+                        "z": 7.990411982057927
+                  },
+                  {
+                        "id": "Id10",
+                        "name": "Nevf Zotsamm",
+                        "x": -13.300565721745722,
+                        "y": 28.931533857081348,
+                        "z": -15.693399876048252
+                  },
+                  {
+                        "id": "Id11",
+                        "name": "Gnaron",
+                        "x": -4.680689020057192,
+                        "y": 2.575251818990008,
+                        "z": 7.10046054842537
+                  },
+                  {
+                        "id": "Id12",
+                        "name": "Green Dor",
+                        "x": 3.648940256249524,
+                        "y": -17.624581640954858,
+                        "z": 9.516710616382417
+                  },
+                  {
+                        "id": "Id13",
+                        "name": "Gravity",
+                        "x": 7.523670148424141,
+                        "y": -11.986314164442652,
+                        "z": 11.356454748067543
+                  },
+                  {
+                        "id": "Id14",
+                        "name": "Jurrawensaed",
+                        "x": 4.140369828002804,
+                        "y": -13.998514084200986,
+                        "z": 4.703876003219052
+                  },
+                  {
+                        "id": "Id15",
+                        "name": "Andrill Primus",
+                        "x": 1.3802770317825965,
+                        "y": -20.099076145858444,
+                        "z": 16.117299274218965
+                  },
+                  {
+                        "id": "Id16",
+                        "name": "Ulti-Mad",
+                        "x": 1.0730731638908342,
+                        "y": -13.96599489420121,
+                        "z": 14.596738754134732
+                  },
+                  {
+                        "id": "Id17",
+                        "name": "Jellyfish",
+                        "x": 8.014667675182553,
+                        "y": -17.276204306499636,
+                        "z": 8.386917551979858
+                  },
+                  {
+                        "id": "Id18",
+                        "name": "Yersa",
+                        "x": -16.518569301480824,
+                        "y": 9.118038094402287,
+                        "z": 9.939145019709427
+                  },
+                  {
+                        "id": "Id19",
+                        "name": "Therfady",
+                        "x": -0.05792810439931423,
+                        "y": -19.719423710530915,
+                        "z": 3.5602187619143795
+                  },
+                  {
+                        "id": "Id20",
+                        "name": "SC 09",
+                        "x": 0.9552685026432454,
+                        "y": -24.211593107451975,
+                        "z": 8.854033218336395
+                  },
+                  {
+                        "id": "Id21",
+                        "name": "Glueck",
+                        "x": -2.029102087630525,
+                        "y": -15.557729704155589,
+                        "z": 7.819459131313393
+                  },
+                  {
+                        "id": "Id22",
+                        "name": "Fiddle",
+                        "x": -0.4470752463226277,
+                        "y": -21.88307486975388,
+                        "z": 21.871931718527993
+                  },
+                  {
+                        "id": "Id23",
+                        "name": "LV-017",
+                        "x": 5.636938384155532,
+                        "y": -22.585245915853488,
+                        "z": 12.317944846327991
+                  },
+                  {
+                        "id": "Id24",
+                        "name": "Sardinle",
+                        "x": 10.49151301454596,
+                        "y": -7.827767580127104,
+                        "z": 14.013621831492964
+                  },
+                  {
+                        "id": "Id25",
+                        "name": "Latalava",
+                        "x": 4.562870312106474,
+                        "y": -20.35292828271734,
+                        "z": 6.328318502020977
+                  },
+                  {
+                        "id": "Id26",
+                        "name": "Penumbra",
+                        "x": 7.525687266314127,
+                        "y": -17.54174792016281,
+                        "z": 14.69512888436404
+                  },
+                  {
+                        "id": "Id27",
+                        "name": "Chi Qoppa",
+                        "x": -1.952845630501935,
+                        "y": -23.24152700781873,
+                        "z": 26.748486211562426
+                  },
+                  {
+                        "id": "Id28",
+                        "name": "Vopru Maufyb",
+                        "x": 2.8070501197269055,
+                        "y": -14.666112424886416,
+                        "z": 10.99964188316507
+                  },
+                  {
+                        "id": "Id29",
+                        "name": "Onadha",
+                        "x": -1.9832667754061022,
+                        "y": -19.637100434594213,
+                        "z": 11.206567773498215
+                  },
+                  {
+                        "id": "Id30",
+                        "name": "Muplita Furr",
+                        "x": -20.433290367483384,
+                        "y": 9.442494067279844,
+                        "z": 12.160894208493103
+                  },
+                  {
+                        "id": "Id31",
+                        "name": "Psi Epsilon",
+                        "x": 12.809697582083322,
+                        "y": -20.846921446690683,
+                        "z": 4.509372281492833
+                  },
+                  {
+                        "id": "Id32",
+                        "name": "Dimloon",
+                        "x": 17.012300394996434,
+                        "y": -21.656096137926436,
+                        "z": 8.705349942422034
+                  },
+                  {
+                        "id": "Id33",
+                        "name": "Tanned I",
+                        "x": 13.639425039977164,
+                        "y": -26.569633962622813,
+                        "z": 6.148142378652936
+                  },
+                  {
+                        "id": "Id34",
+                        "name": "Woolaris 10",
+                        "x": 18.181055137579445,
+                        "y": -23.568115916713044,
+                        "z": 2.072955683986519
+                  },
+                  {
+                        "id": "Id35",
+                        "name": "Semend",
+                        "x": -14.53719936632895,
+                        "y": 32.6687288916818,
+                        "z": -19.07322392346845
+                  },
+                  {
+                        "id": "Id36",
+                        "name": "Blacus",
+                        "x": 11.298265427785367,
+                        "y": -24.8168779478533,
+                        "z": 0.5416265768383115
+                  },
+                  {
+                        "id": "Id37",
+                        "name": "Darknok",
+                        "x": 17.67848693582636,
+                        "y": -16.767172253992346,
+                        "z": 4.488083511398448
+                  },
+                  {
+                        "id": "Id38",
+                        "name": "Oastar Secundus",
+                        "x": 14.174467766715422,
+                        "y": -18.491854206690878,
+                        "z": -1.9989204702898198
+                  },
+                  {
+                        "id": "Id39",
+                        "name": "Green One",
+                        "x": -3.632236955032655,
+                        "y": -21.12010819889939,
+                        "z": -1.2996610609021209
+                  },
+                  {
+                        "id": "Id40",
+                        "name": "Kayin Minor A",
+                        "x": -1.3774030266393174,
+                        "y": -29.74093255481405,
+                        "z": 8.951183748511278
+                  },
+                  {
+                        "id": "Id41",
+                        "name": "Arton",
+                        "x": 22.763136876928304,
+                        "y": -26.51099167524768,
+                        "z": 0.18165198557300363
+                  },
+                  {
+                        "id": "Id42",
+                        "name": "Anerstis",
+                        "x": 22.322825656722316,
+                        "y": -13.327139390255839,
+                        "z": 4.538666889300367
+                  },
+                  {
+                        "id": "Id43",
+                        "name": "Lament",
+                        "x": -6.973920215306065,
+                        "y": -22.569579485982377,
+                        "z": -5.243687076862462
+                  },
+                  {
+                        "id": "Id44",
+                        "name": "Shaison",
+                        "x": 12.492360175226212,
+                        "y": -19.095200713632252,
+                        "z": -6.7876638830808504
+                  },
+                  {
+                        "id": "Id45",
+                        "name": "Rekini-H-S6",
+                        "x": 4.37497061006419,
+                        "y": -10.892823083785906,
+                        "z": 0.8457602104580958
+                  },
+                  {
+                        "id": "Id46",
+                        "name": "Darkless",
+                        "x": 14.016055926540782,
+                        "y": -14.052353813499117,
+                        "z": -4.248735820936478
+                  },
+                  {
+                        "id": "Id47",
+                        "name": "MBTP 20",
+                        "x": 17.52615213538971,
+                        "y": -17.962576963598675,
+                        "z": -6.189121752408777
+                  },
+                  {
+                        "id": "Id48",
+                        "name": "Yankee Quebec",
+                        "x": -16.06643704423668,
+                        "y": 36.97965353129233,
+                        "z": -23.012415120200487
+                  },
+                  {
+                        "id": "Id49",
+                        "name": "Shere Jauj-Bred",
+                        "x": -0.9267161301402802,
+                        "y": -11.17175243948526,
+                        "z": 18.62347733103133
+                  },
+                  {
+                        "id": "Id50",
+                        "name": "Embalm",
+                        "x": -7.175522685068884,
+                        "y": -14.65879883426963,
+                        "z": 7.169729504017809
+                  },
+                  {
+                        "id": "Id51",
+                        "name": "Small Rock 4",
+                        "x": -9.83123744180268,
+                        "y": -24.421424918358174,
+                        "z": -8.448664814646264
+                  },
+                  {
+                        "id": "Id52",
+                        "name": "Libra-D-S3",
+                        "x": -17.577429780291887,
+                        "y": 38.928347570527016,
+                        "z": -18.496061442909497
+                  },
+                  {
+                        "id": "Id53",
+                        "name": "Dying Warmth",
+                        "x": -14.660000750631681,
+                        "y": 41.41891885176088,
+                        "z": -21.91589077559784
+                  },
+                  {
+                        "id": "Id54",
+                        "name": "Sofa",
+                        "x": -17.284209632993235,
+                        "y": 32.81561569140227,
+                        "z": -25.191426600227203
+                  },
+                  {
+                        "id": "Id55",
+                        "name": "Grobnor",
+                        "x": -11.192218590226412,
+                        "y": 37.96204036876413,
+                        "z": -21.60253615987222
+                  },
+                  {
+                        "id": "Id56",
+                        "name": "Forbidden 1",
+                        "x": -12.427309313155229,
+                        "y": 35.27883232609482,
+                        "z": -25.787962758114304
+                  },
+                  {
+                        "id": "Id57",
+                        "name": "Glimmer II",
+                        "x": -3.376700556335177,
+                        "y": -34.315774301979836,
+                        "z": 9.159429564135733
+                  },
+                  {
+                        "id": "Id58",
+                        "name": "Aleksis",
+                        "x": 20.7608446121335,
+                        "y": -22.845273814816892,
+                        "z": 12.275167076869602
+                  },
+                  {
+                        "id": "Id59",
+                        "name": "Relu",
+                        "x": -7.247229132828551,
+                        "y": -20.585957514392092,
+                        "z": 12.458969678240456
+                  },
+                  {
+                        "id": "Id60",
+                        "name": "Scoff",
+                        "x": 10.695484478456143,
+                        "y": -17.438405901599406,
+                        "z": 19.001774207609003
+                  },
+                  {
+                        "id": "Id61",
+                        "name": "Elas",
+                        "x": -20.54527993045546,
+                        "y": 35.75706084994689,
+                        "z": -21.361150385079256
+                  },
+                  {
+                        "id": "Id62",
+                        "name": "Great Crater",
+                        "x": -18.736435686575962,
+                        "y": 40.198130869832305,
+                        "z": -28.438648061972234
+                  },
+                  {
+                        "id": "Id63",
+                        "name": "Leuprekota",
+                        "x": 7.162259504424053,
+                        "y": -26.760541907608058,
+                        "z": 15.185684727283224
+                  },
+                  {
+                        "id": "Id64",
+                        "name": "Yetton",
+                        "x": -22.144638305952387,
+                        "y": 37.3109531629623,
+                        "z": -30.210303157326752
+                  },
+                  {
+                        "id": "Id65",
+                        "name": "Fheyhs",
+                        "x": -18.04124048654155,
+                        "y": 44.84648060017266,
+                        "z": -27.532560319585105
+                  },
+                  {
+                        "id": "Id66",
+                        "name": "Edriwoise",
+                        "x": -23.26928352693827,
+                        "y": 42.396560312224175,
+                        "z": -27.794776034992115
+                  },
+                  {
+                        "id": "Id67",
+                        "name": "Usque",
+                        "x": 26.512333259007885,
+                        "y": -29.132783806846774,
+                        "z": -1.3722677267016685
+                  },
+                  {
+                        "id": "Id68",
+                        "name": "Surfatu",
+                        "x": -3.2172959800379055,
+                        "y": -24.389736108595816,
+                        "z": 30.99314090945998
+                  },
+                  {
+                        "id": "Id69",
+                        "name": "Drumana",
+                        "x": -17.81437561985409,
+                        "y": 41.84565842610207,
+                        "z": -34.456180702005966
+                  },
+                  {
+                        "id": "Id70",
+                        "name": "Hausner",
+                        "x": -13.573994631123009,
+                        "y": 40.92916012135996,
+                        "z": -36.80711451660049
+                  },
+                  {
+                        "id": "Id71",
+                        "name": "Vitalis",
+                        "x": -18.86233540174783,
+                        "y": 38.97222347028585,
+                        "z": -38.310492779237826
+                  },
+                  {
+                        "id": "Id72",
+                        "name": "Hyacinta IV",
+                        "x": 13.162786106847454,
+                        "y": -5.009294723243701,
+                        "z": 17.05908241837305
+                  },
+                  {
+                        "id": "Id73",
+                        "name": "Revenge of the Lith",
+                        "x": -21.18228549013308,
+                        "y": 44.22733138961734,
+                        "z": -37.364444754065936
+                  },
+                  {
+                        "id": "Id74",
+                        "name": "Asclephyrus",
+                        "x": 26.361822000170125,
+                        "y": -10.577748713101132,
+                        "z": 4.455358856944517
+                  },
+                  {
+                        "id": "Id75",
+                        "name": "Little Friend VI",
+                        "x": 14.725142631508499,
+                        "y": -31.568380018644646,
+                        "z": 7.406047477909678
+                  },
+                  {
+                        "id": "Id76",
+                        "name": "Fontelitio",
+                        "x": 10.585693759523465,
+                        "y": -28.795902948497723,
+                        "z": -2.8039624100299356
+                  },
+                  {
+                        "id": "Id77",
+                        "name": "Shinmien",
+                        "x": -15.858073313749516,
+                        "y": 46.13556921660586,
+                        "z": -35.87184961060575
+                  },
+                  {
+                        "id": "Id78",
+                        "name": "Nine",
+                        "x": -3.62472625906503,
+                        "y": 15.663530081833086,
+                        "z": 12.042097028869629
+                  },
+                  {
+                        "id": "Id79",
+                        "name": "Kalgash",
+                        "x": -2.132444918765968,
+                        "y": 18.5400229939066,
+                        "z": 15.177424184569666
+                  }
+            ]
+      },
+      "config": {
+            "graphType": "Network",
+            "is3DNetwork": true,
+            "networkColaAllConstraintsIterations": 20,
+            "networkColaAvoidOverlaps": true,
+            "networkColaFlowLayoutAxis": "y",
+            "networkColaFlowLayoutSeparation": 30,
+            "networkColaStartUnconstrainedIterations": 10,
+            "networkColaSymmetricDiffLinkLengths": 6,
+            "networkColaUserConstraintIterations": 20,
+            "networkLayoutType": "cola",
+            "nodeColor": "rgb(31,119,180)",
+            "nodeSizeScaleFactor": 0.5,
+            "graphOrientation": "horizontal",
+            "calculateLayout": false
+      },
+      "events": {},
+      "info": false,
+      "afterRender": [
+            [
+                  "setDimensions",
+                  [
+                        596,
+                        596,
+                        true
+                  ]
+            ],
+            [
+                  "setDimensions",
+                  [
+                        800,
+                        800
+                  ],
+                  {},
+                  false,
+                  1791830677563
+            ]
+      ],
+      "noValidate": true,
+      "factory": {
+            "version": 71.3,
+            "specSchemaVersion": "1.0",
+            "buildDate": "10-11-2026",
+            "client": "MDo6MTo6NzEuMzo6Y2FudmFzeHByZXNzLm9yZzo6",
+            "siteSrc": false,
+            "href": "https://canvasxpress.org/examples/network-10.html",
+            "services": "https://www.canvasxpress.org/cgi-bin/services.py"
+      },
+      "system": {
+            "browser": "Chrome",
+            "browserVersion": "153",
+            "os": "Mac OS",
+            "alt": "&#8997;",
+            "command": "&#8984;",
+            "control": "&#8963;",
+            "shift": "&#8679;",
+            "isNode": false,
+            "isReact": false,
+            "isjQuery": true,
+            "isReveal": false,
+            "isZoom": false,
+            "isIE": false,
+            "isInIframe": false,
+            "isR": false,
+            "isHTMLWidgets": false,
+            "isShiny": false,
+            "isRViewer": false,
+            "isRConsole": false,
+            "isCxplot": false,
+            "isGGMatrix": false,
+            "isJupyter": false,
+            "isVSCode": false
+      }
+}

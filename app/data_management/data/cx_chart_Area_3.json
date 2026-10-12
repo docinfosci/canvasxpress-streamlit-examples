@@ -1,0 +1,122 @@
+{
+      "version": 71.3,
+      "renderTo": "area3",
+      "data": {
+            "y": {
+                  "data": [
+                        [
+                              10,
+                              11,
+                              13,
+                              4,
+                              18,
+                              21
+                        ],
+                        [
+                              5,
+                              6,
+                              10,
+                              12,
+                              15,
+                              10
+                        ],
+                        [
+                              2,
+                              3,
+                              6,
+                              4,
+                              8,
+                              6
+                        ]
+                  ],
+                  "smps": [
+                        "Jan",
+                        "Feb",
+                        "Mar",
+                        "Apr",
+                        "May",
+                        "Jun"
+                  ],
+                  "vars": [
+                        "Series A",
+                        "Series B",
+                        "Series C"
+                  ]
+            }
+      },
+      "config": {
+            "colorScheme": "Behance",
+            "graphOrientation": "vertical",
+            "graphType": "Area",
+            "lineType": "spline",
+            "objectColorTransparency": 0.7,
+            "smpTextRotate": 90,
+            "smpTitle": "Month / First Quarters of 2024",
+            "subtitle": "random data",
+            "title": "Area graph with three overlapping data series",
+            "titleScaleFontFactor": 1.2,
+            "xAxis": [
+                  "Series A",
+                  "Series B",
+                  "Series C"
+            ],
+            "xAxisTitle": "Revenue (in Millions)"
+      },
+      "events": {},
+      "info": false,
+      "afterRender": [
+            [
+                  "setDimensions",
+                  [
+                        596,
+                        596,
+                        true
+                  ]
+            ],
+            [
+                  "setDimensions",
+                  [
+                        800,
+                        800
+                  ],
+                  {},
+                  false,
+                  1791827235915
+            ]
+      ],
+      "noValidate": true,
+      "factory": {
+            "version": 71.3,
+            "specSchemaVersion": "1.0",
+            "buildDate": "10-11-2026",
+            "client": "MDo6MTo6NzEuMzo6Y2FudmFzeHByZXNzLm9yZzo6",
+            "siteSrc": false,
+            "href": "https://canvasxpress.org/examples/area-3.html",
+            "services": "https://www.canvasxpress.org/cgi-bin/services.py"
+      },
+      "system": {
+            "browser": "Chrome",
+            "browserVersion": "153",
+            "os": "Mac OS",
+            "alt": "&#8997;",
+            "command": "&#8984;",
+            "control": "&#8963;",
+            "shift": "&#8679;",
+            "isNode": false,
+            "isReact": false,
+            "isjQuery": true,
+            "isReveal": false,
+            "isZoom": false,
+            "isIE": false,
+            "isInIframe": false,
+            "isR": false,
+            "isHTMLWidgets": false,
+            "isShiny": false,
+            "isRViewer": false,
+            "isRConsole": false,
+            "isCxplot": false,
+            "isGGMatrix": false,
+            "isJupyter": false,
+            "isVSCode": false
+      }
+}

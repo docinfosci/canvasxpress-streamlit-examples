@@ -1,0 +1,98 @@
+{
+      "version": 71.3,
+      "renderTo": "waterfall4",
+      "data": {
+            "y": {
+                  "data": [
+                        [
+                              83,
+                              -44,
+                              55,
+                              -60,
+                              40,
+                              0
+                        ]
+                  ],
+                  "smps": [
+                        "S1",
+                        "S2",
+                        "S3",
+                        "S4",
+                        "S5",
+                        "S6"
+                  ],
+                  "vars": [
+                        "V1"
+                  ]
+            }
+      },
+      "config": {
+            "graphOrientation": "vertical",
+            "graphType": "Waterfall",
+            "showLegend": false,
+            "smpTextRotate": 90,
+            "smpTitle": "Samples",
+            "title": "Traditional Waterfall",
+            "xAxis": [
+                  "V1"
+            ],
+            "xAxisTitle": "Value"
+      },
+      "events": {},
+      "info": false,
+      "afterRender": [
+            [
+                  "setDimensions",
+                  [
+                        596,
+                        596,
+                        true
+                  ]
+            ],
+            [
+                  "setDimensions",
+                  [
+                        800,
+                        800
+                  ],
+                  {},
+                  false,
+                  1791832880202
+            ]
+      ],
+      "noValidate": true,
+      "factory": {
+            "version": 71.3,
+            "specSchemaVersion": "1.0",
+            "buildDate": "10-11-2026",
+            "client": "MDo6MTo6NzEuMzo6Y2FudmFzeHByZXNzLm9yZzo6",
+            "siteSrc": false,
+            "href": "https://canvasxpress.org/examples/waterfall-4.html",
+            "services": "https://www.canvasxpress.org/cgi-bin/services.py"
+      },
+      "system": {
+            "browser": "Chrome",
+            "browserVersion": "153",
+            "os": "Mac OS",
+            "alt": "&#8997;",
+            "command": "&#8984;",
+            "control": "&#8963;",
+            "shift": "&#8679;",
+            "isNode": false,
+            "isReact": false,
+            "isjQuery": true,
+            "isReveal": false,
+            "isZoom": false,
+            "isIE": false,
+            "isInIframe": false,
+            "isR": false,
+            "isHTMLWidgets": false,
+            "isShiny": false,
+            "isRViewer": false,
+            "isRConsole": false,
+            "isCxplot": false,
+            "isGGMatrix": false,
+            "isJupyter": false,
+            "isVSCode": false
+      }
+}

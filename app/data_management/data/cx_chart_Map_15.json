@@ -1,0 +1,113 @@
+{
+      "version": 71.3,
+      "renderTo": "map15",
+      "data": {
+            "x": {
+                  "Latitude": [
+                        40.701,
+                        40.702,
+                        40.703
+                  ],
+                  "Longitude": [
+                        -73.985,
+                        -74.011,
+                        -73.991
+                  ],
+                  "color": [
+                        "blue",
+                        "red",
+                        "green"
+                  ],
+                  "shape": [
+                        "circle",
+                        "teardrop",
+                        "star"
+                  ],
+                  "size": [
+                        1,
+                        1.5,
+                        3
+                  ]
+            },
+            "y": {
+                  "smps": [
+                        "New York 1",
+                        "New York 2",
+                        "New York 3"
+                  ],
+                  "data": [],
+                  "vars": []
+            }
+      },
+      "config": {
+            "graphType": "Map",
+            "mapConfig": {
+                  "center": [
+                        40.7,
+                        -74
+                  ],
+                  "zoom": 15
+            },
+            "markerBy": "shape",
+            "showLegend": false,
+            "showTiles": true,
+            "graphOrientation": "horizontal"
+      },
+      "events": {},
+      "info": false,
+      "afterRender": [
+            [
+                  "setDimensions",
+                  [
+                        596,
+                        596,
+                        true
+                  ]
+            ],
+            [
+                  "setDimensions",
+                  [
+                        800,
+                        800
+                  ],
+                  {},
+                  false,
+                  1791830081728
+            ]
+      ],
+      "noValidate": true,
+      "factory": {
+            "version": 71.3,
+            "specSchemaVersion": "1.0",
+            "buildDate": "10-11-2026",
+            "client": "MDo6MTo6NzEuMzo6Y2FudmFzeHByZXNzLm9yZzo6",
+            "siteSrc": false,
+            "href": "https://canvasxpress.org/examples/map-15.html",
+            "services": "https://www.canvasxpress.org/cgi-bin/services.py"
+      },
+      "system": {
+            "browser": "Chrome",
+            "browserVersion": "153",
+            "os": "Mac OS",
+            "alt": "&#8997;",
+            "command": "&#8984;",
+            "control": "&#8963;",
+            "shift": "&#8679;",
+            "isNode": false,
+            "isReact": false,
+            "isjQuery": true,
+            "isReveal": false,
+            "isZoom": false,
+            "isIE": false,
+            "isInIframe": false,
+            "isR": false,
+            "isHTMLWidgets": false,
+            "isShiny": false,
+            "isRViewer": false,
+            "isRConsole": false,
+            "isCxplot": false,
+            "isGGMatrix": false,
+            "isJupyter": false,
+            "isVSCode": false
+      }
+}

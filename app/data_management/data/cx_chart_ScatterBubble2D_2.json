@@ -1,0 +1,216 @@
+{
+      "version": 71.3,
+      "renderTo": "scatterbubble2d2",
+      "data": {
+            "x": {
+                  "Factor1": [
+                        "Lev : 1",
+                        "Lev : 2",
+                        "Lev : 3",
+                        "Lev : 1",
+                        "Lev : 2",
+                        "Lev : 3"
+                  ],
+                  "Factor2": [
+                        "Lev : A",
+                        "Lev : B",
+                        "Lev : A",
+                        "Lev : B",
+                        "Lev : A",
+                        "Lev : B"
+                  ],
+                  "Factor3": [
+                        "Lev : X",
+                        "Lev : X",
+                        "Lev : Y",
+                        "Lev : Y",
+                        "Lev : Z",
+                        "Lev : Z"
+                  ],
+                  "Factor4": [
+                        5,
+                        10,
+                        15,
+                        20,
+                        25,
+                        30
+                  ],
+                  "Factor5": [
+                        8,
+                        16,
+                        24,
+                        32,
+                        40,
+                        48
+                  ],
+                  "Factor6": [
+                        10,
+                        20,
+                        30,
+                        40,
+                        50,
+                        60
+                  ]
+            },
+            "y": {
+                  "data": [
+                        [
+                              5,
+                              10,
+                              25,
+                              40,
+                              45,
+                              50
+                        ],
+                        [
+                              95,
+                              80,
+                              75,
+                              70,
+                              55,
+                              40
+                        ],
+                        [
+                              25,
+                              30,
+                              45,
+                              60,
+                              65,
+                              70
+                        ],
+                        [
+                              55,
+                              40,
+                              35,
+                              30,
+                              15,
+                              1
+                        ]
+                  ],
+                  "smps": [
+                        "S1",
+                        "S2",
+                        "S3",
+                        "S4",
+                        "S5",
+                        "S6"
+                  ],
+                  "vars": [
+                        "V1",
+                        "V2",
+                        "V3",
+                        "V4"
+                  ]
+            },
+            "z": {
+                  "Annt1": [
+                        "Desc : 1",
+                        "Desc : 2",
+                        "Desc : 3",
+                        "Desc : 4"
+                  ],
+                  "Annt2": [
+                        "Desc : A",
+                        "Desc : B",
+                        "Desc : A",
+                        "Desc : B"
+                  ],
+                  "Annt3": [
+                        "Desc : X",
+                        "Desc : X",
+                        "Desc : Y",
+                        "Desc : Y"
+                  ],
+                  "Annt4": [
+                        5,
+                        10,
+                        15,
+                        20
+                  ],
+                  "Annt5": [
+                        8,
+                        16,
+                        24,
+                        32
+                  ],
+                  "Annt6": [
+                        10,
+                        20,
+                        30,
+                        40
+                  ]
+            }
+      },
+      "config": {
+            "graphType": "ScatterBubble2D",
+            "xAxis": [
+                  "S1",
+                  "S4"
+            ],
+            "yAxis": [
+                  "S2",
+                  "S5"
+            ],
+            "zAxis": [
+                  "S3",
+                  "S6"
+            ]
+      },
+      "events": {},
+      "info": false,
+      "afterRender": [
+            [
+                  "setDimensions",
+                  [
+                        596,
+                        596,
+                        true
+                  ]
+            ],
+            [
+                  "setDimensions",
+                  [
+                        800,
+                        800
+                  ],
+                  {},
+                  false,
+                  1791831801688
+            ]
+      ],
+      "noValidate": true,
+      "factory": {
+            "version": 71.3,
+            "specSchemaVersion": "1.0",
+            "buildDate": "10-11-2026",
+            "client": "MDo6MTo6NzEuMzo6Y2FudmFzeHByZXNzLm9yZzo6",
+            "siteSrc": false,
+            "href": "https://canvasxpress.org/examples/scatterbubble2d-2.html",
+            "services": "https://www.canvasxpress.org/cgi-bin/services.py"
+      },
+      "system": {
+            "browser": "Chrome",
+            "browserVersion": "153",
+            "os": "Mac OS",
+            "alt": "&#8997;",
+            "command": "&#8984;",
+            "control": "&#8963;",
+            "shift": "&#8679;",
+            "isNode": false,
+            "isReact": false,
+            "isjQuery": false,
+            "isReveal": false,
+            "isZoom": false,
+            "isIE": false,
+            "isInIframe": false,
+            "isR": false,
+            "isHTMLWidgets": false,
+            "isShiny": false,
+            "isRViewer": false,
+            "isRConsole": false,
+            "isCxplot": false,
+            "isGGMatrix": false,
+            "isJupyter": false,
+            "isVSCode": false
+      }
+}

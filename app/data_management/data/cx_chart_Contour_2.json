@@ -1,0 +1,136 @@
+{
+      "version": 71.3,
+      "renderTo": "contour2",
+      "data": {
+            "y": {
+                  "data": [
+                        [
+                              20,
+                              15.625,
+                              12.5,
+                              10.625,
+                              10
+                        ],
+                        [
+                              15.625,
+                              11.25,
+                              8.125,
+                              6.25,
+                              5.625
+                        ],
+                        [
+                              12.5,
+                              8.125,
+                              5,
+                              3.125,
+                              2.5
+                        ],
+                        [
+                              10.625,
+                              6.25,
+                              3.125,
+                              1.25,
+                              0.625
+                        ],
+                        [
+                              10,
+                              5.625,
+                              2.5,
+                              0.625,
+                              0
+                        ]
+                  ],
+                  "smps": [
+                        "s1",
+                        "s2",
+                        "s3",
+                        "s4",
+                        "s5"
+                  ],
+                  "vars": [
+                        "v1",
+                        "v2",
+                        "v3",
+                        "v4",
+                        "v5"
+                  ]
+            }
+      },
+      "config": {
+            "contourType": "normal",
+            "graphType": "Heatmap",
+            "heatmapCellBox": false,
+            "showSampleNames": false,
+            "showVariableNames": false,
+            "title": "Basic Contour Plot",
+            "xAxis": [
+                  "v1",
+                  "v2",
+                  "v3",
+                  "v4",
+                  "v5"
+            ],
+            "graphOrientation": "horizontal"
+      },
+      "events": {},
+      "info": false,
+      "afterRender": [
+            [
+                  "setDimensions",
+                  [
+                        596,
+                        596,
+                        true
+                  ]
+            ],
+            [
+                  "createContour",
+                  []
+            ],
+            [
+                  "setDimensions",
+                  [
+                        800,
+                        800
+                  ],
+                  {},
+                  false,
+                  1791828208297
+            ]
+      ],
+      "noValidate": true,
+      "factory": {
+            "version": 71.3,
+            "specSchemaVersion": "1.0",
+            "buildDate": "10-11-2026",
+            "client": "MDo6MTo6NzEuMzo6Y2FudmFzeHByZXNzLm9yZzo6",
+            "siteSrc": false,
+            "href": "https://canvasxpress.org/examples/contour-2.html",
+            "services": "https://www.canvasxpress.org/cgi-bin/services.py"
+      },
+      "system": {
+            "browser": "Chrome",
+            "browserVersion": "153",
+            "os": "Mac OS",
+            "alt": "&#8997;",
+            "command": "&#8984;",
+            "control": "&#8963;",
+            "shift": "&#8679;",
+            "isNode": false,
+            "isReact": false,
+            "isjQuery": true,
+            "isReveal": false,
+            "isZoom": false,
+            "isIE": false,
+            "isInIframe": false,
+            "isR": false,
+            "isHTMLWidgets": false,
+            "isShiny": false,
+            "isRViewer": false,
+            "isRConsole": false,
+            "isCxplot": false,
+            "isGGMatrix": false,
+            "isJupyter": false,
+            "isVSCode": false
+      }
+}

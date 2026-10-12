@@ -1,0 +1,526 @@
+{
+      "version": 71.3,
+      "renderTo": "map26",
+      "data": {
+            "y": {
+                  "vars": [
+                        "USA",
+                        "CHN",
+                        "JPN",
+                        "DEU",
+                        "FRA",
+                        "GBR",
+                        "ITA",
+                        "CAN",
+                        "KOR",
+                        "NLD",
+                        "BRA",
+                        "IND",
+                        "AUS",
+                        "SAU",
+                        "RUS",
+                        "ESP",
+                        "CHE",
+                        "SWE",
+                        "FIN",
+                        "NOR",
+                        "POL",
+                        "SGP",
+                        "ZAF",
+                        "ARE",
+                        "TWN",
+                        "MEX",
+                        "CZE",
+                        "AUT"
+                  ],
+                  "smps": [
+                        "Systems"
+                  ],
+                  "data": [
+                        [
+                              120
+                        ],
+                        [
+                              150
+                        ],
+                        [
+                              32
+                        ],
+                        [
+                              28
+                        ],
+                        [
+                              24
+                        ],
+                        [
+                              20
+                        ],
+                        [
+                              12
+                        ],
+                        [
+                              10
+                        ],
+                        [
+                              10
+                        ],
+                        [
+                              8
+                        ],
+                        [
+                              8
+                        ],
+                        [
+                              8
+                        ],
+                        [
+                              6
+                        ],
+                        [
+                              8
+                        ],
+                        [
+                              6
+                        ],
+                        [
+                              7
+                        ],
+                        [
+                              6
+                        ],
+                        [
+                              6
+                        ],
+                        [
+                              5
+                        ],
+                        [
+                              5
+                        ],
+                        [
+                              4
+                        ],
+                        [
+                              4
+                        ],
+                        [
+                              3
+                        ],
+                        [
+                              5
+                        ],
+                        [
+                              4
+                        ],
+                        [
+                              3
+                        ],
+                        [
+                              3
+                        ],
+                        [
+                              3
+                        ]
+                  ]
+            }
+      },
+      "config": {
+            "graphType": "Map",
+            "topoJSON": "https://www.canvasxpress.org/data/maps/WORLD.json",
+            "mapId": "worldSymbols",
+            "theme": "classic",
+            "mapColor": "#ececec",
+            "mapOutlineColor": "#ffffff",
+            "showLegend": false,
+            "title": "Where are the big computers?",
+            "subtitle": "Synthetic count of systems per country, square area proportional to count",
+            "decorations": {
+                  "marker": [
+                        {
+                              "coords": [
+                                    39,
+                                    -98
+                              ],
+                              "shape": "square",
+                              "size": 54.772255750516614,
+                              "color": "rgba(51,34,136,0.8)",
+                              "label": "120",
+                              "id": "map26-marker-0"
+                        },
+                        {
+                              "coords": [
+                                    35,
+                                    104
+                              ],
+                              "shape": "square",
+                              "size": 61.23724356957945,
+                              "color": "rgba(51,34,136,0.8)",
+                              "label": "150",
+                              "id": "map26-marker-1"
+                        },
+                        {
+                              "coords": [
+                                    36,
+                                    138
+                              ],
+                              "shape": "square",
+                              "size": 28.284271247461902,
+                              "color": "rgba(51,34,136,0.8)",
+                              "label": "32",
+                              "id": "map26-marker-2"
+                        },
+                        {
+                              "coords": [
+                                    51,
+                                    10
+                              ],
+                              "shape": "square",
+                              "size": 26.457513110645905,
+                              "color": "rgba(51,34,136,0.8)",
+                              "label": "28",
+                              "id": "map26-marker-3"
+                        },
+                        {
+                              "coords": [
+                                    46.5,
+                                    2.5
+                              ],
+                              "shape": "square",
+                              "size": 24.49489742783178,
+                              "color": "rgba(51,34,136,0.8)",
+                              "label": "24",
+                              "id": "map26-marker-4"
+                        },
+                        {
+                              "coords": [
+                                    54,
+                                    -2
+                              ],
+                              "shape": "square",
+                              "size": 22.360679774997898,
+                              "color": "rgba(51,34,136,0.8)",
+                              "label": "20",
+                              "id": "map26-marker-5"
+                        },
+                        {
+                              "coords": [
+                                    42.8,
+                                    12.5
+                              ],
+                              "shape": "square",
+                              "size": 17.32050807568877,
+                              "color": "rgba(51,34,136,0.8)",
+                              "id": "map26-marker-6"
+                        },
+                        {
+                              "coords": [
+                                    57,
+                                    -100
+                              ],
+                              "shape": "square",
+                              "size": 15.811388300841898,
+                              "color": "rgba(51,34,136,0.8)",
+                              "id": "map26-marker-7"
+                        },
+                        {
+                              "coords": [
+                                    36.5,
+                                    127.8
+                              ],
+                              "shape": "square",
+                              "size": 15.811388300841898,
+                              "color": "rgba(51,34,136,0.8)",
+                              "id": "map26-marker-8"
+                        },
+                        {
+                              "coords": [
+                                    52.2,
+                                    5.3
+                              ],
+                              "shape": "square",
+                              "size": 14.142135623730951,
+                              "color": "rgba(51,34,136,0.8)",
+                              "id": "map26-marker-9"
+                        },
+                        {
+                              "coords": [
+                                    -10,
+                                    -52
+                              ],
+                              "shape": "square",
+                              "size": 14.142135623730951,
+                              "color": "rgba(51,34,136,0.8)",
+                              "id": "map26-marker-10"
+                        },
+                        {
+                              "coords": [
+                                    22,
+                                    79
+                              ],
+                              "shape": "square",
+                              "size": 14.142135623730951,
+                              "color": "rgba(51,34,136,0.8)",
+                              "id": "map26-marker-11"
+                        },
+                        {
+                              "coords": [
+                                    -25,
+                                    134
+                              ],
+                              "shape": "square",
+                              "size": 12.24744871391589,
+                              "color": "rgba(51,34,136,0.8)",
+                              "id": "map26-marker-12"
+                        },
+                        {
+                              "coords": [
+                                    24,
+                                    45
+                              ],
+                              "shape": "square",
+                              "size": 14.142135623730951,
+                              "color": "rgba(51,34,136,0.8)",
+                              "id": "map26-marker-13"
+                        },
+                        {
+                              "coords": [
+                                    60,
+                                    95
+                              ],
+                              "shape": "square",
+                              "size": 12.24744871391589,
+                              "color": "rgba(51,34,136,0.8)",
+                              "id": "map26-marker-14"
+                        },
+                        {
+                              "coords": [
+                                    40,
+                                    -3.5
+                              ],
+                              "shape": "square",
+                              "size": 13.228756555322953,
+                              "color": "rgba(51,34,136,0.8)",
+                              "id": "map26-marker-15"
+                        },
+                        {
+                              "coords": [
+                                    46.8,
+                                    8.2
+                              ],
+                              "shape": "square",
+                              "size": 12.24744871391589,
+                              "color": "rgba(51,34,136,0.8)",
+                              "id": "map26-marker-16"
+                        },
+                        {
+                              "coords": [
+                                    62,
+                                    15
+                              ],
+                              "shape": "square",
+                              "size": 12.24744871391589,
+                              "color": "rgba(51,34,136,0.8)",
+                              "id": "map26-marker-17"
+                        },
+                        {
+                              "coords": [
+                                    64,
+                                    26
+                              ],
+                              "shape": "square",
+                              "size": 11.180339887498949,
+                              "color": "rgba(51,34,136,0.8)",
+                              "id": "map26-marker-18"
+                        },
+                        {
+                              "coords": [
+                                    61,
+                                    9
+                              ],
+                              "shape": "square",
+                              "size": 11.180339887498949,
+                              "color": "rgba(51,34,136,0.8)",
+                              "id": "map26-marker-19"
+                        },
+                        {
+                              "coords": [
+                                    52,
+                                    19
+                              ],
+                              "shape": "square",
+                              "size": 10,
+                              "color": "rgba(51,34,136,0.8)",
+                              "id": "map26-marker-20"
+                        },
+                        {
+                              "coords": [
+                                    1.35,
+                                    103.8
+                              ],
+                              "shape": "square",
+                              "size": 10,
+                              "color": "rgba(51,34,136,0.8)",
+                              "id": "map26-marker-21"
+                        },
+                        {
+                              "coords": [
+                                    -29,
+                                    24
+                              ],
+                              "shape": "square",
+                              "size": 8.660254037844386,
+                              "color": "rgba(51,34,136,0.8)",
+                              "id": "map26-marker-22"
+                        },
+                        {
+                              "coords": [
+                                    24,
+                                    54
+                              ],
+                              "shape": "square",
+                              "size": 11.180339887498949,
+                              "color": "rgba(51,34,136,0.8)",
+                              "id": "map26-marker-23"
+                        },
+                        {
+                              "coords": [
+                                    23.7,
+                                    121
+                              ],
+                              "shape": "square",
+                              "size": 10,
+                              "color": "rgba(51,34,136,0.8)",
+                              "id": "map26-marker-24"
+                        },
+                        {
+                              "coords": [
+                                    23.5,
+                                    -102
+                              ],
+                              "shape": "square",
+                              "size": 8.660254037844386,
+                              "color": "rgba(51,34,136,0.8)",
+                              "id": "map26-marker-25"
+                        },
+                        {
+                              "coords": [
+                                    49.8,
+                                    15.5
+                              ],
+                              "shape": "square",
+                              "size": 8.660254037844386,
+                              "color": "rgba(51,34,136,0.8)",
+                              "id": "map26-marker-26"
+                        },
+                        {
+                              "coords": [
+                                    47.5,
+                                    14.5
+                              ],
+                              "shape": "square",
+                              "size": 8.660254037844386,
+                              "color": "rgba(51,34,136,0.8)",
+                              "id": "map26-marker-27"
+                        },
+                        {
+                              "coords": [
+                                    39,
+                                    -98
+                              ],
+                              "shape": "none",
+                              "type": "curved",
+                              "fontSize": 12,
+                              "text": "The USA has&nl;120 systems",
+                              "x": 0.09,
+                              "y": 0.52,
+                              "id": "map26-marker-28"
+                        },
+                        {
+                              "coords": [
+                                    35,
+                                    104
+                              ],
+                              "shape": "none",
+                              "type": "curved",
+                              "fontSize": 12,
+                              "text": "China has the largest&nl;number of systems: 150",
+                              "x": 0.6,
+                              "y": 0.8,
+                              "id": "map26-marker-29"
+                        },
+                        {
+                              "coords": [
+                                    36,
+                                    138
+                              ],
+                              "shape": "none",
+                              "type": "curved",
+                              "fontSize": 12,
+                              "text": "Japan: 32 systems",
+                              "x": 0.86,
+                              "y": 0.3,
+                              "id": "map26-marker-30"
+                        }
+                  ]
+            },
+            "source": "Synthetic data for illustration",
+            "graphOrientation": "horizontal"
+      },
+      "events": {},
+      "info": false,
+      "afterRender": [
+            [
+                  "setDimensions",
+                  [
+                        636,
+                        435,
+                        true
+                  ]
+            ],
+            [
+                  "setDimensions",
+                  [
+                        800,
+                        800
+                  ],
+                  {},
+                  false,
+                  1791830211168
+            ]
+      ],
+      "noValidate": true,
+      "factory": {
+            "version": 71.3,
+            "specSchemaVersion": "1.0",
+            "buildDate": "10-11-2026",
+            "client": "MDo6MTo6NzEuMzo6Y2FudmFzeHByZXNzLm9yZzo6",
+            "siteSrc": false,
+            "href": "https://canvasxpress.org/examples/map-26.html",
+            "services": "https://www.canvasxpress.org/cgi-bin/services.py"
+      },
+      "system": {
+            "browser": "Chrome",
+            "browserVersion": "153",
+            "os": "Mac OS",
+            "alt": "&#8997;",
+            "command": "&#8984;",
+            "control": "&#8963;",
+            "shift": "&#8679;",
+            "isNode": false,
+            "isReact": false,
+            "isjQuery": true,
+            "isReveal": false,
+            "isZoom": false,
+            "isIE": false,
+            "isInIframe": false,
+            "isR": false,
+            "isHTMLWidgets": false,
+            "isShiny": false,
+            "isRViewer": false,
+            "isRConsole": false,
+            "isCxplot": false,
+            "isGGMatrix": false,
+            "isJupyter": false,
+            "isVSCode": false
+      }
+}

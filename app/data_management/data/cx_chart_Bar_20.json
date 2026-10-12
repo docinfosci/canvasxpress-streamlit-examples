@@ -1,0 +1,144 @@
+{
+      "version": 71.3,
+      "renderTo": "bar20",
+      "data": {
+            "y": {
+                  "vars": [
+                        "Structural biology",
+                        "Astrophysics",
+                        "Ecology"
+                  ],
+                  "smps": [
+                        "20-29",
+                        "30-39",
+                        "40-49",
+                        "50-59",
+                        "60-69",
+                        "70-79",
+                        "80+"
+                  ],
+                  "data": [
+                        [
+                              0,
+                              9,
+                              41,
+                              47,
+                              28,
+                              6,
+                              1
+                        ],
+                        [
+                              1,
+                              22,
+                              52,
+                              38,
+                              17,
+                              5,
+                              0
+                        ],
+                        [
+                              0,
+                              4,
+                              18,
+                              36,
+                              49,
+                              23,
+                              8
+                        ]
+                  ]
+            },
+            "z": {
+                  "Field": [
+                        "Structural biology",
+                        "Astrophysics",
+                        "Ecology"
+                  ]
+            }
+      },
+      "config": {
+            "graphType": "Bar",
+            "titleAlign": "plot::0",
+            "subtitleAlign": "plot::0",
+            "legendHorizontalJustification": 0,
+            "legendJustifyTo": "plot",
+            "graphOrientation": "horizontal",
+            "theme": "minimal",
+            "colorScheme": "User",
+            "colors": [
+                  "#2E6F95",
+                  "#9E2A2B",
+                  "#7A9E3B"
+            ],
+            "title": "Ecologists land big grants later, astrophysicists earlier",
+            "subtitle": "Age of principal investigators at first major grant (count of awardees per age bin). Illustrative data.",
+            "xAxis": [
+                  "Structural biology",
+                  "Astrophysics",
+                  "Ecology"
+            ],
+            "segregateVariablesBy": [
+                  "Field"
+            ],
+            "showDataValues": true,
+            "showLegend": false,
+            "xAxisShow": false,
+            "sampleSpaceFactor": 0.35
+      },
+      "events": {},
+      "info": false,
+      "afterRender": [
+            [
+                  "setDimensions",
+                  [
+                        636,
+                        435,
+                        true
+                  ]
+            ],
+            [
+                  "setDimensions",
+                  [
+                        800,
+                        800
+                  ],
+                  {},
+                  false,
+                  1791827625019
+            ]
+      ],
+      "noValidate": true,
+      "factory": {
+            "version": 71.3,
+            "specSchemaVersion": "1.0",
+            "buildDate": "10-11-2026",
+            "client": "MDo6MTo6NzEuMzo6Y2FudmFzeHByZXNzLm9yZzo6",
+            "siteSrc": false,
+            "href": "https://canvasxpress.org/examples/bar-20.html",
+            "services": "https://www.canvasxpress.org/cgi-bin/services.py"
+      },
+      "system": {
+            "browser": "Chrome",
+            "browserVersion": "153",
+            "os": "Mac OS",
+            "alt": "&#8997;",
+            "command": "&#8984;",
+            "control": "&#8963;",
+            "shift": "&#8679;",
+            "isNode": false,
+            "isReact": false,
+            "isjQuery": true,
+            "isReveal": false,
+            "isZoom": false,
+            "isIE": false,
+            "isInIframe": false,
+            "isR": false,
+            "isHTMLWidgets": false,
+            "isShiny": false,
+            "isRViewer": false,
+            "isRConsole": false,
+            "isCxplot": false,
+            "isGGMatrix": false,
+            "isJupyter": false,
+            "isVSCode": false
+      }
+}

@@ -1,0 +1,303 @@
+{
+      "version": 71.3,
+      "renderTo": "map20",
+      "data": {
+            "y": {
+                  "vars": [
+                        "AL",
+                        "AK",
+                        "AZ",
+                        "AR",
+                        "CA",
+                        "CO",
+                        "CT",
+                        "DE",
+                        "FL",
+                        "GA",
+                        "HI",
+                        "ID",
+                        "IL",
+                        "IN",
+                        "IA",
+                        "KS",
+                        "KY",
+                        "LA",
+                        "ME",
+                        "MD",
+                        "MA",
+                        "MI",
+                        "MN",
+                        "MS",
+                        "MO",
+                        "MT",
+                        "NE",
+                        "NV",
+                        "NH",
+                        "NJ",
+                        "NM",
+                        "NY",
+                        "NC",
+                        "ND",
+                        "OH",
+                        "OK",
+                        "OR",
+                        "PA",
+                        "RI",
+                        "SC",
+                        "SD",
+                        "TN",
+                        "TX",
+                        "UT",
+                        "VT",
+                        "VA",
+                        "WA",
+                        "WV",
+                        "WI",
+                        "WY",
+                        "DC"
+                  ],
+                  "smps": [
+                        "Unemployment"
+                  ],
+                  "data": [
+                        [
+                              3.6
+                        ],
+                        [
+                              3.7
+                        ],
+                        [
+                              4
+                        ],
+                        [
+                              3.9
+                        ],
+                        [
+                              4.9
+                        ],
+                        [
+                              3.7
+                        ],
+                        [
+                              2.1
+                        ],
+                        [
+                              3.7
+                        ],
+                        [
+                              4
+                        ],
+                        [
+                              3.4
+                        ],
+                        [
+                              3.5
+                        ],
+                        [
+                              4.8
+                        ],
+                        [
+                              3.3
+                        ],
+                        [
+                              4.2
+                        ],
+                        [
+                              4.3
+                        ],
+                        [
+                              2.4
+                        ],
+                        [
+                              2.4
+                        ],
+                        [
+                              6.8
+                        ],
+                        [
+                              3.2
+                        ],
+                        [
+                              3.2
+                        ],
+                        [
+                              3.9
+                        ],
+                        [
+                              2.3
+                        ],
+                        [
+                              3.9
+                        ],
+                        [
+                              3.9
+                        ],
+                        [
+                              3.3
+                        ],
+                        [
+                              4.8
+                        ],
+                        [
+                              4.7
+                        ],
+                        [
+                              7.4
+                        ],
+                        [
+                              1.9
+                        ],
+                        [
+                              4
+                        ],
+                        [
+                              2.7
+                        ],
+                        [
+                              2
+                        ],
+                        [
+                              4.5
+                        ],
+                        [
+                              1.6
+                        ],
+                        [
+                              2.9
+                        ],
+                        [
+                              2.3
+                        ],
+                        [
+                              4.5
+                        ],
+                        [
+                              3
+                        ],
+                        [
+                              3.8
+                        ],
+                        [
+                              3.9
+                        ],
+                        [
+                              4.8
+                        ],
+                        [
+                              2.3
+                        ],
+                        [
+                              4.9
+                        ],
+                        [
+                              4.8
+                        ],
+                        [
+                              3.2
+                        ],
+                        [
+                              1.9
+                        ],
+                        [
+                              2.1
+                        ],
+                        [
+                              4.8
+                        ],
+                        [
+                              3.6
+                        ],
+                        [
+                              3.7
+                        ],
+                        [
+                              2.8
+                        ]
+                  ]
+            }
+      },
+      "config": {
+            "graphType": "Map",
+            "topoJSON": "https://www.canvasxpress.org/data/maps/USA.json",
+            "mapId": "albersStates",
+            "mapProjection": "albers",
+            "mapAlbersInsets": true,
+            "theme": "classic",
+            "colorBy": "Unemployment",
+            "colorSpectrum": [
+                  "#fde725",
+                  "#35b779",
+                  "#31688e",
+                  "#440154"
+            ],
+            "showMapLabels": true,
+            "title": "Unemployment rate, illustrative",
+            "subtitle": "Percent of labour force, synthetic data",
+            "legendPosition": "topRight",
+            "showLegendTitle": false,
+            "legendNumberFormat": {
+                  "style": "decimal",
+                  "decimals": 1,
+                  "suffix": "%"
+            },
+            "source": "Synthetic data for illustration",
+            "graphOrientation": "horizontal"
+      },
+      "events": {},
+      "info": false,
+      "afterRender": [
+            [
+                  "setDimensions",
+                  [
+                        636,
+                        468,
+                        true
+                  ]
+            ],
+            [
+                  "setDimensions",
+                  [
+                        800,
+                        800
+                  ],
+                  {},
+                  false,
+                  1791830140310
+            ]
+      ],
+      "noValidate": true,
+      "factory": {
+            "version": 71.3,
+            "specSchemaVersion": "1.0",
+            "buildDate": "10-11-2026",
+            "client": "MDo6MTo6NzEuMzo6Y2FudmFzeHByZXNzLm9yZzo6",
+            "siteSrc": false,
+            "href": "https://canvasxpress.org/examples/map-20.html",
+            "services": "https://www.canvasxpress.org/cgi-bin/services.py"
+      },
+      "system": {
+            "browser": "Chrome",
+            "browserVersion": "153",
+            "os": "Mac OS",
+            "alt": "&#8997;",
+            "command": "&#8984;",
+            "control": "&#8963;",
+            "shift": "&#8679;",
+            "isNode": false,
+            "isReact": false,
+            "isjQuery": true,
+            "isReveal": false,
+            "isZoom": false,
+            "isIE": false,
+            "isInIframe": false,
+            "isR": false,
+            "isHTMLWidgets": false,
+            "isShiny": false,
+            "isRViewer": false,
+            "isRConsole": false,
+            "isCxplot": false,
+            "isGGMatrix": false,
+            "isJupyter": false,
+            "isVSCode": false
+      }
+}

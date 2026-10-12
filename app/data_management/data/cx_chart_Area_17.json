@@ -1,0 +1,143 @@
+{
+      "version": 71.3,
+      "renderTo": "area17",
+      "data": {
+            "y": {
+                  "vars": [
+                        "Coal",
+                        "Gas",
+                        "Wind",
+                        "Solar"
+                  ],
+                  "smps": [
+                        "Q1",
+                        "Q2",
+                        "Q3",
+                        "Q4",
+                        "Q5",
+                        "Q6",
+                        "Q7",
+                        "Q8"
+                  ],
+                  "data": [
+                        [
+                              30,
+                              28,
+                              26,
+                              24,
+                              20,
+                              18,
+                              16,
+                              14
+                        ],
+                        [
+                              24,
+                              25,
+                              25,
+                              26,
+                              24,
+                              23,
+                              22,
+                              21
+                        ],
+                        [
+                              8,
+                              9,
+                              11,
+                              13,
+                              15,
+                              17,
+                              19,
+                              21
+                        ],
+                        [
+                              2,
+                              3,
+                              4,
+                              5,
+                              7,
+                              9,
+                              11,
+                              13
+                        ]
+                  ]
+            }
+      },
+      "config": {
+            "graphType": "Area",
+            "areaType": "stacked",
+            "theme": "editorial",
+            "title": "Generation share",
+            "subtitle": "Percent of total, last eight quarters",
+            "legendPosition": "right",
+            "source": "IEA",
+            "byline": "Chart: CanvasXpress",
+            "responsiveRules": [
+                  {
+                        "maxWidth": 480,
+                        "config": {
+                              "legendPosition": "bottom",
+                              "fontScaleFontFactor": 0.85
+                        }
+                  }
+            ],
+            "graphOrientation": "vertical"
+      },
+      "events": {},
+      "info": false,
+      "afterRender": [
+            [
+                  "setDimensions",
+                  [
+                        596,
+                        596,
+                        true
+                  ]
+            ],
+            [
+                  "setDimensions",
+                  [
+                        800,
+                        800
+                  ],
+                  {},
+                  false,
+                  1791827367414
+            ]
+      ],
+      "noValidate": true,
+      "factory": {
+            "version": 71.3,
+            "specSchemaVersion": "1.0",
+            "buildDate": "10-11-2026",
+            "client": "MDo6MTo6NzEuMzo6Y2FudmFzeHByZXNzLm9yZzo6",
+            "siteSrc": false,
+            "href": "https://canvasxpress.org/examples/area-17.html",
+            "services": "https://www.canvasxpress.org/cgi-bin/services.py"
+      },
+      "system": {
+            "browser": "Chrome",
+            "browserVersion": "153",
+            "os": "Mac OS",
+            "alt": "&#8997;",
+            "command": "&#8984;",
+            "control": "&#8963;",
+            "shift": "&#8679;",
+            "isNode": false,
+            "isReact": false,
+            "isjQuery": true,
+            "isReveal": false,
+            "isZoom": false,
+            "isIE": false,
+            "isInIframe": false,
+            "isR": false,
+            "isHTMLWidgets": false,
+            "isShiny": false,
+            "isRViewer": false,
+            "isRConsole": false,
+            "isCxplot": false,
+            "isGGMatrix": false,
+            "isJupyter": false,
+            "isVSCode": false
+      }
+}

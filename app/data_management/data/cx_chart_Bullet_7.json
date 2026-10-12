@@ -1,0 +1,166 @@
+{
+      "version": 71.3,
+      "renderTo": "bullet7",
+      "data": {
+            "y": {
+                  "vars": [
+                        "PM2.5",
+                        "Good",
+                        "Moderate",
+                        "High",
+                        "Guideline"
+                  ],
+                  "smps": [
+                        "City A",
+                        "City B",
+                        "City C",
+                        "City D",
+                        "City E",
+                        "City F",
+                        "City G",
+                        "City H"
+                  ],
+                  "data": [
+                        [
+                              8,
+                              14,
+                              22,
+                              11,
+                              29,
+                              17,
+                              6,
+                              35
+                        ],
+                        [
+                              5,
+                              5,
+                              5,
+                              5,
+                              5,
+                              5,
+                              5,
+                              5
+                        ],
+                        [
+                              10,
+                              10,
+                              10,
+                              10,
+                              10,
+                              10,
+                              10,
+                              10
+                        ],
+                        [
+                              20,
+                              20,
+                              20,
+                              20,
+                              20,
+                              20,
+                              20,
+                              20
+                        ],
+                        [
+                              5,
+                              5,
+                              5,
+                              5,
+                              5,
+                              5,
+                              5,
+                              5
+                        ]
+                  ]
+            }
+      },
+      "config": {
+            "graphType": "Bullet",
+            "theme": "bw",
+            "graphOrientation": "horizontal",
+            "xAxis": [
+                  "PM2.5"
+            ],
+            "rangeStack": [
+                  "Good",
+                  "Moderate",
+                  "High"
+            ],
+            "rangeColors": [
+                  "#4477AA",
+                  "#99BBDD",
+                  "#DDE8F5"
+            ],
+            "bulletTargetVarName": "Guideline",
+            "colorScheme": "User",
+            "colors": [
+                  "#222222"
+            ],
+            "showDataValues": true,
+            "dataValuesPosition": "inside",
+            "dataTextColor": "#FFFFFF",
+            "showLegend": false,
+            "title": "Which cities exceed the air-quality guideline?",
+            "subtitle": "Annual mean PM2.5 (\u00b5g/m\u00b3) against guideline (tick) and bands (synthetic)",
+            "xAxisTitle": "PM2.5 (\u00b5g/m\u00b3)",
+            "barType": "normal",
+            "meterType": "gauge"
+      },
+      "events": {},
+      "info": false,
+      "afterRender": [
+            [
+                  "setDimensions",
+                  [
+                        636,
+                        435,
+                        true
+                  ]
+            ],
+            [
+                  "setDimensions",
+                  [
+                        800,
+                        800
+                  ],
+                  {},
+                  false,
+                  1791828022433
+            ]
+      ],
+      "noValidate": true,
+      "factory": {
+            "version": 71.3,
+            "specSchemaVersion": "1.0",
+            "buildDate": "10-11-2026",
+            "client": "MDo6MTo6NzEuMzo6Y2FudmFzeHByZXNzLm9yZzo6",
+            "siteSrc": false,
+            "href": "https://canvasxpress.org/examples/bullet-7.html",
+            "services": "https://www.canvasxpress.org/cgi-bin/services.py"
+      },
+      "system": {
+            "browser": "Chrome",
+            "browserVersion": "153",
+            "os": "Mac OS",
+            "alt": "&#8997;",
+            "command": "&#8984;",
+            "control": "&#8963;",
+            "shift": "&#8679;",
+            "isNode": false,
+            "isReact": false,
+            "isjQuery": true,
+            "isReveal": false,
+            "isZoom": false,
+            "isIE": false,
+            "isInIframe": false,
+            "isR": false,
+            "isHTMLWidgets": false,
+            "isShiny": false,
+            "isRViewer": false,
+            "isRConsole": false,
+            "isCxplot": false,
+            "isGGMatrix": false,
+            "isJupyter": false,
+            "isVSCode": false
+      }
+}

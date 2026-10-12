@@ -1,0 +1,139 @@
+{
+      "version": 71.3,
+      "renderTo": "dumbbell17",
+      "data": {
+            "y": {
+                  "vars": [
+                        "2014",
+                        "2024"
+                  ],
+                  "smps": [
+                        "Denmark",
+                        "Germany",
+                        "United Kingdom",
+                        "Spain",
+                        "United States",
+                        "Japan",
+                        "India"
+                  ],
+                  "data": [
+                        [
+                              48,
+                              26,
+                              18,
+                              37,
+                              13,
+                              14,
+                              15
+                        ],
+                        [
+                              81,
+                              52,
+                              46,
+                              55,
+                              23,
+                              25,
+                              22
+                        ]
+                  ]
+            }
+      },
+      "config": {
+            "graphType": "Dumbbell",
+            "dumbbellType": "arrow",
+            "dumbbellArrowDirection": "order",
+            "legendColumns": 2,
+            "arrowHeadSize": 8,
+            "xAxisTicks": 4,
+            "smpTextScaleFontFactor": 1.3,
+            "theme": "editorial",
+            "colorScheme": "User",
+            "title": "Renewables have doubled their share in a decade",
+            "subtitle": "Renewable share of electricity generation, 2014 \u2192 2024, %",
+            "legendPosition": "bottom",
+            "numberFormat": {
+                  "style": "decimal",
+                  "decimals": 0,
+                  "suffix": "%"
+            },
+            "colors": [
+                  "#bbbbbb",
+                  "#228833"
+            ],
+            "notes": "Wind, solar, hydro and bioenergy. 2024 preliminary.",
+            "source": "Ember",
+            "sourceUrl": "https://ember-climate.org",
+            "byline": "Chart: CanvasXpress",
+            "showDataDownload": true,
+            "responsiveRules": [
+                  {
+                        "maxWidth": 480,
+                        "config": {
+                              "legendPosition": "bottom",
+                              "fontScaleFontFactor": 0.85,
+                              "arrowHeadSize": 5,
+                              "connectByWidth": 1
+                        }
+                  }
+            ],
+            "graphOrientation": "horizontal",
+            "dotplotType": "normal"
+      },
+      "events": {},
+      "info": false,
+      "afterRender": [
+            [
+                  "setDimensions",
+                  [
+                        636,
+                        432,
+                        true
+                  ]
+            ],
+            [
+                  "setDimensions",
+                  [
+                        800,
+                        800
+                  ],
+                  {},
+                  false,
+                  1791828936906
+            ]
+      ],
+      "noValidate": true,
+      "factory": {
+            "version": 71.3,
+            "specSchemaVersion": "1.0",
+            "buildDate": "10-11-2026",
+            "client": "MDo6MTo6NzEuMzo6Y2FudmFzeHByZXNzLm9yZzo6",
+            "siteSrc": false,
+            "href": "https://canvasxpress.org/examples/dumbbell-17.html",
+            "services": "https://www.canvasxpress.org/cgi-bin/services.py"
+      },
+      "system": {
+            "browser": "Chrome",
+            "browserVersion": "153",
+            "os": "Mac OS",
+            "alt": "&#8997;",
+            "command": "&#8984;",
+            "control": "&#8963;",
+            "shift": "&#8679;",
+            "isNode": false,
+            "isReact": false,
+            "isjQuery": true,
+            "isReveal": false,
+            "isZoom": false,
+            "isIE": false,
+            "isInIframe": false,
+            "isR": false,
+            "isHTMLWidgets": false,
+            "isShiny": false,
+            "isRViewer": false,
+            "isRConsole": false,
+            "isCxplot": false,
+            "isGGMatrix": false,
+            "isJupyter": false,
+            "isVSCode": false
+      }
+}

@@ -1,0 +1,382 @@
+{
+      "version": 71.3,
+      "renderTo": "network15",
+      "data": {
+            "edges": [
+                  {
+                        "color": "rgb(51,12,255)",
+                        "endArrow": "arrow",
+                        "id1": "Gene1",
+                        "id2": "Gene2",
+                        "startArrow": "square",
+                        "type": "curved",
+                        "width": "3",
+                        "id": "Gene1 -> Gene2"
+                  },
+                  {
+                        "color": "rgb(51,12,255)",
+                        "endArrow": "arrow",
+                        "id1": "Gene4",
+                        "id2": "Gene3",
+                        "startArrow": "square",
+                        "type": "dashedCurved",
+                        "width": "3",
+                        "id": "Gene4 -> Gene3"
+                  },
+                  {
+                        "color": "rgb(51,12,255)",
+                        "endArrow": "arrow",
+                        "id1": "Gene5",
+                        "id2": "Met",
+                        "type": "line",
+                        "width": "3",
+                        "id": "Gene5 -> Met"
+                  },
+                  {
+                        "color": "rgb(51,12,255)",
+                        "endArrow": "round",
+                        "id1": "Gene3",
+                        "id2": "DNA",
+                        "startArrow": "square",
+                        "type": "bezier",
+                        "width": "3",
+                        "id": "Gene3 -> DNA"
+                  },
+                  {
+                        "color": "rgb(51,12,255)",
+                        "endArrow": "square",
+                        "id1": "Gene7",
+                        "id2": "Gene1",
+                        "startArrow": "arrow",
+                        "type": "dashedBezier",
+                        "width": "3",
+                        "id": "Gene7 -> Gene1"
+                  },
+                  {
+                        "color": "rgb(51,12,255)",
+                        "elbows": [
+                              [
+                                    235,
+                                    100
+                              ],
+                              [
+                                    50,
+                                    100
+                              ],
+                              [
+                                    50,
+                                    230
+                              ]
+                        ],
+                        "endArrow": "square",
+                        "id1": "Gene5",
+                        "id2": "Gene7",
+                        "type": "dotted",
+                        "width": "3",
+                        "id": "Gene5 -> Gene7"
+                  },
+                  {
+                        "color": "rgb(51,12,255)",
+                        "elbows": [
+                              [
+                                    275,
+                                    100,
+                                    325,
+                                    100,
+                                    325,
+                                    165
+                              ],
+                              [
+                                    325,
+                                    165,
+                                    325,
+                                    270,
+                                    425,
+                                    270
+                              ]
+                        ],
+                        "endArrow": "square",
+                        "id1": "Gene5",
+                        "id2": "DNA",
+                        "type": "bezier",
+                        "width": "3",
+                        "id": "Gene5 -> DNA"
+                  }
+            ],
+            "legend": {
+                  "edges": [
+                        {
+                              "id": "edgesLegendId0",
+                              "text": "Activate",
+                              "type": "arrowHeadLine"
+                        }
+                  ],
+                  "nodes": [
+                        {
+                              "color": "rgb(255,0,0)",
+                              "id": "nodesLegendId0",
+                              "shape": "sphere",
+                              "text": "Gene"
+                        }
+                  ],
+                  "pos": {
+                        "decorations": {
+                              "x": 450,
+                              "y": 360
+                        },
+                        "edges": {
+                              "x": 360,
+                              "y": -5
+                        },
+                        "nodes": {
+                              "x": -5,
+                              "y": -5
+                        }
+                  },
+                  "text": [
+                        {
+                              "id": "textLegendId0",
+                              "text": "Cool Pathway",
+                              "x": 150,
+                              "y": 460
+                        }
+                  ]
+            },
+            "nodes": [
+                  {
+                        "eventless": true,
+                        "height": 400,
+                        "hideLabel": true,
+                        "id": "Cell",
+                        "imagePath": "https://www.canvasxpress.org/assets/images/cell.png",
+                        "shape": "image",
+                        "width": 525,
+                        "x": 250,
+                        "y": 250
+                  },
+                  {
+                        "exp1": 1,
+                        "exp2": 2,
+                        "exp3": 4,
+                        "exp4": {
+                              "cl1": 2,
+                              "cl2": 4,
+                              "cl3": 3
+                        },
+                        "exp5": {
+                              "cl1": 12,
+                              "cl2": 1,
+                              "cl3": 5
+                        },
+                        "height": 40,
+                        "id": "Gene1",
+                        "imagePath": "https://www.canvasxpress.org/assets/images/prot.png",
+                        "shape": "image",
+                        "width": 40,
+                        "x": 155,
+                        "y": 160
+                  },
+                  {
+                        "color": "rgb(255,0,0)",
+                        "exp1": 2,
+                        "exp2": 4,
+                        "exp3": 1,
+                        "exp4": {
+                              "cl1": 7,
+                              "cl2": 1,
+                              "cl3": 8
+                        },
+                        "exp5": {
+                              "cl1": 1,
+                              "cl2": 11,
+                              "cl3": 8
+                        },
+                        "id": "Gene2",
+                        "shape": "sphere",
+                        "size": 1,
+                        "x": 155,
+                        "y": 340
+                  },
+                  {
+                        "color": "rgb(255,0,0)",
+                        "exp1": 1,
+                        "exp2": 5,
+                        "exp3": 1,
+                        "exp4": {
+                              "cl1": 12,
+                              "cl2": 4,
+                              "cl3": 8
+                        },
+                        "exp5": {
+                              "cl1": 3,
+                              "cl2": 7,
+                              "cl3": 5
+                        },
+                        "id": "Gene3",
+                        "shape": "sphere",
+                        "size": 1,
+                        "x": 355,
+                        "y": 160
+                  },
+                  {
+                        "color": "rgb(255,0,0)",
+                        "exp1": 4,
+                        "exp2": 2,
+                        "exp3": 1,
+                        "exp4": {
+                              "cl1": 1,
+                              "cl2": 14,
+                              "cl3": 7
+                        },
+                        "exp5": {
+                              "cl1": 2,
+                              "cl2": 1,
+                              "cl3": 15
+                        },
+                        "id": "Gene4",
+                        "label": "Receptor Gene4",
+                        "shape": "sphere",
+                        "size": 1,
+                        "x": 355,
+                        "y": 340
+                  },
+                  {
+                        "color": "rgb(255,0,0)",
+                        "exp1": 1,
+                        "exp2": 3,
+                        "exp3": 2,
+                        "exp4": {
+                              "cl1": 4,
+                              "cl2": 4,
+                              "cl3": 8
+                        },
+                        "exp5": {
+                              "cl1": 6,
+                              "cl2": 7,
+                              "cl3": 2
+                        },
+                        "height": 20,
+                        "id": "Gene5",
+                        "shape": "sphere",
+                        "width": 20,
+                        "x": 255,
+                        "y": 100
+                  },
+                  {
+                        "height": 40,
+                        "hideLabel": true,
+                        "id": "Met",
+                        "imagePath": "https://www.canvasxpress.org/assets/images/met.png",
+                        "shape": "image",
+                        "width": 40,
+                        "x": 255,
+                        "y": 400
+                  },
+                  {
+                        "exp1": 3,
+                        "exp2": 3,
+                        "exp3": 4,
+                        "exp4": {
+                              "cl1": 2,
+                              "cl2": 14,
+                              "cl3": 1
+                        },
+                        "exp5": {
+                              "cl1": 9,
+                              "cl2": 3,
+                              "cl3": 5
+                        },
+                        "height": 40,
+                        "id": "Gene7",
+                        "imagePath": "https://www.canvasxpress.org/assets/images/prot7.png",
+                        "shape": "image",
+                        "width": 40,
+                        "x": 50,
+                        "y": 250
+                  },
+                  {
+                        "height": 40,
+                        "hideLabel": true,
+                        "id": "DNA",
+                        "imagePath": "https://www.canvasxpress.org/assets/images/dna1.png",
+                        "shape": "image",
+                        "width": 40,
+                        "x": 450,
+                        "y": 250
+                  }
+            ]
+      },
+      "config": {
+            "calculateLayout": false,
+            "decorations": [
+                  "exp1",
+                  "exp2",
+                  "exp3"
+            ],
+            "decorationsPosition": "top",
+            "decorationsType": "bar",
+            "graphType": "Network",
+            "networkFreezeOnLoad": true,
+            "nodeFontColor": "rgb(29,34,43)",
+            "showAnimation": true,
+            "showDecorations": true,
+            "graphOrientation": "horizontal"
+      },
+      "events": {},
+      "info": false,
+      "afterRender": [
+            [
+                  "setDimensions",
+                  [
+                        596,
+                        596,
+                        true
+                  ]
+            ],
+            [
+                  "setDimensions",
+                  [
+                        800,
+                        800
+                  ],
+                  {},
+                  false,
+                  1791830736018
+            ]
+      ],
+      "noValidate": true,
+      "factory": {
+            "version": 71.3,
+            "specSchemaVersion": "1.0",
+            "buildDate": "10-11-2026",
+            "client": "MDo6MTo6NzEuMzo6Y2FudmFzeHByZXNzLm9yZzo6",
+            "siteSrc": false,
+            "href": "https://canvasxpress.org/examples/network-15.html",
+            "services": "https://www.canvasxpress.org/cgi-bin/services.py"
+      },
+      "system": {
+            "browser": "Chrome",
+            "browserVersion": "153",
+            "os": "Mac OS",
+            "alt": "&#8997;",
+            "command": "&#8984;",
+            "control": "&#8963;",
+            "shift": "&#8679;",
+            "isNode": false,
+            "isReact": false,
+            "isjQuery": true,
+            "isReveal": false,
+            "isZoom": false,
+            "isIE": false,
+            "isInIframe": false,
+            "isR": false,
+            "isHTMLWidgets": false,
+            "isShiny": false,
+            "isRViewer": false,
+            "isRConsole": false,
+            "isCxplot": false,
+            "isGGMatrix": false,
+            "isJupyter": false,
+            "isVSCode": false
+      }
+}

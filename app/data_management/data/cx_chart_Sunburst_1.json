@@ -1,0 +1,194 @@
+{
+      "version": 71.3,
+      "renderTo": "sunburst1",
+      "data": {
+            "x": {
+                  "Color": [
+                        "red",
+                        "blue",
+                        "green",
+                        "grey",
+                        "red",
+                        "blue",
+                        "green",
+                        "grey",
+                        "red",
+                        "blue",
+                        "green",
+                        "grey",
+                        "red",
+                        "blue",
+                        "green"
+                  ],
+                  "Month": [
+                        "Jan",
+                        "Feb",
+                        "Feb",
+                        "Feb",
+                        "Feb",
+                        "Mar",
+                        "Apr",
+                        "May",
+                        "Jun",
+                        "Jul",
+                        "Aug",
+                        "Sep",
+                        "Oct",
+                        "Nov",
+                        "Dec"
+                  ],
+                  "Quarter": [
+                        "1st",
+                        "1st",
+                        "1st",
+                        "1st",
+                        "1st",
+                        "1st",
+                        "2nd",
+                        "2nd",
+                        "2nd",
+                        "3rd",
+                        "3rd",
+                        "3rd",
+                        "4th",
+                        "4th",
+                        "4th"
+                  ],
+                  "Week": [
+                        null,
+                        "Week 1",
+                        "Week 2",
+                        "Week 3",
+                        "Week 4",
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                  ]
+            },
+            "y": {
+                  "data": [
+                        [
+                              3.5,
+                              1.2,
+                              0.8,
+                              0.6,
+                              0.5,
+                              1.7,
+                              1.1,
+                              0.8,
+                              0.3,
+                              0.7,
+                              0.6,
+                              0.1,
+                              0.5,
+                              0.4,
+                              0.3
+                        ]
+                  ],
+                  "smps": [
+                        "Sales1",
+                        "Sales2",
+                        "Sales3",
+                        "Sales4",
+                        "Sales5",
+                        "Sales6",
+                        "Sales7",
+                        "Sales8",
+                        "Sales9",
+                        "Sales10",
+                        "Sales11",
+                        "Sales12",
+                        "Sales13",
+                        "Sales14",
+                        "Sales15"
+                  ],
+                  "vars": [
+                        "Sales"
+                  ]
+            }
+      },
+      "config": {
+            "circularArc": 360,
+            "circularRotate": 0,
+            "circularType": "sunburst",
+            "colorBy": "Quarter",
+            "colorScheme": "Bootstrap",
+            "graphType": "Circular",
+            "hierarchy": [
+                  "Quarter",
+                  "Month",
+                  "Week"
+            ],
+            "objectBorderColor": "rgb(0,0,0)",
+            "showTransition": false,
+            "title": "Simple Sunburst",
+            "xAxis": [
+                  "Sales"
+            ],
+            "graphOrientation": "horizontal"
+      },
+      "events": {},
+      "info": false,
+      "afterRender": [
+            [
+                  "setDimensions",
+                  [
+                        596,
+                        596,
+                        true
+                  ]
+            ],
+            [
+                  "setDimensions",
+                  [
+                        800,
+                        800
+                  ],
+                  {},
+                  false,
+                  1791832189524
+            ]
+      ],
+      "noValidate": true,
+      "factory": {
+            "version": 71.3,
+            "specSchemaVersion": "1.0",
+            "buildDate": "10-11-2026",
+            "client": "MDo6MTo6NzEuMzo6Y2FudmFzeHByZXNzLm9yZzo6",
+            "siteSrc": false,
+            "href": "https://canvasxpress.org/examples/sunburst-1.html",
+            "services": "https://www.canvasxpress.org/cgi-bin/services.py"
+      },
+      "system": {
+            "browser": "Chrome",
+            "browserVersion": "153",
+            "os": "Mac OS",
+            "alt": "&#8997;",
+            "command": "&#8984;",
+            "control": "&#8963;",
+            "shift": "&#8679;",
+            "isNode": false,
+            "isReact": false,
+            "isjQuery": true,
+            "isReveal": false,
+            "isZoom": false,
+            "isIE": false,
+            "isInIframe": false,
+            "isR": false,
+            "isHTMLWidgets": false,
+            "isShiny": false,
+            "isRViewer": false,
+            "isRConsole": false,
+            "isCxplot": false,
+            "isGGMatrix": false,
+            "isJupyter": false,
+            "isVSCode": false
+      }
+}

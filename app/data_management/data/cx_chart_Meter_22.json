@@ -1,0 +1,193 @@
+{
+      "version": 71.3,
+      "renderTo": "meter22",
+      "data": {
+            "x": {
+                  "cyl": [
+                        "6-Cyl",
+                        "6-Cyl",
+                        "4-Cyl",
+                        "6-Cyl",
+                        "8-Cyl",
+                        "6-Cyl",
+                        "8-Cyl",
+                        "4-Cyl",
+                        "4-Cyl",
+                        "6-Cyl",
+                        "6-Cyl",
+                        "8-Cyl",
+                        "8-Cyl",
+                        "8-Cyl",
+                        "8-Cyl",
+                        "8-Cyl",
+                        "8-Cyl",
+                        "4-Cyl",
+                        "4-Cyl",
+                        "4-Cyl",
+                        "4-Cyl",
+                        "8-Cyl",
+                        "8-Cyl",
+                        "8-Cyl",
+                        "8-Cyl",
+                        "4-Cyl",
+                        "4-Cyl",
+                        "4-Cyl",
+                        "8-Cyl",
+                        "6-Cyl",
+                        "8-Cyl",
+                        "4-Cyl"
+                  ]
+            },
+            "y": {
+                  "vars": [
+                        "mpg"
+                  ],
+                  "smps": [
+                        "Mazda RX4",
+                        "Mazda RX4 Wag",
+                        "Datsun 710",
+                        "Hornet 4 Drive",
+                        "Hornet Sportabout",
+                        "Valiant",
+                        "Duster 360",
+                        "Merc 240D",
+                        "Merc 230",
+                        "Merc 280",
+                        "Merc 280C",
+                        "Merc 450SE",
+                        "Merc 450SL",
+                        "Merc 450SLC",
+                        "Cadillac Fleetwood",
+                        "Lincoln Continental",
+                        "Chrysler Imperial",
+                        "Fiat 128",
+                        "Honda Civic",
+                        "Toyota Corolla",
+                        "Toyota Corona",
+                        "Dodge Challenger",
+                        "AMC Javelin",
+                        "Camaro Z28",
+                        "Pontiac Firebird",
+                        "Fiat X1-9",
+                        "Porsche 914-2",
+                        "Lotus Europa",
+                        "Ford Pantera L",
+                        "Ferrari Dino",
+                        "Maserati Bora",
+                        "Volvo 142E"
+                  ],
+                  "data": [
+                        [
+                              21,
+                              21,
+                              22.8,
+                              21.4,
+                              18.7,
+                              18.1,
+                              14.3,
+                              24.4,
+                              22.8,
+                              19.2,
+                              17.8,
+                              16.4,
+                              17.3,
+                              15.2,
+                              10.4,
+                              10.4,
+                              14.7,
+                              32.4,
+                              30.4,
+                              33.9,
+                              21.5,
+                              15.5,
+                              15.2,
+                              13.3,
+                              19.2,
+                              27.3,
+                              26,
+                              30.4,
+                              15.8,
+                              19.7,
+                              15,
+                              21.4
+                        ]
+                  ]
+            }
+      },
+      "config": {
+            "graphType": "Meter",
+            "meterType": "ring",
+            "groupingFactors": [
+                  "cyl"
+            ],
+            "summaryType": "average",
+            "meterCard": true,
+            "meterVar": "mpg",
+            "xAxis": [
+                  "mpg"
+            ],
+            "rangeColors": [
+                  "rgb(239,83,80)",
+                  "rgb(255,167,38)",
+                  "rgb(102,187,106)"
+            ],
+            "graphOrientation": "horizontal"
+      },
+      "events": {},
+      "info": false,
+      "afterRender": [
+            [
+                  "setDimensions",
+                  [
+                        596,
+                        596,
+                        true
+                  ]
+            ],
+            [
+                  "setDimensions",
+                  [
+                        800,
+                        800
+                  ],
+                  {},
+                  false,
+                  1791830458998
+            ]
+      ],
+      "noValidate": true,
+      "factory": {
+            "version": 71.3,
+            "specSchemaVersion": "1.0",
+            "buildDate": "10-11-2026",
+            "client": "MDo6MTo6NzEuMzo6Y2FudmFzeHByZXNzLm9yZzo6",
+            "siteSrc": false,
+            "href": "https://canvasxpress.org/examples/meter-22.html",
+            "services": "https://www.canvasxpress.org/cgi-bin/services.py"
+      },
+      "system": {
+            "browser": "Chrome",
+            "browserVersion": "153",
+            "os": "Mac OS",
+            "alt": "&#8997;",
+            "command": "&#8984;",
+            "control": "&#8963;",
+            "shift": "&#8679;",
+            "isNode": false,
+            "isReact": false,
+            "isjQuery": true,
+            "isReveal": false,
+            "isZoom": false,
+            "isIE": false,
+            "isInIframe": false,
+            "isR": false,
+            "isHTMLWidgets": false,
+            "isShiny": false,
+            "isRViewer": false,
+            "isRConsole": false,
+            "isCxplot": false,
+            "isGGMatrix": false,
+            "isJupyter": false,
+            "isVSCode": false
+      }
+}

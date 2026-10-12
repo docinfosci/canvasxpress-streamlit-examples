@@ -1,0 +1,356 @@
+{
+      "version": 71.3,
+      "renderTo": "map24",
+      "data": {
+            "y": {
+                  "vars": [
+                        "ISL",
+                        "NOR",
+                        "SWE",
+                        "FIN",
+                        "EST",
+                        "LVA",
+                        "LTU",
+                        "DNK",
+                        "IRL",
+                        "GBR",
+                        "NLD",
+                        "BEL",
+                        "DEU",
+                        "POL",
+                        "CZE",
+                        "SVK",
+                        "AUT",
+                        "CHE",
+                        "FRA",
+                        "ESP",
+                        "PRT",
+                        "ITA",
+                        "HUN",
+                        "ROU",
+                        "BGR",
+                        "SRB",
+                        "GRC",
+                        "HRV",
+                        "SVN",
+                        "UKR",
+                        "BLR",
+                        "MDA",
+                        "ALB",
+                        "BIH",
+                        "MKD",
+                        "MNE",
+                        "LUX",
+                        "CYP",
+                        "LIE",
+                        "SMR",
+                        "MCO",
+                        "AND",
+                        "VAT",
+                        "MLT",
+                        "RUS",
+                        "GIB",
+                        "FRO",
+                        "JEY",
+                        "GGY",
+                        "IMN"
+                  ],
+                  "smps": [
+                        "Priority"
+                  ],
+                  "data": [
+                        [
+                              1
+                        ],
+                        [
+                              1
+                        ],
+                        [
+                              1
+                        ],
+                        [
+                              1
+                        ],
+                        [
+                              1
+                        ],
+                        [
+                              1
+                        ],
+                        [
+                              1
+                        ],
+                        [
+                              1
+                        ],
+                        [
+                              1
+                        ],
+                        [
+                              1
+                        ],
+                        [
+                              1
+                        ],
+                        [
+                              1
+                        ],
+                        [
+                              1
+                        ],
+                        [
+                              1
+                        ],
+                        [
+                              1
+                        ],
+                        [
+                              1
+                        ],
+                        [
+                              1
+                        ],
+                        [
+                              1
+                        ],
+                        [
+                              1
+                        ],
+                        [
+                              1
+                        ],
+                        [
+                              1
+                        ],
+                        [
+                              1
+                        ],
+                        [
+                              1
+                        ],
+                        [
+                              1
+                        ],
+                        [
+                              1
+                        ],
+                        [
+                              1
+                        ],
+                        [
+                              1
+                        ],
+                        [
+                              1
+                        ],
+                        [
+                              1
+                        ],
+                        [
+                              1
+                        ],
+                        [
+                              1
+                        ],
+                        [
+                              1
+                        ],
+                        [
+                              1
+                        ],
+                        [
+                              1
+                        ],
+                        [
+                              1
+                        ],
+                        [
+                              1
+                        ],
+                        [
+                              1
+                        ],
+                        [
+                              1
+                        ],
+                        [
+                              1
+                        ],
+                        [
+                              1
+                        ],
+                        [
+                              1
+                        ],
+                        [
+                              1
+                        ],
+                        [
+                              1
+                        ],
+                        [
+                              1
+                        ],
+                        [
+                              1
+                        ],
+                        [
+                              1
+                        ],
+                        [
+                              1
+                        ],
+                        [
+                              1
+                        ],
+                        [
+                              1
+                        ],
+                        [
+                              1
+                        ]
+                  ]
+            },
+            "z": {
+                  "Group": [
+                        "Care-home residents",
+                        "Care-home residents",
+                        "Care-home residents",
+                        "Health-care staff",
+                        "Health-care staff",
+                        "Health-care staff",
+                        "Health-care staff",
+                        "Care-home residents",
+                        "Care-home residents",
+                        "Care-home residents",
+                        "Campaign planned",
+                        "Care-home residents",
+                        "Care-home residents",
+                        "Health-care staff",
+                        "Essential workers",
+                        "Health-care staff",
+                        "Care-home residents",
+                        "Care-home residents",
+                        "Care-home residents",
+                        "Care-home residents",
+                        "Health-care staff",
+                        "Health-care staff",
+                        "Health-care staff",
+                        "Health-care staff",
+                        "Essential workers",
+                        "Essential workers",
+                        "Health-care staff",
+                        "Care-home residents",
+                        "Care-home residents",
+                        "Not yet available",
+                        "Not yet available",
+                        "Not yet available",
+                        "Not yet available",
+                        "Not yet available",
+                        "Not yet available",
+                        "Not yet available",
+                        "Campaign planned",
+                        "Health-care staff",
+                        "Not yet available",
+                        "Not yet available",
+                        "Not yet available",
+                        "Not yet available",
+                        "Not yet available",
+                        "Not yet available",
+                        "Not yet available",
+                        "Not yet available",
+                        "Not yet available",
+                        "Not yet available",
+                        "Not yet available",
+                        "Not yet available"
+                  ]
+            }
+      },
+      "config": {
+            "graphType": "Map",
+            "topoJSON": "https://www.canvasxpress.org/data/maps/EUROPE.json",
+            "mapId": "europeGroups",
+            "theme": "minimal",
+            "colorBy": "Group",
+            "colorScheme": "User",
+            "colors": [
+                  "#cc6677",
+                  "#332288",
+                  "#44aa99",
+                  "#ddcc77",
+                  "#dddddd"
+            ],
+            "legendOrder": {
+                  "Group": [
+                        "Care-home residents",
+                        "Essential workers",
+                        "Health-care staff",
+                        "Campaign planned",
+                        "Not yet available"
+                  ]
+            },
+            "legendPosition": "topRight",
+            "legendInside": true,
+            "title": "Who gets the first dose?",
+            "subtitle": "Invented priority groups by country",
+            "source": "Synthetic data for illustration",
+            "graphOrientation": "horizontal"
+      },
+      "events": {},
+      "info": false,
+      "afterRender": [
+            [
+                  "setDimensions",
+                  [
+                        636,
+                        502,
+                        true
+                  ]
+            ],
+            [
+                  "setDimensions",
+                  [
+                        800,
+                        800
+                  ],
+                  {},
+                  false,
+                  1791830186306
+            ]
+      ],
+      "noValidate": true,
+      "factory": {
+            "version": 71.3,
+            "specSchemaVersion": "1.0",
+            "buildDate": "10-11-2026",
+            "client": "MDo6MTo6NzEuMzo6Y2FudmFzeHByZXNzLm9yZzo6",
+            "siteSrc": false,
+            "href": "https://canvasxpress.org/examples/map-24.html",
+            "services": "https://www.canvasxpress.org/cgi-bin/services.py"
+      },
+      "system": {
+            "browser": "Chrome",
+            "browserVersion": "153",
+            "os": "Mac OS",
+            "alt": "&#8997;",
+            "command": "&#8984;",
+            "control": "&#8963;",
+            "shift": "&#8679;",
+            "isNode": false,
+            "isReact": false,
+            "isjQuery": true,
+            "isReveal": false,
+            "isZoom": false,
+            "isIE": false,
+            "isInIframe": false,
+            "isR": false,
+            "isHTMLWidgets": false,
+            "isShiny": false,
+            "isRViewer": false,
+            "isRConsole": false,
+            "isCxplot": false,
+            "isGGMatrix": false,
+            "isJupyter": false,
+            "isVSCode": false
+      }
+}

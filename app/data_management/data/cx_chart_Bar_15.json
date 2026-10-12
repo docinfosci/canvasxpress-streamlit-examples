@@ -1,0 +1,132 @@
+{
+      "version": 71.3,
+      "renderTo": "bar15",
+      "data": {
+            "y": {
+                  "data": [
+                        [
+                              1,
+                              3,
+                              5,
+                              3,
+                              3,
+                              4,
+                              10,
+                              17,
+                              11,
+                              3
+                        ]
+                  ],
+                  "smps": [
+                        "30s",
+                        "40s",
+                        "50s",
+                        "60s",
+                        "70s",
+                        "80s",
+                        "90s",
+                        "00s",
+                        "10s",
+                        "20s"
+                  ],
+                  "vars": [
+                        "Total"
+                  ]
+            }
+      },
+      "config": {
+            "backgroundType": "solid",
+            "colorScheme": "Blues",
+            "colors": [
+                  "rgb(75,179,216)"
+            ],
+            "fontName": "Waltograph",
+            "fontsExternal": [
+                  {
+                        "name": "Waltograph",
+                        "url": "https://www.canvasxpress.org/assets/fonts/waltograph42.otf"
+                  }
+            ],
+            "graphOrientation": "vertical",
+            "graphType": "Bar",
+            "marginBottom": 50,
+            "marginLeft": 50,
+            "marginRight": 50,
+            "marginTop": 50,
+            "maxTextSize": 80,
+            "objectBorderColor": "rgba(255,255,255,0)",
+            "plotBackgroundColor": "rgb(48,114,148)",
+            "showLegend": false,
+            "smpTextColor": "rgb(255,255,255)",
+            "smpTextRotate": 90,
+            "smpTextScaleFontFactor": 1.5,
+            "title": "Animation Movies",
+            "titleAlign": "center",
+            "titleColor": "rgb(255,255,255)",
+            "titleScaleFontFactor": 2.5,
+            "xAxis": [
+                  "Total"
+            ],
+            "xAxisShow": false,
+            "xAxis2Show": false,
+            "xAxisGridMajorShow": false,
+            "xAxisGridMinorShow": false
+      },
+      "events": {},
+      "info": false,
+      "afterRender": [
+            [
+                  "setDimensions",
+                  [
+                        596,
+                        546,
+                        true
+                  ]
+            ],
+            [
+                  "setDimensions",
+                  [
+                        800,
+                        800
+                  ],
+                  {},
+                  false,
+                  1791827573918
+            ]
+      ],
+      "noValidate": true,
+      "factory": {
+            "version": 71.3,
+            "specSchemaVersion": "1.0",
+            "buildDate": "10-11-2026",
+            "client": "MDo6MTo6NzEuMzo6Y2FudmFzeHByZXNzLm9yZzo6",
+            "siteSrc": false,
+            "href": "https://canvasxpress.org/examples/bar-15.html",
+            "services": "https://www.canvasxpress.org/cgi-bin/services.py"
+      },
+      "system": {
+            "browser": "Chrome",
+            "browserVersion": "153",
+            "os": "Mac OS",
+            "alt": "&#8997;",
+            "command": "&#8984;",
+            "control": "&#8963;",
+            "shift": "&#8679;",
+            "isNode": false,
+            "isReact": false,
+            "isjQuery": true,
+            "isReveal": false,
+            "isZoom": false,
+            "isIE": false,
+            "isInIframe": false,
+            "isR": false,
+            "isHTMLWidgets": false,
+            "isShiny": false,
+            "isRViewer": false,
+            "isRConsole": false,
+            "isCxplot": false,
+            "isGGMatrix": false,
+            "isJupyter": false,
+            "isVSCode": false
+      }
+}

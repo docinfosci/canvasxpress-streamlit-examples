@@ -1,0 +1,450 @@
+{
+      "version": 71.3,
+      "renderTo": "network14",
+      "data": {
+            "edges": [
+                  {
+                        "color": "rgb(51,12,255)",
+                        "id1": "Gene1",
+                        "id2": "Gene2",
+                        "type": "line",
+                        "id": "Gene1 -> Gene2"
+                  },
+                  {
+                        "color": "rgb(51,12,152)",
+                        "id1": "SNP1",
+                        "id2": "PH1",
+                        "type": "line",
+                        "id": "SNP1 -> PH1"
+                  },
+                  {
+                        "color": "rgb(51,12,255)",
+                        "id1": "Gene2",
+                        "id2": "Gene7",
+                        "type": "line",
+                        "id": "Gene2 -> Gene7"
+                  },
+                  {
+                        "color": "rgb(51,12,255)",
+                        "id1": "Gene2",
+                        "id2": "Gene8",
+                        "type": "line",
+                        "id": "Gene2 -> Gene8"
+                  },
+                  {
+                        "color": "rgb(51,12,255)",
+                        "id1": "Gene1",
+                        "id2": "Gene3",
+                        "type": "line",
+                        "id": "Gene1 -> Gene3"
+                  },
+                  {
+                        "color": "rgb(51,12,152)",
+                        "id1": "SNP4",
+                        "id2": "PH4",
+                        "type": "line",
+                        "id": "SNP4 -> PH4"
+                  },
+                  {
+                        "color": "rgb(102,12,152)",
+                        "id1": "PH1",
+                        "id2": "PH1a",
+                        "type": "line",
+                        "id": "PH1 -> PH1a"
+                  },
+                  {
+                        "color": "rgb(102,12,152)",
+                        "id1": "PH1",
+                        "id2": "PH1b",
+                        "type": "line",
+                        "id": "PH1 -> PH1b"
+                  },
+                  {
+                        "color": "rgb(51,12,255)",
+                        "id1": "Gene4",
+                        "id2": "SNP3",
+                        "type": "line",
+                        "id": "Gene4 -> SNP3"
+                  },
+                  {
+                        "color": "rgb(51,12,255)",
+                        "id1": "Gene6",
+                        "id2": "SNP4",
+                        "type": "line",
+                        "id": "Gene6 -> SNP4"
+                  },
+                  {
+                        "color": "rgb(51,12,152)",
+                        "id1": "PH2",
+                        "id2": "PH2a",
+                        "type": "line",
+                        "id": "PH2 -> PH2a"
+                  },
+                  {
+                        "color": "rgb(102,12,152)",
+                        "id1": "PH2",
+                        "id2": "PH2b",
+                        "type": "line",
+                        "id": "PH2 -> PH2b"
+                  },
+                  {
+                        "color": "rgb(51,12,255)",
+                        "id1": "Gene6",
+                        "id2": "SNP5",
+                        "type": "line",
+                        "id": "Gene6 -> SNP5"
+                  },
+                  {
+                        "color": "rgb(51,12,255)",
+                        "id1": "Gene7",
+                        "id2": "SNP6",
+                        "type": "line",
+                        "id": "Gene7 -> SNP6"
+                  },
+                  {
+                        "color": "rgb(51,12,255)",
+                        "id1": "SNP6",
+                        "id2": "SNP7",
+                        "type": "line",
+                        "id": "SNP6 -> SNP7"
+                  },
+                  {
+                        "color": "rgb(51,12,255)",
+                        "id1": "Gene1",
+                        "id2": "Gene4",
+                        "type": "line",
+                        "id": "Gene1 -> Gene4"
+                  },
+                  {
+                        "color": "rgb(51,12,255)",
+                        "id1": "Gene1",
+                        "id2": "Gene5",
+                        "type": "line",
+                        "id": "Gene1 -> Gene5"
+                  },
+                  {
+                        "color": "rgb(51,12,255)",
+                        "id1": "SNP7",
+                        "id2": "Gene6",
+                        "type": "line",
+                        "id": "SNP7 -> Gene6"
+                  },
+                  {
+                        "color": "rgb(153,12,255)",
+                        "id1": "SNP6",
+                        "id2": "SNP8",
+                        "type": "line",
+                        "id": "SNP6 -> SNP8"
+                  },
+                  {
+                        "color": "rgb(51,12,255)",
+                        "id1": "Gene3",
+                        "id2": "SNP1",
+                        "type": "line",
+                        "id": "Gene3 -> SNP1"
+                  },
+                  {
+                        "color": "rgb(51,12,255)",
+                        "id1": "Gene3",
+                        "id2": "SNP2",
+                        "type": "line",
+                        "id": "Gene3 -> SNP2"
+                  },
+                  {
+                        "color": "rgb(153,12,255)",
+                        "id1": "SNP2",
+                        "id2": "PH2",
+                        "type": "line",
+                        "id": "SNP2 -> PH2"
+                  },
+                  {
+                        "color": "rgb(51,12,152)",
+                        "id1": "SNP3",
+                        "id2": "PH3",
+                        "type": "line",
+                        "id": "SNP3 -> PH3"
+                  },
+                  {
+                        "color": "rgb(102,12,152)",
+                        "id1": "PH2b",
+                        "id2": "PH2ba",
+                        "type": "line",
+                        "id": "PH2b -> PH2ba"
+                  }
+            ],
+            "nodes": [
+                  {
+                        "color": "rgb(255,0,0)",
+                        "id": "Gene1",
+                        "shape": "square",
+                        "x": 284,
+                        "y": 271,
+                        "z": 0
+                  },
+                  {
+                        "color": "rgb(255,0,0)",
+                        "id": "Gene2",
+                        "shape": "square",
+                        "x": 316.7943937855678,
+                        "y": 407.59848089528015,
+                        "z": 0
+                  },
+                  {
+                        "color": "rgb(255,0,0)",
+                        "id": "Gene3",
+                        "shape": "square",
+                        "x": 150.3956251152399,
+                        "y": 227.58930709705638,
+                        "z": 0
+                  },
+                  {
+                        "color": "rgb(255,0,0)",
+                        "id": "Gene4",
+                        "shape": "square",
+                        "x": 327.4106929029435,
+                        "y": 137.39562511524014,
+                        "z": 0
+                  },
+                  {
+                        "color": "rgb(255,0,0)",
+                        "id": "Gene5",
+                        "shape": "square",
+                        "x": 397.65066949509,
+                        "y": 188.42795527553548,
+                        "z": 0
+                  },
+                  {
+                        "color": "rgb(255,0,0)",
+                        "id": "Gene6",
+                        "shape": "square",
+                        "x": 952.0218744237997,
+                        "y": 488.0534645147177,
+                        "z": 0
+                  },
+                  {
+                        "color": "rgb(255,0,0)",
+                        "id": "Gene7",
+                        "shape": "square",
+                        "x": 482.6686550347646,
+                        "y": 469.6686550347646,
+                        "z": 0
+                  },
+                  {
+                        "color": "rgb(255,0,0)",
+                        "id": "Gene8",
+                        "shape": "square",
+                        "x": 197.17861419411298,
+                        "y": 538.2087497695197,
+                        "z": 0
+                  },
+                  {
+                        "color": "rgb(0,255,0)",
+                        "id": "SNP1",
+                        "shape": "sphere",
+                        "x": 16.791250230480102,
+                        "y": 357.8213858058871,
+                        "z": 0
+                  },
+                  {
+                        "color": "rgb(0,255,0)",
+                        "id": "SNP2",
+                        "shape": "sphere",
+                        "x": 118.85591055107102,
+                        "y": 43.698661009819915,
+                        "z": 0
+                  },
+                  {
+                        "color": "rgb(0,255,0)",
+                        "id": "SNP3",
+                        "shape": "sphere",
+                        "x": 370.82138580588696,
+                        "y": 3.791250230480216,
+                        "z": 0
+                  },
+                  {
+                        "color": "rgb(0,255,0)",
+                        "id": "SNP4",
+                        "shape": "sphere",
+                        "x": 1126.8797191057579,
+                        "y": 271,
+                        "z": 0
+                  },
+                  {
+                        "color": "rgb(0,255,0)",
+                        "id": "SNP5",
+                        "shape": "sphere",
+                        "x": 965.9040169705402,
+                        "y": 766.4322683467867,
+                        "z": 0
+                  },
+                  {
+                        "color": "rgb(0,255,0)",
+                        "id": "SNP6",
+                        "shape": "sphere",
+                        "x": 582.0029825521469,
+                        "y": 569.0029825521469,
+                        "z": 0
+                  },
+                  {
+                        "color": "rgb(0,255,0)",
+                        "id": "SNP7",
+                        "shape": "sphere",
+                        "x": 818.4174995390398,
+                        "y": 444.64277161177415,
+                        "z": 0
+                  },
+                  {
+                        "color": "rgb(0,255,0)",
+                        "id": "SNP8",
+                        "shape": "sphere",
+                        "x": 457.64277161177415,
+                        "y": 805.4174995390398,
+                        "z": 0
+                  },
+                  {
+                        "color": "rgb(0,255,255)",
+                        "id": "PH1",
+                        "shape": "star",
+                        "x": -116.81312465427993,
+                        "y": 401.2320787088307,
+                        "z": 0
+                  },
+                  {
+                        "color": "rgb(0,255,255)",
+                        "id": "PH1a",
+                        "parentNode": "PH1",
+                        "shape": "star",
+                        "x": -170.60267798036006,
+                        "y": 601.288178897858,
+                        "z": 0
+                  },
+                  {
+                        "color": "rgb(0,255,255)",
+                        "id": "PH1b",
+                        "parentNode": "PH1",
+                        "shape": "star",
+                        "x": -277.9198127371719,
+                        "y": 271.00000000000006,
+                        "z": 0
+                  },
+                  {
+                        "color": "rgb(0,255,255)",
+                        "id": "PH2",
+                        "shape": "star",
+                        "x": 36.28386582660656,
+                        "y": -69.95200848527008,
+                        "z": 0
+                  },
+                  {
+                        "color": "rgb(0,255,255)",
+                        "id": "PH2a",
+                        "parentNode": "PH2",
+                        "shape": "star",
+                        "x": -170.60267798036023,
+                        "y": -59.28817889785779,
+                        "z": 0
+                  },
+                  {
+                        "color": "rgb(0,255,255)",
+                        "id": "PH2b",
+                        "parentNode": "PH2",
+                        "shape": "star",
+                        "x": 110.35722838822576,
+                        "y": -263.4174995390398,
+                        "z": 0
+                  },
+                  {
+                        "color": "rgb(0,255,255)",
+                        "id": "PH2ba",
+                        "parentNode": "PH2b",
+                        "shape": "star",
+                        "x": 66.94653548528217,
+                        "y": -397.0218744237998,
+                        "z": 0
+                  },
+                  {
+                        "color": "rgb(0,255,255)",
+                        "id": "PH3",
+                        "shape": "star",
+                        "x": 414.2320787088305,
+                        "y": -129.81312465427982,
+                        "z": 0
+                  },
+                  {
+                        "color": "rgb(0,255,255)",
+                        "id": "PH4",
+                        "shape": "star",
+                        "x": 1267.3596722900509,
+                        "y": 271,
+                        "z": 0
+                  }
+            ]
+      },
+      "config": {
+            "graphType": "Network",
+            "networkLayoutType": "radial",
+            "nodeFontColor": "rgb(29,34,43)",
+            "nodeScaleFontFactor": 2,
+            "showAnimation": true,
+            "title": "Radial Network",
+            "graphOrientation": "horizontal",
+            "calculateLayout": false
+      },
+      "events": {},
+      "info": false,
+      "afterRender": [
+            [
+                  "setDimensions",
+                  [
+                        596,
+                        596,
+                        true
+                  ]
+            ],
+            [
+                  "setDimensions",
+                  [
+                        800,
+                        800
+                  ],
+                  {},
+                  false,
+                  1791830720427
+            ]
+      ],
+      "noValidate": true,
+      "factory": {
+            "version": 71.3,
+            "specSchemaVersion": "1.0",
+            "buildDate": "10-11-2026",
+            "client": "MDo6MTo6NzEuMzo6Y2FudmFzeHByZXNzLm9yZzo6",
+            "siteSrc": false,
+            "href": "https://canvasxpress.org/examples/network-14.html",
+            "services": "https://www.canvasxpress.org/cgi-bin/services.py"
+      },
+      "system": {
+            "browser": "Chrome",
+            "browserVersion": "153",
+            "os": "Mac OS",
+            "alt": "&#8997;",
+            "command": "&#8984;",
+            "control": "&#8963;",
+            "shift": "&#8679;",
+            "isNode": false,
+            "isReact": false,
+            "isjQuery": true,
+            "isReveal": false,
+            "isZoom": false,
+            "isIE": false,
+            "isInIframe": false,
+            "isR": false,
+            "isHTMLWidgets": false,
+            "isShiny": false,
+            "isRViewer": false,
+            "isRConsole": false,
+            "isCxplot": false,
+            "isGGMatrix": false,
+            "isJupyter": false,
+            "isVSCode": false
+      }
+}

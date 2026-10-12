@@ -1,0 +1,155 @@
+{
+      "version": 71.3,
+      "renderTo": "dumbbell10",
+      "data": {
+            "y": {
+                  "vars": [
+                        "Minimum (CTmin)",
+                        "Optimum",
+                        "Maximum (CTmax)"
+                  ],
+                  "smps": [
+                        "Clownfish",
+                        "Blue tang",
+                        "Parrotfish",
+                        "Moray eel",
+                        "Lionfish",
+                        "Damselfish",
+                        "Butterflyfish",
+                        "Grouper",
+                        "Wrasse",
+                        "Goby",
+                        "Seahorse",
+                        "Pufferfish"
+                  ],
+                  "data": [
+                        [
+                              19.5,
+                              18.2,
+                              17,
+                              15.8,
+                              14.9,
+                              16.4,
+                              18.8,
+                              14.2,
+                              13.5,
+                              12.1,
+                              15,
+                              16.2
+                        ],
+                        [
+                              27.5,
+                              26,
+                              25.1,
+                              24,
+                              23.2,
+                              25.5,
+                              26.8,
+                              22.4,
+                              21.5,
+                              20,
+                              22.8,
+                              24.4
+                        ],
+                        [
+                              34,
+                              33.1,
+                              33.4,
+                              32.2,
+                              31,
+                              32.8,
+                              33.6,
+                              31.2,
+                              30,
+                              29.4,
+                              29.8,
+                              32
+                        ]
+                  ]
+            }
+      },
+      "config": {
+            "graphType": "Dumbbell",
+            "dumbbellType": "connected",
+            "theme": "classic",
+            "colorScheme": "User",
+            "colors": [
+                  "#56B4E9",
+                  "#555555",
+                  "#E69F00"
+            ],
+            "title": "Reef fish tolerate a narrower warm range than a cold one",
+            "subtitle": "Thermal limits and optimum of twelve reef fish species, in \u00b0C",
+            "xAxisTitle": "Temperature (\u00b0C)",
+            "sortDir": "ascending",
+            "sortBy": "Maximum (CTmax)",
+            "xAxis": [
+                  "Minimum (CTmin)",
+                  "Optimum",
+                  "Maximum (CTmax)"
+            ],
+            "legendPosition": "top",
+            "dataPointSizeScaleFactor": 2.2,
+            "smpTitleFontStyle": "bold",
+            "citation": "Source: synthetic data for illustration",
+            "graphOrientation": "horizontal",
+            "dotplotType": "normal"
+      },
+      "events": {},
+      "info": false,
+      "afterRender": [
+            [
+                  "setDimensions",
+                  [
+                        636,
+                        435,
+                        true
+                  ]
+            ],
+            [
+                  "setDimensions",
+                  [
+                        800,
+                        800
+                  ],
+                  {},
+                  false,
+                  1791828849301
+            ]
+      ],
+      "noValidate": true,
+      "factory": {
+            "version": 71.3,
+            "specSchemaVersion": "1.0",
+            "buildDate": "10-11-2026",
+            "client": "MDo6MTo6NzEuMzo6Y2FudmFzeHByZXNzLm9yZzo6",
+            "siteSrc": false,
+            "href": "https://canvasxpress.org/examples/dumbbell-10.html",
+            "services": "https://www.canvasxpress.org/cgi-bin/services.py"
+      },
+      "system": {
+            "browser": "Chrome",
+            "browserVersion": "153",
+            "os": "Mac OS",
+            "alt": "&#8997;",
+            "command": "&#8984;",
+            "control": "&#8963;",
+            "shift": "&#8679;",
+            "isNode": false,
+            "isReact": false,
+            "isjQuery": true,
+            "isReveal": false,
+            "isZoom": false,
+            "isIE": false,
+            "isInIframe": false,
+            "isR": false,
+            "isHTMLWidgets": false,
+            "isShiny": false,
+            "isRViewer": false,
+            "isRConsole": false,
+            "isCxplot": false,
+            "isGGMatrix": false,
+            "isJupyter": false,
+            "isVSCode": false
+      }
+}
