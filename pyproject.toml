@@ -1,0 +1,38 @@
+[project]
+name = "canvasxpress-streamlit-examples"
+version = "1.0.0"
+description = "CanvasXpress Streamlit Example App"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "streamlit>=1.1.0",
+    "canvasxpress[streamlit]>=2024.9.1.2136",
+    "python-dotenv>=1.0.1",
+    "schedule>=1.2.2",
+    "requests>=2.31",
+    "pandas>=3.0.5",
+]
+
+[project.optional-dependencies]
+dev = [
+    "invoke>=2.2.0",
+    "setuptools>=69.5.1",
+    "pytest>=8.0",
+    "ruff>=0.16.6",
+]
+
+[tool.ruff]
+line-length = 88
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "N", "W", "B", "C4", "UP"]
+ignore = ["E501"]
+
+[build-system]
+requires = ["setuptools>=69.5.1"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["app*"]
+exclude = ["skills*", "node_modules*", "tests*"]
